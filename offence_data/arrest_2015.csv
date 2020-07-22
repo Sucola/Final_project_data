@@ -1,507 +1,503 @@
-State,Area,Var.3,Population,Violent.crime1,Murder.and.nonnegligent.manslaughter,Rape2,Robbery,Aggravated.assault,Property.crime,Burglary,Larceny.theft,Motor.vehicle.theft
-ALABAMA,Metropolitan Statistical Area,,"3,709,622",,,,,,,,,
-ALABAMA,Metropolitan Statistical Area,Area actually reporting,94.3%,"20,207",322,"1,530","3,608","14,747","108,373","22,178","75,625","10,570"
-ALABAMA,Metropolitan Statistical Area,Estimated total,100.0%,"20,570",324,"1,546","3,649","15,051","110,384","22,615","77,059","10,710"
-ALABAMA,Cities outside metropolitan areas,,"531,555",,,,,,,,,
-ALABAMA,ALABAMA,Area actually reporting,93.1%,"3,477",40,242,312,"2,883","19,161","3,685","13,976","1,500"
-ALABAMA,ALABAMA,Estimated total,100.0%,"3,644",40,242,316,"3,046","19,996","3,817","14,634","1,545"
-ALABAMA,Nonmetropolitan counties,,"646,694",,,,,,,,,
-ALABAMA,ALABAMA,Area actually reporting,91.9%,"1,090",17,203,68,802,"6,737","2,238","3,710",789
-ALABAMA,ALABAMA,Estimated total,100.0%,"1,185",19,208,111,847,"7,320","2,409","4,054",857
-ALABAMA,State Total,,"4,887,871","25,399",383,"1,996","4,076","18,944","137,700","28,841","95,747","13,112"
-ALABAMA,ALABAMA,"Rate per 100,000 inhabitants",,519.6,7.8,40.8,83.4,387.6,"2,817.2",590.1,"1,958.9",268.3
-ALASKA,Metropolitan Statistical Area,,"343,648",,,,,,,,,
-ALASKA,Metropolitan Statistical Area,Area actually reporting,100.0%,"4,127",30,645,772,"2,680","17,021","2,293","11,560","3,168"
-ALASKA,Cities outside metropolitan areas,,"127,692",,,,,,,,,
-ALASKA,ALASKA,Area actually reporting,97.1%,994,5,199,77,713,"4,119",642,"3,128",349
-ALASKA,ALASKA,Estimated total,100.0%,"1,012",5,203,77,727,"4,164",646,"3,165",353
-ALASKA,Nonmetropolitan counties,,"266,098",,,,,,,,,
-ALASKA,ALASKA,Area actually reporting,100.0%,"1,387",12,344,47,984,"3,154","1,040","1,639",475
-ALASKA,State Total,,"737,438","6,526",47,"1,192",896,"4,391","24,339","3,979","16,364","3,996"
-ALASKA,ALASKA,"Rate per 100,000 inhabitants",,885.0,6.4,161.6,121.5,595.4,"3,300.5",539.6,"2,219.0",541.9
-ARIZONA,Metropolitan Statistical Area,,"6,820,581",,,,,,,,,
-ARIZONA,Metropolitan Statistical Area,Area actually reporting,99.3%,"28,938",325,"3,297","6,409","18,907","183,308","29,518","135,712","18,078"
-ARIZONA,Metropolitan Statistical Area,Estimated total,100.0%,"29,054",326,"3,314","6,448","18,966","184,427","29,730","136,514","18,183"
-ARIZONA,Cities outside metropolitan areas,,"124,445",,,,,,,,,
-ARIZONA,ARIZONA,Area actually reporting,96.3%,"4,684",38,313,55,"4,278","5,937","1,326","3,847",764
-ARIZONA,ARIZONA,Estimated total,100.0%,"4,707",38,313,55,"4,301","6,057","1,345","3,944",768
-ARIZONA,Nonmetropolitan counties,,"226,620",,,,,,,,,
-ARIZONA,ARIZONA,Area actually reporting,100.0%,297,5,11,20,261,"1,490",457,845,188
-ARIZONA,State Total,,"7,171,646","34,058",369,"3,638","6,523","23,528","191,974","31,532","141,303","19,139"
-ARIZONA,ARIZONA,"Rate per 100,000 inhabitants",,474.9,5.1,50.7,91.0,328.1,"2,676.8",439.7,"1,970.3",266.9
-ARKANSAS,Metropolitan Statistical Area,,"1,902,947",,,,,,,,,
-ARKANSAS,Metropolitan Statistical Area,Area actually reporting,99.7%,"11,659",150,"1,420","1,266","8,823","61,777","12,699","43,799","5,279"
-ARKANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"11,690",150,"1,423","1,270","8,847","61,850","12,731","43,826","5,293"
-ARKANSAS,Cities outside metropolitan areas,,"504,175",,,,,,,,,
-ARKANSAS,ARKANSAS,Area actually reporting,91.1%,"2,590",39,396,252,"1,903","16,156","3,944","11,238",974
-ARKANSAS,ARKANSAS,Estimated total,100.0%,"2,833",40,406,289,"2,098","17,899","4,394","12,465","1,040"
-ARKANSAS,Nonmetropolitan counties,,"606,703",,,,,,,,,
-ARKANSAS,ARKANSAS,Area actually reporting,84.9%,"1,782",26,361,35,"1,360","7,137","1,870","4,507",760
-ARKANSAS,ARKANSAS,Estimated total,100.0%,"1,861",26,367,35,"1,433","8,044","2,068","5,196",780
-ARKANSAS,State Total,,"3,013,825","16,384",216,"2,196","1,594","12,378","87,793","19,193","61,487","7,113"
-ARKANSAS,ARKANSAS,"Rate per 100,000 inhabitants",,543.6,7.2,72.9,52.9,410.7,"2,913.0",636.8,"2,040.2",236.0
-CALIFORNIA,Metropolitan Statistical Area,,"38,726,576",,,,,,,,,
-CALIFORNIA,Metropolitan Statistical Area,Area actually reporting,99.9%,"173,383","1,684","15,067","53,895","102,737","925,205","160,267","611,972","152,966"
-CALIFORNIA,Metropolitan Statistical Area,Estimated total,100.0%,"173,393","1,684","15,067","53,895","102,747","925,308","160,286","612,051","152,971"
-CALIFORNIA,Cities outside metropolitan areas,,"265,831",,,,,,,,,
-CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"1,536",14,174,245,"1,103","8,198","1,633","5,615",950
-CALIFORNIA,Nonmetropolitan counties,,"564,638",,,,,,,,,
-CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"2,053",41,264,186,"1,562","8,112","2,713","4,109","1,290"
-CALIFORNIA,State Total,,"39,557,045","176,982","1,739","15,505","54,326","105,412","941,618","164,632","621,775","155,211"
-CALIFORNIA,CALIFORNIA,"Rate per 100,000 inhabitants",,447.4,4.4,39.2,137.3,266.5,"2,380.4",416.2,"1,571.8",392.4
-COLORADO,Metropolitan Statistical Area,,"4,986,493",,,,,,,,,
-COLORADO,Metropolitan Statistical Area,Area actually reporting,95.1%,"20,718",191,"3,670","3,670","13,187","138,757","19,300","98,778","20,679"
-COLORADO,Metropolitan Statistical Area,Estimated total,100.0%,"20,778",191,"3,684","3,687","13,216","139,506","19,331","99,444","20,731"
-COLORADO,Cities outside metropolitan areas,,"339,737",,,,,,,,,
-COLORADO,COLORADO,Area actually reporting,94.9%,"1,058",5,233,55,765,"9,108","1,172","7,386",550
-COLORADO,COLORADO,Estimated total,100.0%,"1,090",5,234,70,781,"9,462","1,224","7,682",556
-COLORADO,Nonmetropolitan counties,,"369,334",,,,,,,,,
-COLORADO,COLORADO,Area actually reporting,91.5%,718,14,144,15,545,"2,952",774,"1,860",318
-COLORADO,COLORADO,Estimated total,100.0%,756,14,152,40,550,"3,195",816,"1,993",386
-COLORADO,State Total,,"5,695,564","22,624",210,"4,070","3,797","14,547","152,163","21,371","109,119","21,673"
-COLORADO,COLORADO,"Rate per 100,000 inhabitants",,397.2,3.7,71.5,66.7,255.4,"2,671.6",375.2,"1,915.9",380.5
-CONNECTICUT,Metropolitan Statistical Area,,"2,980,253",,,,,,,,,
-CONNECTICUT,Metropolitan Statistical Area,Area actually reporting,100.0%,"6,995",72,728,"2,123","4,072","56,246","7,239","42,122","6,885"
-CONNECTICUT,Cities outside metropolitan areas,,"112,751",,,,,,,,,
-CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,117,3,26,31,57,"1,648",203,"1,321",124
-CONNECTICUT,Nonmetropolitan counties,,"479,661",,,,,,,,,
-CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,299,8,86,40,165,"2,161",506,"1,281",374
-CONNECTICUT,State Total,,"3,572,665","7,411",83,840,"2,194","4,294","60,055","7,948","44,724","7,383"
-CONNECTICUT,CONNECTICUT,"Rate per 100,000 inhabitants",,207.4,2.3,23.5,61.4,120.2,"1,681.0",222.5,"1,251.8",206.7
-DELAWARE,Metropolitan Statistical Area,,"967,171",,,,,,,,,
-DELAWARE,Area actually reporting,100.0%,"4,097",48,338,866,"2,845","22,481","3,158","17,847","1,476",NA
-DELAWARE,Cities outside metropolitan areas,,None,,,,,,,,,
-DELAWARE,Nonmetropolitan counties,,None,,,,,,,,,
-DELAWARE,State Total,,"967,171","4,097",48,338,866,"2,845","22,481","3,158","17,847","1,476"
-DELAWARE,DELAWARE,"Rate per 100,000 inhabitants",,423.6,5.0,34.9,89.5,294.2,"2,324.4",326.5,"1,845.3",152.6
-DISTRICT OF COLUMBIA3,Metropolitan Statistical Area,,"702,455",,,,,,,,,
-DISTRICT OF COLUMBIA3,Metropolitan Statistical Area,Area actually reporting,100.0%,"6,996",160,450,"2,415","3,971","30,724","1,788","26,343","2,593"
-DISTRICT OF COLUMBIA3,Cities outside metropolitan areas,,None,,,,,,,,,
-DISTRICT OF COLUMBIA3,Nonmetropolitan counties,,None,,,,,,,,,
-DISTRICT OF COLUMBIA3,Total,,"702,455","6,996",160,450,"2,415","3,971","30,724","1,788","26,343","2,593"
-DISTRICT OF COLUMBIA3,DISTRICT OF COLUMBIA3,"Rate per 100,000 inhabitants",,995.9,22.8,64.1,343.8,565.3,"4,373.8",254.5,"3,750.1",369.1
-FLORIDA,Metropolitan Statistical Area,,"20,609,181",,,,,,,,,
-FLORIDA,Metropolitan Statistical Area,Area actually reporting,99.9%,"79,202","1,074","8,200","16,638","53,290","472,759","68,481","364,004","40,274"
-FLORIDA,Metropolitan Statistical Area,Estimated total,100.0%,"79,241","1,074","8,201","16,647","53,319","473,080","68,545","364,237","40,298"
-FLORIDA,Cities outside metropolitan areas,,"141,401",,,,,,,,,
-FLORIDA,FLORIDA,Area actually reporting,95.0%,810,12,58,103,637,"4,289",855,"3,200",234
-FLORIDA,FLORIDA,Estimated total,100.0%,829,12,58,104,655,"4,439",908,"3,288",243
-FLORIDA,Nonmetropolitan counties,,"548,743",,,,,,,,,
-FLORIDA,FLORIDA,Area actually reporting,100.0%,"1,910",21,179,133,"1,577","8,498","2,480","5,394",624
-FLORIDA,State Total,,"21,299,325","81,980","1,107","8,438","16,884","55,551","486,017","71,933","372,919","41,165"
-FLORIDA,FLORIDA,"Rate per 100,000 inhabitants",,384.9,5.2,39.6,79.3,260.8,"2,281.8",337.7,"1,750.8",193.3
-GEORGIA,Metropolitan Statistical Area,,"8,732,372",,,,,,,,,
-GEORGIA,Metropolitan Statistical Area,Area actually reporting,96.6%,"28,495",548,"2,260","7,501","18,186","223,556","36,007","165,559","21,990"
-GEORGIA,Metropolitan Statistical Area,Estimated total,100.0%,"29,161",559,"2,290","7,650","18,662","229,661","36,903","170,274","22,484"
-GEORGIA,Cities outside metropolitan areas,,"622,684",,,,,,,,,
-GEORGIA,GEORGIA,Area actually reporting,88.7%,"2,563",45,169,473,"1,876","21,036","3,707","16,424",905
-GEORGIA,GEORGIA,Estimated total,100.0%,"2,662",45,170,481,"1,966","23,282","4,005","18,341",936
-GEORGIA,Nonmetropolitan counties,,"1,164,419",,,,,,,,,
-GEORGIA,GEORGIA,Area actually reporting,93.5%,"2,470",38,191,148,"2,093","16,905","4,231","11,407","1,267"
-GEORGIA,GEORGIA,Estimated total,100.0%,"2,532",38,191,148,"2,155","17,795","4,461","11,994","1,340"
-GEORGIA,State Total,,"10,519,475","34,355",642,"2,651","8,279","22,783","270,738","45,369","200,609","24,760"
-GEORGIA,GEORGIA,"Rate per 100,000 inhabitants",,326.6,6.1,25.2,78.7,216.6,"2,573.7",431.3,"1,907.0",235.4
-HAWAII,Metropolitan Statistical Area,,"1,148,121",,,,,,,,,
-HAWAII,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,886",30,454,857,"1,545","33,970","4,328","24,758","4,884"
-HAWAII,Cities outside metropolitan areas,,None,,,,,,,,,
-HAWAII,Nonmetropolitan counties,,"272,370",,,,,,,,,
-HAWAII,HAWAII,Area actually reporting,100.0%,646,6,171,89,380,"6,802","1,303","4,734",765
-HAWAII,State Total,,"1,420,491","3,532",36,625,946,"1,925","40,772","5,631","29,492","5,649"
-HAWAII,HAWAII,"Rate per 100,000 inhabitants",,248.6,2.5,44.0,66.6,135.5,"2,870.3",396.4,"2,076.2",397.7
-IDAHO,Metropolitan Statistical Area,,"1,300,470",,,,,,,,,
-IDAHO,Metropolitan Statistical Area,Area actually reporting,100.0%,"3,152",19,644,178,"2,311","20,923","3,861","15,487","1,575"
-IDAHO,Cities outside metropolitan areas,,"181,635",,,,,,,,,
-IDAHO,IDAHO,Area actually reporting,95.7%,404,4,77,5,318,"2,502",522,"1,802",178
-IDAHO,IDAHO,Estimated total,100.0%,414,4,79,11,320,"2,561",527,"1,838",196
-IDAHO,Nonmetropolitan counties,,"272,103",,,,,,,,,
-IDAHO,IDAHO,Area actually reporting,98.3%,401,12,67,7,315,"2,128",546,"1,389",193
-IDAHO,IDAHO,Estimated total,100.0%,417,12,68,11,326,"2,152",552,"1,407",193
-IDAHO,State Total,,"1,754,208","3,983",35,791,200,"2,957","25,636","4,940","18,732","1,964"
-IDAHO,IDAHO,"Rate per 100,000 inhabitants",,227.1,2.0,45.1,11.4,168.6,"1,461.4",281.6,"1,067.8",112.0
-ILLINOIS,Metropolitan Statistical Area,,"11,305,797",,,,,,,,,
-ILLINOIS,Metropolitan Statistical Area,Area actually reporting,92.1%,"47,266",865,"5,050","13,857","27,494","218,713","33,314","167,160","18,239"
-ILLINOIS,Metropolitan Statistical Area,Estimated total,100.0%,"48,003",873,"5,171","14,007","27,952","225,321","34,316","172,338","18,667"
-ILLINOIS,Cities outside metropolitan areas,,"814,261",,,,,,,,,
-ILLINOIS,ILLINOIS,Area actually reporting,83.2%,"2,357",6,475,161,"1,715","13,966","2,681","10,760",525
-ILLINOIS,ILLINOIS,Estimated total,100.0%,"2,668",6,515,174,"1,973","16,018","3,132","12,290",596
-ILLINOIS,Nonmetropolitan counties,,"621,022",,,,,,,,,
-ILLINOIS,ILLINOIS,Area actually reporting,89.7%,737,5,159,25,548,"4,396","1,454","2,644",298
-ILLINOIS,ILLINOIS,Estimated total,100.0%,819,5,173,27,614,"4,925","1,632","2,963",330
-ILLINOIS,State Total,,"12,741,080","51,490",884,"5,859","14,208","30,539","246,264","39,080","187,591","19,593"
-ILLINOIS,ILLINOIS,"Rate per 100,000 inhabitants",,404.1,6.9,46.0,111.5,239.7,"1,932.8",306.7,"1,472.3",153.8
-INDIANA,Metropolitan Statistical Area,,"5,228,617",,,,,,,,,
-INDIANA,Metropolitan Statistical Area,Area actually reporting,84.4%,"21,358",363,"1,976","5,307","13,712","114,723","20,173","81,982","12,568"
-INDIANA,Metropolitan Statistical Area,Estimated total,100.0%,"22,320",383,"2,027","5,396","14,514","124,342","21,936","89,268","13,138"
-INDIANA,Cities outside metropolitan areas,,"540,439",,,,,,,,,
-INDIANA,INDIANA,Area actually reporting,59.0%,788,15,98,93,582,"8,140","1,055","6,521",564
-INDIANA,INDIANA,Estimated total,100.0%,"1,119",26,104,141,848,"13,533","1,496","11,259",778
-INDIANA,Nonmetropolitan counties,,"922,822",,,,,,,,,
-INDIANA,INDIANA,Area actually reporting,51.4%,622,15,121,33,453,"4,260","1,178","2,640",442
-INDIANA,INDIANA,Estimated total,100.0%,"2,142",29,239,402,"1,472","7,963","1,836","4,715","1,412"
-INDIANA,State Total,,"6,691,878","25,581",438,"2,370","5,939","16,834","145,838","25,268","105,242","15,328"
-INDIANA,INDIANA,"Rate per 100,000 inhabitants",,382.3,6.5,35.4,88.7,251.6,"2,179.3",377.6,"1,572.7",229.1
-IOWA4,Metropolitan Statistical Area,,"1,929,318",,,,,,,,,
-IOWA4,Metropolitan Statistical Area,Area actually reporting,90.7%,"4,345",40,589,612,"3,104","33,142","6,717","23,433","2,992"
-IOWA4,Metropolitan Statistical Area,Estimated total,100.0%,"4,951",44,635,759,"3,513","37,029","7,342","26,305","3,382"
-IOWA4,Cities outside metropolitan areas,,"572,110",,,,,,,,,
-IOWA4,IOWA4,Area actually reporting,85.7%,"1,903",7,218,77,"1,601","11,322","2,379","8,173",770
-IOWA4,IOWA4,Estimated total,100.0%,"2,175",7,241,144,"1,783","13,090","2,665","9,476",949
-IOWA4,Nonmetropolitan counties,,"654,717",,,,,,,,,
-IOWA4,IOWA4,Area actually reporting,97.0%,700,3,95,12,590,"2,833","1,050","1,471",312
-IOWA4,IOWA4,Estimated total,100.0%,767,3,100,29,635,"3,266","1,120","1,790",356
-IOWA4,State Total,,"3,156,145","7,893",54,976,932,"5,931","53,385","11,127","37,571","4,687"
-IOWA4,IOWA4,"Rate per 100,000 inhabitants",,250.1,1.7,30.9,29.5,187.9,"1,691.5",352.6,"1,190.4",148.5
-KANSAS,Metropolitan Statistical Area,,"2,018,178",,,,,,,,,
-KANSAS,Metropolitan Statistical Area,Area actually reporting,83.8%,"8,495",88,999,"1,127","6,281","49,894","7,590","36,811","5,493"
-KANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"10,105",88,"1,162","1,376","7,479","58,412","8,830","43,142","6,440"
-KANSAS,Cities outside metropolitan areas,,"571,274",,,,,,,,,
-KANSAS,KANSAS,Area actually reporting,95.4%,"1,899",17,298,126,"1,458","14,140","2,545","10,585","1,010"
-KANSAS,KANSAS,Estimated total,100.0%,"1,957",17,298,145,"1,497","14,738","2,644","11,069","1,025"
-KANSAS,Nonmetropolitan counties,,"322,053",,,,,,,,,
-KANSAS,KANSAS,Area actually reporting,96.6%,708,8,105,13,582,"3,466","1,054","2,057",355
-KANSAS,KANSAS,Estimated total,100.0%,720,8,107,22,583,"3,536","1,063","2,094",379
-KANSAS,State Total,,"2,911,505","12,782",113,"1,567","1,543","9,559","76,686","12,537","56,305","7,844"
-KANSAS,KANSAS,"Rate per 100,000 inhabitants",,439.0,3.9,53.8,53.0,328.3,"2,633.9",430.6,"1,933.9",269.4
-KENTUCKY,Metropolitan Statistical Area,,"2,659,106",,,,,,,,,
-KENTUCKY,Metropolitan Statistical Area,Area actually reporting,99.7%,"7,130",144,944,"2,104","3,938","66,119","11,452","47,079","7,588"
-KENTUCKY,Metropolitan Statistical Area,Estimated total,100.0%,"7,135",144,945,"2,106","3,940","66,231","11,478","47,148","7,605"
-KENTUCKY,Cities outside metropolitan areas,,"534,383",,,,,,,,,
-KENTUCKY,KENTUCKY,Area actually reporting,97.5%,911,17,235,238,421,"12,313","2,479","8,797","1,037"
-KENTUCKY,KENTUCKY,Estimated total,100.0%,912,17,236,238,421,"12,437","2,496","8,890","1,051"
-KENTUCKY,Nonmetropolitan counties,,"1,274,913",,,,,,,,,
-KENTUCKY,KENTUCKY,Area actually reporting,100.0%,"1,420",83,526,113,698,"9,027","3,216","4,206","1,605"
-KENTUCKY,State Total,,"4,468,402","9,467",244,"1,707","2,457","5,059","87,695","17,190","60,244","10,261"
-KENTUCKY,KENTUCKY,"Rate per 100,000 inhabitants",,211.9,5.5,38.2,55.0,113.2,"1,962.6",384.7,"1,348.2",229.6
-LOUISIANA,Metropolitan Statistical Area,,"3,921,292",,,,,,,,,
-LOUISIANA,Metropolitan Statistical Area,Area actually reporting,97.2%,"21,501",481,"1,864","4,256","14,900","131,877","25,979","95,308","10,590"
-LOUISIANA,Metropolitan Statistical Area,Estimated total,100.0%,"22,029",487,"1,880","4,326","15,336","135,727","26,788","98,151","10,788"
-LOUISIANA,Cities outside metropolitan areas,,"274,151",,,,,,,,,
-LOUISIANA,LOUISIANA,Area actually reporting,80.8%,"1,454",25,89,156,"1,184","8,835","2,132","6,415",288
-LOUISIANA,LOUISIANA,Estimated total,100.0%,"1,577",25,89,159,"1,304","10,371","2,360","7,719",292
-LOUISIANA,Nonmetropolitan counties,,"464,535",,,,,,,,,
-LOUISIANA,LOUISIANA,Area actually reporting,96.7%,"1,416",18,116,83,"1,199","6,373","1,936","3,987",450
-LOUISIANA,LOUISIANA,Estimated total,100.0%,"1,443",18,116,83,"1,226","6,563","1,984","4,123",456
-LOUISIANA,State Total,,"4,659,978","25,049",530,"2,085","4,568","17,866","152,661","31,132","109,993","11,536"
-LOUISIANA,LOUISIANA,"Rate per 100,000 inhabitants",,537.5,11.4,44.7,98.0,383.4,"3,276.0",668.1,"2,360.4",247.6
-MAINE,Metropolitan Statistical Area,,"794,794",,,,,,,,,
-MAINE,Metropolitan Statistical Area,Area actually reporting,100.0%,887,12,230,170,475,"11,228","1,452","9,347",429
-MAINE,Cities outside metropolitan areas,,"256,583",,,,,,,,,
-MAINE,MAINE,Area actually reporting,100.0%,322,2,112,33,175,"4,473",627,"3,675",171
-MAINE,Nonmetropolitan counties,,"287,027",,,,,,,,,
-MAINE,MAINE,Area actually reporting,100.0%,292,10,104,25,153,"2,472",634,"1,661",177
-MAINE,State Total,,"1,338,404","1,501",24,446,228,803,"18,173","2,713","14,683",777
-MAINE,MAINE,"Rate per 100,000 inhabitants",,112.1,1.8,33.3,17.0,60.0,"1,357.8",202.7,"1,097.1",58.1
-MARYLAND,Metropolitan Statistical Area,,"5,893,251",,,,,,,,,
-MARYLAND,Metropolitan Statistical Area,Area actually reporting,100.0%,"27,945",488,"1,932","9,646","15,879","120,507","18,359","90,082","12,066"
-MARYLAND,Cities outside metropolitan areas,,"51,354",,,,,,,,,
-MARYLAND,MARYLAND,Area actually reporting,100.0%,228,2,17,55,154,"1,545",290,"1,226",29
-MARYLAND,Nonmetropolitan counties,,"98,113",,,,,,,,,
-MARYLAND,MARYLAND,Area actually reporting,100.0%,147,0,30,15,102,812,243,527,42
-MARYLAND,State Total,,"6,042,718","28,320",490,"1,979","9,716","16,135","122,864","18,892","91,835","12,137"
-MARYLAND,MARYLAND,"Rate per 100,000 inhabitants",,468.7,8.1,32.8,160.8,267.0,"2,033.3",312.6,"1,519.8",200.9
-MASSACHUSETTS,Metropolitan Statistical Area,,"6,873,328",,,,,,,,,
-MASSACHUSETTS,Metropolitan Statistical Area,Area actually reporting,97.5%,"22,924",136,"2,377","4,068","16,343","85,784","13,762","65,538","6,484"
-MASSACHUSETTS,Metropolitan Statistical Area,Estimated total,100.0%,"23,216",136,"2,393","4,141","16,546","86,714","13,807","66,319","6,588"
-MASSACHUSETTS,Cities outside metropolitan areas,,"28,747",,,,,,,,,
-MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,100.0%,121,0,17,2,102,481,55,408,18
-MASSACHUSETTS,Nonmetropolitan counties,,74,,,,,,,,,
-MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,98.8%,0,0,0,0,0,0,0,0,0
-MASSACHUSETTS,MASSACHUSETTS,Estimated total,100.0%,0,0,0,0,0,1,0,1,0
-MASSACHUSETTS,State Total,,"6,902,149","23,337",136,"2,410","4,143","16,648","87,196","13,862","66,728","6,606"
-MASSACHUSETTS,MASSACHUSETTS,"Rate per 100,000 inhabitants",,338.1,2.0,34.9,60.0,241.2,"1,263.3",200.8,966.8,95.7
-MICHIGAN,Metropolitan Statistical Area,,"8,193,112",,,,,,,,,
-MICHIGAN,Metropolitan Statistical Area,Area actually reporting,98.8%,"39,962",513,"5,988","5,514","27,947","144,783","27,577","100,875","16,331"
-MICHIGAN,Metropolitan Statistical Area,Estimated total,100.0%,"40,037",514,"5,999","5,521","28,003","145,166","27,653","101,165","16,348"
-MICHIGAN,Cities outside metropolitan areas,,"578,160",,,,,,,,,
-MICHIGAN,MICHIGAN,Area actually reporting,98.0%,"1,729",10,623,70,"1,026","9,729","1,163","8,147",419
-MICHIGAN,MICHIGAN,Estimated total,100.0%,"1,743",10,625,81,"1,027","9,869","1,168","8,258",443
-MICHIGAN,Nonmetropolitan counties,,"1,224,643",,,,,,,,,
-MICHIGAN,MICHIGAN,Area actually reporting,99.2%,"3,124",27,"1,065",46,"1,986","10,171","2,822","6,690",659
-MICHIGAN,MICHIGAN,Estimated total,100.0%,"3,138",27,"1,066",54,"1,991","10,245","2,830","6,755",660
-MICHIGAN,State Total,,"9,995,915","44,918",551,"7,690","5,656","31,021","165,280","31,651","116,178","17,451"
-MICHIGAN,MICHIGAN,"Rate per 100,000 inhabitants",,449.4,5.5,76.9,56.6,310.3,"1,653.5",316.6,"1,162.3",174.6
-MINNESOTA,Metropolitan Statistical Area,,"4,367,933",,,,,,,,,
-MINNESOTA,Metropolitan Statistical Area,Area actually reporting,98.6%,"10,564",85,"1,988","2,848","5,643","94,250","12,953","72,415","8,882"
-MINNESOTA,Metropolitan Statistical Area,Estimated total,100.0%,"10,564",85,"1,988","2,848","5,643","94,250","12,953","72,415","8,882"
-MINNESOTA,Cities outside metropolitan areas,,"564,597",,,,,,,,,
-MINNESOTA,MINNESOTA,Area actually reporting,99.7%,"1,182",12,294,79,797,"11,817","1,612","9,535",670
-MINNESOTA,MINNESOTA,Estimated total,100.0%,"1,182",12,294,79,797,"11,841","1,613","9,557",671
-MINNESOTA,Nonmetropolitan counties,,"678,649",,,,,,,,,
-MINNESOTA,MINNESOTA,Area actually reporting,100.0%,623,9,180,17,417,"5,783","1,619","3,589",575
-MINNESOTA,State Total,,"5,611,179","12,369",106,"2,462","2,944","6,857","111,874","16,185","85,561","10,128"
-MINNESOTA,MINNESOTA,"Rate per 100,000 inhabitants",,220.4,1.9,43.9,52.5,122.2,"1,993.8",288.4,"1,524.8",180.5
-MISSISSIPPI,Metropolitan Statistical Area,,"1,437,099",,,,,,,,,
-MISSISSIPPI,Metropolitan Statistical Area,Area actually reporting,75.9%,"2,942",114,208,854,"1,766","30,690","6,285","21,574","2,831"
-MISSISSIPPI,Metropolitan Statistical Area,Estimated total,100.0%,"3,735",138,256,"1,049","2,292","39,700","7,943","28,430","3,327"
-MISSISSIPPI,Cities outside metropolitan areas,,"557,101",,,,,,,,,
-MISSISSIPPI,MISSISSIPPI,Area actually reporting,37.9%,"1,031",28,68,200,735,"8,504","2,425","5,715",364
-MISSISSIPPI,MISSISSIPPI,Estimated total,100.0%,"1,698",28,152,370,"1,148","17,844","5,437","11,810",597
-MISSISSIPPI,Nonmetropolitan counties,,"992,330",,,,,,,,,
-MISSISSIPPI,MISSISSIPPI,Area actually reporting,20.7%,368,5,47,50,266,"2,840","1,262","1,394",184
-MISSISSIPPI,MISSISSIPPI,Estimated total,100.0%,"1,566",5,129,176,"1,256","14,222","7,459","6,387",376
-MISSISSIPPI,State Total,,"2,986,530","6,999",171,537,"1,595","4,696","71,766","20,839","46,627","4,300"
-MISSISSIPPI,MISSISSIPPI,"Rate per 100,000 inhabitants",,234.4,5.7,18.0,53.4,157.2,"2,403.0",697.8,"1,561.2",144.0
-MISSOURI,Metropolitan Statistical Area,,"4,592,956",,,,,,,,,
-MISSOURI,Metropolitan Statistical Area,Area actually reporting,99.8%,"25,819",537,"2,372","4,985","17,925","131,128","20,841","92,909","17,378"
-MISSOURI,Metropolitan Statistical Area,Estimated total,100.0%,"25,822",537,"2,372","4,988","17,925","131,163","20,850","92,926","17,387"
-MISSOURI,Cities outside metropolitan areas,,"650,579",,,,,,,,,
-MISSOURI,MISSOURI,Area actually reporting,98.5%,"2,486",27,327,164,"1,968","20,341","3,153","15,940","1,248"
-MISSOURI,MISSOURI,Estimated total,100.0%,"2,503",27,327,164,"1,985","20,506","3,154","16,095","1,257"
-MISSOURI,Nonmetropolitan counties,,"882,917",,,,,,,,,
-MISSOURI,MISSOURI,Area actually reporting,100.0%,"2,433",43,213,45,"2,132","10,504","3,253","6,080","1,171"
-MISSOURI,State Total,,"6,126,452","30,758",607,"2,912","5,197","22,042","162,173","27,257","115,101","19,815"
-MISSOURI,MISSOURI,"Rate per 100,000 inhabitants",,502.1,9.9,47.5,84.8,359.8,"2,647.1",444.9,"1,878.8",323.4
-MONTANA,Metropolitan Statistical Area,,"382,078",,,,,,,,,
-MONTANA,Metropolitan Statistical Area,Area actually reporting,100.0%,"1,589",14,181,183,"1,211","14,400","1,671","11,176","1,553"
-MONTANA,Cities outside metropolitan areas,,"224,421",,,,,,,,,
-MONTANA,MONTANA,Area actually reporting,100.0%,"1,216",8,212,63,933,"6,250",700,"4,997",553
-MONTANA,Nonmetropolitan counties,,"455,806",,,,,,,,,
-MONTANA,MONTANA,Area actually reporting,99.3%,"1,162",12,158,20,972,"5,845",885,"4,275",685
-MONTANA,MONTANA,Estimated total,100.0%,"1,169",12,158,23,976,"5,868",886,"4,292",690
-MONTANA,State Total,,"1,062,305","3,974",34,551,269,"3,120","26,518","3,257","20,465","2,796"
-MONTANA,MONTANA,"Rate per 100,000 inhabitants",,374.1,3.2,51.9,25.3,293.7,"2,496.3",306.6,"1,926.5",263.2
-NEBRASKA,Metropolitan Statistical Area,,"1,255,602",,,,,,,,,
-NEBRASKA,Metropolitan Statistical Area,Area actually reporting,99.8%,"4,418",39,914,681,"2,784","31,051","3,872","22,973","4,206"
-NEBRASKA,Metropolitan Statistical Area,Estimated total,100.0%,"4,429",39,915,683,"2,792","31,141","3,882","23,040","4,219"
-NEBRASKA,Cities outside metropolitan areas,,"347,118",,,,,,,,,
-NEBRASKA,NEBRASKA,Area actually reporting,92.9%,773,2,252,50,469,"6,773",963,"5,357",453
-NEBRASKA,NEBRASKA,Estimated total,100.0%,805,2,253,72,478,"7,211","1,017","5,721",473
-NEBRASKA,Nonmetropolitan counties,,"326,548",,,,,,,,,
-NEBRASKA,NEBRASKA,Area actually reporting,84.6%,260,3,65,1,191,"1,641",347,"1,112",182
-NEBRASKA,NEBRASKA,Estimated total,100.0%,260,3,65,1,191,"1,774",347,"1,245",182
-NEBRASKA,State Total,,"1,929,268","5,494",44,"1,233",756,"3,461","40,126","5,246","30,006","4,874"
-NEBRASKA,NEBRASKA,"Rate per 100,000 inhabitants",,284.8,2.3,63.9,39.2,179.4,"2,079.9",271.9,"1,555.3",252.6
-NEVADA,Metropolitan Statistical Area,,"2,759,691",,,,,,,,,
-NEVADA,Metropolitan Statistical Area,Area actually reporting,100.0%,"15,629",186,"2,198","3,805","9,440","70,268","16,758","42,000","11,510"
-NEVADA,Cities outside metropolitan areas,,"48,497",,,,,,,,,
-NEVADA,NEVADA,Area actually reporting,100.0%,256,6,45,22,183,993,230,684,79
-NEVADA,Nonmetropolitan counties,,"226,204",,,,,,,,,
-NEVADA,NEVADA,Area actually reporting,100.0%,535,10,86,35,404,"2,724",755,"1,654",315
-NEVADA,State Total,,"3,034,392","16,420",202,"2,329","3,862","10,027","73,985","17,743","44,338","11,904"
-NEVADA,NEVADA,"Rate per 100,000 inhabitants",,541.1,6.7,76.8,127.3,330.4,"2,438.2",584.7,"1,461.2",392.3
-NEW HAMPSHIRE,Metropolitan Statistical Area,,"854,544",,,,,,,,,
-NEW HAMPSHIRE,Metropolitan Statistical Area,Area actually reporting,99.2%,"1,530",15,304,259,952,"10,324","1,026","8,747",551
-NEW HAMPSHIRE,Metropolitan Statistical Area,Estimated total,100.0%,"1,535",15,304,259,957,"10,473","1,031","8,887",555
-NEW HAMPSHIRE,Cities outside metropolitan areas,,"459,985",,,,,,,,,
-NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,93.6%,728,5,209,72,442,"5,960",738,"4,929",293
-NEW HAMPSHIRE,NEW HAMPSHIRE,Estimated total,100.0%,766,5,216,96,449,"6,165",754,"5,117",294
-NEW HAMPSHIRE,Nonmetropolitan counties,,"41,929",,,,,,,,,
-NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,93.4%,39,1,13,2,23,237,52,171,14
-NEW HAMPSHIRE,NEW HAMPSHIRE,Estimated total,100.0%,48,1,14,4,29,297,62,215,20
-NEW HAMPSHIRE,State Total,,"1,356,458","2,349",21,534,359,"1,435","16,935","1,847","14,219",869
-NEW HAMPSHIRE,NEW HAMPSHIRE,"Rate per 100,000 inhabitants",,173.2,1.5,39.4,26.5,105.8,"1,248.5",136.2,"1,048.2",64.1
-NEW JERSEY,Metropolitan Statistical Area,,"8,908,520",,,,,,,,,
-NEW JERSEY,Metropolitan Statistical Area,Area actually reporting,100.0%,"18,537",286,"1,424","6,364","10,463","125,156","19,232","94,887","11,037"
-NEW JERSEY,Cities outside metropolitan areas,,None,,,,,,,,,
-NEW JERSEY,Nonmetropolitan counties,,None,,,,,,,,,
-NEW JERSEY,State Total,,"8,908,520","18,537",286,"1,424","6,364","10,463","125,156","19,232","94,887","11,037"
-NEW JERSEY,NEW JERSEY,"Rate per 100,000 inhabitants",,208.1,3.2,16.0,71.4,117.4,"1,404.9",215.9,"1,065.1",123.9
-NEW MEXICO,Metropolitan Statistical Area,,"1,408,549",,,,,,,,,
-NEW MEXICO,Metropolitan Statistical Area,Area actually reporting,92.5%,"12,522",107,909,"2,419","9,087","52,221","10,979","32,955","8,287"
-NEW MEXICO,Metropolitan Statistical Area,Estimated total,100.0%,"13,376",111,936,"2,527","9,802","53,954","11,465","34,013","8,476"
-NEW MEXICO,Cities outside metropolitan areas,,"394,037",,,,,,,,,
-NEW MEXICO,NEW MEXICO,Area actually reporting,96.0%,"2,820",33,227,252,"2,308","13,827","3,289","9,359","1,179"
-NEW MEXICO,NEW MEXICO,Estimated total,100.0%,"2,836",33,229,255,"2,319","14,284","3,406","9,687","1,191"
-NEW MEXICO,Nonmetropolitan counties,,"292,842",,,,,,,,,
-NEW MEXICO,NEW MEXICO,Area actually reporting,97.4%,"1,701",23,187,41,"1,450","3,302","1,172","1,627",503
-NEW MEXICO,NEW MEXICO,Estimated total,100.0%,"1,737",23,189,48,"1,477","3,419","1,217","1,690",512
-NEW MEXICO,State Total,,"2,095,428","17,949",167,"1,354","2,830","13,598","71,657","16,088","45,390","10,179"
-NEW MEXICO,NEW MEXICO,"Rate per 100,000 inhabitants",,856.6,8.0,64.6,135.1,648.9,"3,419.7",767.8,"2,166.1",485.8
-NEW YORK,Metropolitan Statistical Area,,"18,197,801",,,,,,,,,
-NEW YORK,Metropolitan Statistical Area,Area actually reporting,99.7%,"65,791",535,"5,597","17,953","41,706","263,956","28,097","223,311","12,548"
-NEW YORK,Metropolitan Statistical Area,Estimated total,100.0%,"65,840",535,"5,603","17,961","41,741","264,695","28,169","223,958","12,568"
-NEW YORK,Cities outside metropolitan areas,,"502,454",,,,,,,,,
-NEW YORK,NEW YORK,Area actually reporting,97.4%,"1,242",11,285,174,772,"8,916","1,373","7,308",235
-NEW YORK,NEW YORK,Estimated total,100.0%,"1,278",12,296,176,794,"9,222","1,421","7,559",242
-NEW YORK,Nonmetropolitan counties,,"841,954",,,,,,,,,
-NEW YORK,NEW YORK,Area actually reporting,100.0%,"1,377",15,676,50,636,"7,590","1,547","5,716",327
-NEW YORK,State Total,,"19,542,209","68,495",562,"6,575","18,187","43,171","281,507","31,137","237,233","13,137"
-NEW YORK,NEW YORK,"Rate per 100,000 inhabitants",,350.5,2.9,33.6,93.1,220.9,"1,440.5",159.3,"1,214.0",67.2
-NORTH CAROLINA5,Metropolitan Statistical Area,,"8,401,289",,,,,,,,,
-NORTH CAROLINA5,Metropolitan Statistical Area,Area actually reporting,89.1%,"29,429",396,1989,"6,340","20,704","190,073","42,468","134,375","13,230"
-NORTH CAROLINA5,Metropolitan Statistical Area,Estimated total,100.0%,"32,996",456,"2,140","7,449","22,951","210,122","46,893","148,551","14,678"
-NORTH CAROLINA5,Cities outside metropolitan areas,,"586,242",,,,,,,,,
-NORTH CAROLINA5,NORTH CAROLINA5,Area actually reporting,86.2%,"2,842",66,122,566,"2,088","22,507","5,258","16,180","1,069"
-NORTH CAROLINA5,NORTH CAROLINA5,Estimated total,100.0%,"3,174",68,135,633,"2,338","25,766","5,983","18,566","1,217"
-NORTH CAROLINA5,Nonmetropolitan counties,,"1,396,089",,,,,,,,,
-NORTH CAROLINA5,NORTH CAROLINA5,Area actually reporting,95.3%,"2,909",99,342,327,"2,141","22,190","9,060","11,454","1,676"
-NORTH CAROLINA5,NORTH CAROLINA5,Estimated total,100.0%,"3,040",104,358,341,"2,237","23,091","9,414","11,940","1,737"
-NORTH CAROLINA5,State Total,,"10,383,620","39,210",628,"2,633","8,423","27,526","258,979","62,290","179,057","17,632"
-NORTH CAROLINA5,NORTH CAROLINA5,"Rate per 100,000 inhabitants",,377.6,6.0,25.4,81.1,265.1,"2,494.1",599.9,"1,724.4",169.8
-NORTH DAKOTA,Metropolitan Statistical Area,,"379,498",,,,,,,,,
-NORTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,100.0%,"1,164",11,233,121,799,"9,331","1,538","6,924",869
-NORTH DAKOTA,Cities outside metropolitan areas,,"188,093",,,,,,,,,
-NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,99.8%,765,7,120,32,606,"4,574",807,"3,135",632
-NORTH DAKOTA,NORTH DAKOTA,Estimated total,100.0%,766,7,120,32,607,"4,582",808,"3,141",633
-NORTH DAKOTA,Nonmetropolitan counties,,"192,486",,,,,,,,,
-NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,100.0%,203,0,44,5,154,"1,594",378,943,273
-NORTH DAKOTA,State Total,,"760,077","2,133",18,397,158,"1,560","15,507","2,724","11,008","1,775"
-NORTH DAKOTA,NORTH DAKOTA,"Rate per 100,000 inhabitants",,280.6,2.4,52.2,20.8,205.2,"2,040.2",358.4,"1,448.3",233.5
-OHIO,Metropolitan Statistical Area,,"9,376,628",,,,,,,,,
-OHIO,Metropolitan Statistical Area,Area actually reporting,90.1%,"28,724",537,"4,341","8,382","15,464","199,224","39,060","143,262","16,902"
-OHIO,Metropolitan Statistical Area,Estimated total,100.0%,"29,748",537,"4,511","8,829","15,871","215,783","40,774","157,031","17,978"
-OHIO,Cities outside metropolitan areas,,"1,018,281",,,,,,,,,
-OHIO,OHIO,Area actually reporting,80.9%,"1,562",15,421,249,877,"21,458","3,433","17,179",846
-OHIO,OHIO,Estimated total,100.0%,"1,643",16,429,254,944,"25,677","4,001","20,747",929
-OHIO,Nonmetropolitan counties,,"1,294,533",,,,,,,,,
-OHIO,OHIO,Area actually reporting,86.0%,"1,301",11,359,102,829,"11,326","2,990","7,401",935
-OHIO,OHIO,Estimated total,100.0%,"1,332",11,360,102,859,"13,036","3,411","8,623","1,002"
-OHIO,State Total,,"11,689,442","32,723",564,"5,300","9,185","17,674","254,496","48,186","186,401","19,909"
-OHIO,OHIO,"Rate per 100,000 inhabitants",,279.9,4.8,45.3,78.6,151.2,"2,177.1",412.2,"1,594.6",170.3
-OKLAHOMA,Metropolitan Statistical Area,,"2,621,457",,,,,,,,,
-OKLAHOMA,Metropolitan Statistical Area,Area actually reporting,99.9%,"14,233",162,"1,708","2,432","9,931","82,153","18,608","53,054","10,491"
-OKLAHOMA,Metropolitan Statistical Area,Estimated total,100.0%,"14,233",162,"1,708","2,432","9,931","82,153","18,608","53,054","10,491"
-OKLAHOMA,Cities outside metropolitan areas,,"731,666",,,,,,,,,
-OKLAHOMA,OKLAHOMA,Area actually reporting,99.3%,"3,082",31,421,317,"2,313","23,573","5,537","16,165","1,871"
-OKLAHOMA,OKLAHOMA,Estimated total,100.0%,"3,085",31,421,317,"2,316","23,677","5,556","16,248","1,873"
-OKLAHOMA,Nonmetropolitan counties,,"589,956",,,,,,,,,
-OKLAHOMA,OKLAHOMA,Area actually reporting,97.9%,"1,053",13,169,42,829,"7,384","2,640","3,828",916
-OKLAHOMA,OKLAHOMA,Estimated total,100.0%,"1,062",13,170,42,837,"7,534","2,694","3,915",925
-OKLAHOMA,State Total,,"3,943,079","18,380",206,"2,299","2,791","13,084","113,364","26,858","73,217","13,289"
-OKLAHOMA,OKLAHOMA,"Rate per 100,000 inhabitants",,466.1,5.2,58.3,70.8,331.8,"2,875.0",681.1,"1,856.8",337.0
-OREGON,Metropolitan Statistical Area,,"3,518,314",,,,,,,,,
-OREGON,Metropolitan Statistical Area,Area actually reporting,99.3%,"10,262",65,"1,707","2,296","6,194","105,007","13,343","76,678","14,986"
-OREGON,Metropolitan Statistical Area,Estimated total,100.0%,"10,313",65,"1,713","2,310","6,225","105,339","13,359","76,960","15,020"
-OREGON,Cities outside metropolitan areas,,"311,614",,,,,,,,,
-OREGON,OREGON,Area actually reporting,95.0%,893,8,154,144,587,"10,648","1,602","8,227",819
-OREGON,OREGON,Estimated total,100.0%,923,8,158,158,599,"11,119","1,660","8,618",841
-OREGON,Nonmetropolitan counties,,"360,785",,,,,,,,,
-OREGON,OREGON,Area actually reporting,84.3%,603,8,91,34,470,"4,118","1,086","2,425",607
-OREGON,OREGON,Estimated total,100.0%,730,9,104,81,536,"4,820","1,285","2,840",695
-OREGON,State Total,,"4,190,713","11,966",82,"1,975","2,549","7,360","121,278","16,304","88,418","16,556"
-OREGON,OREGON,"Rate per 100,000 inhabitants",,285.5,2.0,47.1,60.8,175.6,"2,894.0",389.1,"2,109.9",395.1
-PENNSYLVANIA,Metropolitan Statistical Area,,"11,353,779",,,,,,,,,
-PENNSYLVANIA,Metropolitan Statistical Area,Area actually reporting,99.7%,"36,145",745,"3,830","9,605","21,965","175,929","24,132","139,309","12,488"
-PENNSYLVANIA,Metropolitan Statistical Area,Estimated total,100.0%,"36,160",745,"3,830","9,606","21,979","176,290","24,146","139,655","12,489"
-PENNSYLVANIA,Cities outside metropolitan areas,,"642,834",,,,,,,,,
-PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,98.9%,"1,751",13,164,142,"1,432","7,172","1,019","5,921",232
-PENNSYLVANIA,PENNSYLVANIA,Estimated total,100.0%,"1,757",13,164,142,"1,438","7,233","1,021","5,980",232
-PENNSYLVANIA,Nonmetropolitan counties,,"810,447",,,,,,,,,
-PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,100.0%,"1,275",26,489,100,660,"7,293","1,937","4,961",395
-PENNSYLVANIA,State Total,,"12,807,060","39,192",784,"4,483","9,848","24,077","190,816","27,104","150,596","13,116"
-PENNSYLVANIA,PENNSYLVANIA,"Rate per 100,000 inhabitants",,306.0,6.1,35.0,76.9,188.0,"1,489.9",211.6,"1,175.9",102.4
-PUERTO RICO,Metropolitan Statistical Area,,"3,079,741",,,,,,,,,
-PUERTO RICO,Metropolitan Statistical Area,Area actually reporting,100.0%,"6,181",614,191,"2,239","3,137","24,202","5,273","15,259","3,670"
-PUERTO RICO,Cities outside metropolitan areas,,"115,412",,,,,,,,,
-PUERTO RICO,PUERTO RICO,Area actually reporting,100.0%,236,25,7,32,172,649,213,399,37
-PUERTO RICO,Total,,"3,195,153","6,417",639,198,"2,271","3,309","24,851","5,486","15,658","3,707"
-PUERTO RICO,PUERTO RICO,"Rate per 100,000 inhabitants",,200.8,20.0,6.2,71.1,103.6,777.8,171.7,490.1,116.0
-RHODE ISLAND,Metropolitan Statistical Area,,"1,057,315",,,,,,,,,
-RHODE ISLAND,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,317",16,481,454,"1,366","17,561","2,810","13,220","1,531"
-RHODE ISLAND,Cities outside metropolitan areas,,None,,,,,,,,,
-RHODE ISLAND,Nonmetropolitan counties,,None,,,,,,,,,
-RHODE ISLAND,State Total,,"1,057,315","2,317",16,481,454,"1,366","17,561","2,810","13,220","1,531"
-RHODE ISLAND,RHODE ISLAND,"Rate per 100,000 inhabitants",,219.1,1.5,45.5,42.9,129.2,"1,660.9",265.8,"1,250.3",144.8
-SOUTH CAROLINA,Metropolitan Statistical Area,,"4,347,374",,,,,,,,,
-SOUTH CAROLINA,Metropolitan Statistical Area,Area actually reporting,98.8%,"20,355",306,"2,060","3,050","14,939","127,824","23,029","92,348","12,447"
-SOUTH CAROLINA,Metropolitan Statistical Area,Estimated total,100.0%,"20,541",306,"2,074","3,075","15,086","129,023","23,215","93,322","12,486"
-SOUTH CAROLINA,Cities outside metropolitan areas,,"203,525",,,,,,,,,
-SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,97.0%,"2,028",32,133,287,"1,576","10,512","2,169","7,820",523
-SOUTH CAROLINA,SOUTH CAROLINA,Estimated total,100.0%,"2,061",32,133,292,"1,604","10,661","2,185","7,947",529
-SOUTH CAROLINA,Nonmetropolitan counties,,"533,228",,,,,,,,,
-SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,96.3%,"2,158",54,226,183,"1,695","13,312","3,927","8,100","1,285"
-SOUTH CAROLINA,SOUTH CAROLINA,Estimated total,100.0%,"2,223",54,227,186,"1,756","13,737","4,073","8,347","1,317"
-SOUTH CAROLINA,State Total,,"5,084,127","24,825",392,"2,434","3,553","18,446","153,421","29,473","109,616","14,332"
-SOUTH CAROLINA,SOUTH CAROLINA,"Rate per 100,000 inhabitants",,488.3,7.7,47.9,69.9,362.8,"3,017.6",579.7,"2,156.0",281.9
-SOUTH DAKOTA,Metropolitan Statistical Area,,"420,829",,,,,,,,,
-SOUTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,99.1%,"1,623",7,339,176,"1,101","9,378","1,556","6,849",973
-SOUTH DAKOTA,Metropolitan Statistical Area,Estimated total,100.0%,"1,638",7,342,178,"1,111","9,470","1,569","6,918",983
-SOUTH DAKOTA,Cities outside metropolitan areas,,"219,614",,,,,,,,,
-SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,96.0%,"1,587",2,231,40,"1,314","4,504",633,"3,508",363
-SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,"1,608",2,231,47,"1,328","4,604",645,"3,590",369
-SOUTH DAKOTA,Nonmetropolitan counties,,"241,792",,,,,,,,,
-SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,82.8%,183,3,29,3,148,817,213,522,82
-SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,324,3,41,37,243,"1,177",357,648,172
-SOUTH DAKOTA,State Total,,"882,235","3,570",12,614,262,"2,682","15,251","2,571","11,156","1,524"
-SOUTH DAKOTA,SOUTH DAKOTA,"Rate per 100,000 inhabitants",,404.7,1.4,69.6,29.7,304.0,"1,728.7",291.4,"1,264.5",172.7
-TENNESSEE,Metropolitan Statistical Area,,"5,297,542",,,,,,,,,
-TENNESSEE,Metropolitan Statistical Area,Area actually reporting,99.9%,"36,817",451,"2,379","6,916","27,071","160,578","26,609","116,881","17,088"
-TENNESSEE,Metropolitan Statistical Area,Estimated total,100.0%,"36,817",451,"2,379","6,916","27,071","160,578","26,609","116,881","17,088"
-TENNESSEE,Cities outside metropolitan areas,,"483,479",,,,,,,,,
-TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"2,646",14,186,190,"2,256","17,352","2,813","13,213","1,326"
-TENNESSEE,Nonmetropolitan counties,,"988,989",,,,,,,,,
-TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"2,763",33,256,84,"2,390","13,349","3,710","7,614","2,025"
-TENNESSEE,State Total,,"6,770,010","42,226",498,"2,821","7,190","31,717","191,279","33,132","137,708","20,439"
-TENNESSEE,TENNESSEE,"Rate per 100,000 inhabitants",,623.7,7.4,41.7,106.2,468.5,"2,825.4",489.4,"2,034.1",301.9
-TEXAS,Metropolitan Statistical Area,,"25,601,190",,,,,,,,,
-TEXAS,Metropolitan Statistical Area,Area actually reporting,98.2%,"109,688","1,228","13,483","27,686","67,291","631,017","105,140","459,349","66,528"
-TEXAS,Metropolitan Statistical Area,Estimated total,100.0%,"109,839","1,228","13,496","27,703","67,412","632,569","105,409","460,517","66,643"
-TEXAS,Cities outside metropolitan areas,,"1,443,676",,,,,,,,,
-TEXAS,TEXAS,Area actually reporting,93.4%,"4,859",42,617,447,"3,753","30,004","6,785","21,596","1,623"
-TEXAS,TEXAS,Estimated total,100.0%,"5,065",42,638,454,"3,931","31,297","7,099","22,520","1,678"
-TEXAS,Nonmetropolitan counties,,"1,656,979",,,,,,,,,
-TEXAS,TEXAS,Area actually reporting,98.4%,"2,985",52,554,98,"2,281","15,328","5,321","8,529","1,478"
-TEXAS,TEXAS,Estimated total,100.0%,"3,023",52,559,99,"2,313","15,564","5,403","8,665","1,496"
-TEXAS,State Total,,"28,701,845","117,927","1,322","14,693","28,256","73,656","679,430","117,911","491,702","69,817"
-TEXAS,TEXAS,"Rate per 100,000 inhabitants",,410.9,4.6,51.2,98.4,256.6,"2,367.2",410.8,"1,713.1",243.2
-UTAH,Metropolitan Statistical Area,,"2,830,802",,,,,,,,,
-UTAH,Metropolitan Statistical Area,Area actually reporting,99.4%,"6,631",53,"1,615","1,201","3,762","69,225","9,095","52,857","7,273"
-UTAH,Metropolitan Statistical Area,Estimated total,100.0%,"6,639",53,"1,616","1,202","3,768","69,483","9,128","53,065","7,290"
-UTAH,Cities outside metropolitan areas,,"149,423",,,,,,,,,
-UTAH,UTAH,Area actually reporting,89.6%,364,4,78,15,267,"3,076",390,"2,469",217
-UTAH,UTAH,Estimated total,100.0%,397,4,81,27,285,"3,280",412,"2,642",226
-UTAH,Nonmetropolitan counties,,"180,880",,,,,,,,,
-UTAH,UTAH,Area actually reporting,90.9%,310,3,56,7,244,"2,179",401,"1,573",205
-UTAH,UTAH,Estimated total,100.0%,332,3,56,7,266,"2,393",428,"1,753",212
-UTAH,State Total,,"3,161,105","7,368",60,"1,753","1,236","4,319","75,156","9,968","57,460","7,728"
-UTAH,UTAH,"Rate per 100,000 inhabitants",,233.1,1.9,55.5,39.1,136.6,"2,377.5",315.3,"1,817.7",244.5
-VERMONT,Metropolitan Statistical Area,,"220,420",,,,,,,,,
-VERMONT,Metropolitan Statistical Area,Area actually reporting,100.0%,384,4,117,26,237,"3,412",493,"2,852",67
-VERMONT,Cities outside metropolitan areas,,"190,773",,,,,,,,,
-VERMONT,VERMONT,Area actually reporting,100.0%,402,1,95,34,272,"3,183",452,"2,638",93
-VERMONT,Nonmetropolitan counties,,"215,106",,,,,,,,,
-VERMONT,VERMONT,Area actually reporting,100.0%,291,5,75,10,201,"1,441",522,826,93
-VERMONT,State Total,,"626,299","1,077",10,287,70,710,"8,036","1,467","6,316",253
-VERMONT,VERMONT,"Rate per 100,000 inhabitants",,172.0,1.6,45.8,11.2,113.4,"1,283.1",234.2,"1,008.5",40.4
-VIRGINIA,Metropolitan Statistical Area,,"7,466,029",,,,,,,,,
-VIRGINIA,Metropolitan Statistical Area,Area actually reporting,99.9%,"15,054",334,"2,428","3,384","8,908","127,888","13,142","104,914","9,832"
-VIRGINIA,Metropolitan Statistical Area,Estimated total,100.0%,"15,056",334,"2,428","3,384","8,910","127,900","13,145","104,921","9,834"
-VIRGINIA,Cities outside metropolitan areas,,"244,617",,,,,,,,,
-VIRGINIA,VIRGINIA,Area actually reporting,97.8%,640,18,95,123,404,"6,088",752,"5,033",303
-VIRGINIA,VIRGINIA,Estimated total,100.0%,645,18,96,124,407,"6,201",761,"5,134",306
-VIRGINIA,Nonmetropolitan counties,,"807,039",,,,,,,,,
-VIRGINIA,VIRGINIA,Area actually reporting,100.0%,"1,331",39,400,96,796,"7,784","1,668","5,478",638
-VIRGINIA,State Total,,"8,517,685","17,032",391,"2,924","3,604","10,113","141,885","15,574","115,533","10,778"
-VIRGINIA,VIRGINIA,"Rate per 100,000 inhabitants",,200.0,4.6,34.3,42.3,118.7,"1,665.8",182.8,"1,356.4",126.5
-WASHINGTON,Metropolitan Statistical Area,,"6,769,023",,,,,,,,,
-WASHINGTON,Metropolitan Statistical Area,Area actually reporting,98.6%,"21,866",214,"3,094","5,400","13,158","204,842","36,088","142,637","26,117"
-WASHINGTON,Metropolitan Statistical Area,Estimated total,100.0%,"21,919",214,"3,099","5,415","13,191","205,202","36,129","142,935","26,138"
-WASHINGTON,Cities outside metropolitan areas,,"308,505",,,,,,,,,
-WASHINGTON,WASHINGTON,Area actually reporting,92.8%,944,4,209,95,636,"10,638","1,922","7,728",988
-WASHINGTON,WASHINGTON,Estimated total,100.0%,979,4,211,114,650,"11,011","2,008","7,997","1,006"
-WASHINGTON,Nonmetropolitan counties,,"458,063",,,,,,,,,
-WASHINGTON,WASHINGTON,Area actually reporting,100.0%,574,18,103,43,410,"5,798","2,064","3,201",533
-WASHINGTON,State Total,,"7,535,591","23,472",236,"3,413","5,572","14,251","222,011","40,201","154,133","27,677"
-WASHINGTON,WASHINGTON,"Rate per 100,000 inhabitants",,311.5,3.1,45.3,73.9,189.1,"2,946.2",533.5,"2,045.4",367.3
-WEST VIRGINIA,Metropolitan Statistical Area,,"1,164,452",,,,,,,,,
-WEST VIRGINIA,Metropolitan Statistical Area,Area actually reporting,81.9%,"3,193",40,446,251,"2,456","17,785","3,837","12,480","1,468"
-WEST VIRGINIA,Metropolitan Statistical Area,Estimated total,100.0%,"3,677",45,492,418,"2,722","20,085","4,105","14,123","1,857"
-WEST VIRGINIA,Cities outside metropolitan areas,,"175,743",,,,,,,,,
-WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,54.3%,342,2,24,17,299,"1,625",204,"1,341",80
-WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,490,2,35,77,376,"4,071",482,"3,332",257
-WEST VIRGINIA,Nonmetropolitan counties,,"465,637",,,,,,,,,
-WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,86.7%,917,19,109,26,763,"2,445",758,"1,417",270
-WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,"1,069",20,125,77,847,"2,671",767,"1,499",405
-WEST VIRGINIA,State Total,,"1,805,832","5,236",67,652,572,"3,945","26,827","5,354","18,954","2,519"
-WEST VIRGINIA,WEST VIRGINIA,"Rate per 100,000 inhabitants",,289.9,3.7,36.1,31.7,218.5,"1,485.6",296.5,"1,049.6",139.5
-WISCONSIN,Metropolitan Statistical Area,,"4,343,699",,,,,,,,,
-WISCONSIN,Metropolitan Statistical Area,Area actually reporting,98.2%,"15,155",153,"1,737","3,414","9,851","74,000","11,575","54,598","7,827"
-WISCONSIN,Metropolitan Statistical Area,Estimated total,100.0%,"15,159",153,"1,738","3,417","9,851","74,030","11,575","54,628","7,827"
-WISCONSIN,Cities outside metropolitan areas,,"640,432",,,,,,,,,
-WISCONSIN,WISCONSIN,Area actually reporting,99.5%,"1,194",10,290,54,840,"10,935","1,048","9,477",410
-WISCONSIN,WISCONSIN,Estimated total,100.0%,"1,194",10,290,54,840,"11,005","1,048","9,547",410
-WISCONSIN,Nonmetropolitan counties,,"829,437",,,,,,,,,
-WISCONSIN,WISCONSIN,Area actually reporting,100.0%,823,13,220,18,572,"5,651","1,476","3,778",397
-WISCONSIN,State Total,,"5,813,568","17,176",176,"2,248","3,489","11,263","90,686","14,099","67,953","8,634"
-WISCONSIN,WISCONSIN,"Rate per 100,000 inhabitants",,295.4,3.0,38.7,60.0,193.7,"1,559.9",242.5,"1,168.9",148.5
-WYOMING,Metropolitan Statistical Area,,"178,207",,,,,,,,,
-WYOMING,Metropolitan Statistical Area,Area actually reporting,81.3%,384,5,102,27,250,"4,582",712,"3,463",407
-WYOMING,Metropolitan Statistical Area,Estimated total,100.0%,496,6,110,54,326,"5,107",859,"3,769",479
-WYOMING,Cities outside metropolitan areas,,"239,201",,,,,,,,,
-WYOMING,WYOMING,Area actually reporting,91.9%,456,4,91,14,347,"3,795",465,"3,125",205
-WYOMING,WYOMING,Estimated total,100.0%,476,4,91,29,352,"4,120",488,"3,386",246
-WYOMING,Nonmetropolitan counties,,"160,329",,,,,,,,,
-WYOMING,WYOMING,Area actually reporting,89.1%,220,3,38,3,176,958,174,708,76
-WYOMING,WYOMING,Estimated total,100.0%,254,3,42,17,192,"1,086",178,794,114
-WYOMING,State Total,,"577,737","1,226",13,243,100,870,"10,313","1,525","7,949",839
-WYOMING,WYOMING,"Rate per 100,000 inhabitants",,212.2,2.3,42.1,17.3,150.6,"1,785.1",264.0,"1,375.9",145.2
+State,Area,Var.3,Population,Violentcrime1,Murder.and.nonnegligent.manslaughter,Rape.reviseddefinition.2,Rape.legacydefinition.3,Robbery,Aggravated.assault,Property.crime,Burglary,Larceny.theft,Motor.vehicle.theft
+ALABAMA,Metropolitan Statistical Area,,"3,708,033",,,,,,,,,,
+ALABAMA,Metropolitan Statistical Area,Area actually reporting,97.1%,"18,122",283,"1,496","1,080","4,080","12,263","113,447","27,208","78,141","8,098"
+ALABAMA,Metropolitan Statistical Area,Estimated total,100.0%,"18,500",287,"1,537","1,111","4,138","12,538","115,920","27,852","79,799","8,269"
+ALABAMA,Cities outside metropolitan areas,,"522,241",,,,,,,,,,
+ALABAMA,ALABAMA,Area actually reporting,97.4%,"3,178",32,311,218,354,"2,481","20,873","4,438","15,106","1,329"
+ALABAMA,ALABAMA,Estimated total,100.0%,"3,240",33,315,222,360,"2,532","21,203","4,518","15,329","1,356"
+ALABAMA,Nonmetropolitan counties,,"628,705",,,,,,,,,,
+ALABAMA,ALABAMA,Area actually reporting,99.4%,"1,205",28,186,122,112,879,"7,578","2,868","4,004",706
+ALABAMA,ALABAMA,Estimated total,100.0%,"1,212",28,187,123,113,884,"7,623","2,885","4,028",710
+ALABAMA,State Total,,"4,858,979","22,952",348,"2,039","1,456","4,611","15,954","144,746","35,255","99,156","10,335"
+ALABAMA,ALABAMA,"Rate per 100,000 inhabitants",,472.4,7.2,42.0,30.0,94.9,328.3,"2,978.9",725.6,"2,040.7",212.7
+ALASKA,Metropolitan Statistical Area,,"351,857",,,,,,,,,,
+ALASKA,Metropolitan Statistical Area,Area actually reporting,100.0%,"3,464",27,541,401,658,"2,238","14,151","1,919","10,884","1,348"
+ALASKA,Cities outside metropolitan areas,,"127,499",,,,,,,,,,
+ALASKA,ALASKA,Area actually reporting,97.2%,886,10,178,128,60,638,"3,523",530,"2,737",256
+ALASKA,ALASKA,Estimated total,100.0%,913,10,184,133,62,657,"3,625",545,"2,817",263
+ALASKA,Nonmetropolitan counties,,"259,076",,,,,,,,,,
+ALASKA,ALASKA,Area actually reporting,100.0%,"1,015",22,176,116,41,776,"3,030","1,047","1,548",435
+ALASKA,State Total,,"738,432","5,392",59,901,650,761,"3,671","20,806","3,511","15,249","2,046"
+ALASKA,ALASKA,"Rate per 100,000 inhabitants",,730.2,8.0,122.0,88.0,103.1,497.1,"2,817.6",475.5,"2,065.1",277.1
+ARIZONA,Metropolitan Statistical Area,,"6,479,810",,,,,,,,,,
+ARIZONA,Metropolitan Statistical Area,Area actually reporting,99.7%,"24,725",280,"2,805","2,072","6,239","15,401","198,411","35,919","146,431","16,061"
+ARIZONA,Metropolitan Statistical Area,Estimated total,100.0%,"24,781",280,"2,811","2,077","6,251","15,439","198,994","36,015","146,882","16,097"
+ARIZONA,Cities outside metropolitan areas,,"124,240",,,,,,,,,,
+ARIZONA,ARIZONA,Area actually reporting,93.9%,"2,678",24,269,199,91,"2,294","5,854","1,280","4,095",479
+ARIZONA,ARIZONA,Estimated total,100.0%,"2,851",26,286,210,97,"2,442","6,233","1,363","4,360",510
+ARIZONA,Nonmetropolitan counties,,"224,015",,,,,,,,,,
+ARIZONA,ARIZONA,Area actually reporting,100.0%,380,3,11,7,12,354,"1,880",579,"1,123",178
+ARIZONA,State Total,,"6,828,065","28,012",309,"3,108","2,294","6,360","18,235","207,107","37,957","152,365","16,785"
+ARIZONA,ARIZONA,"Rate per 100,000 inhabitants",,410.2,4.5,45.5,33.6,93.1,267.1,"3,033.2",555.9,"2,231.5",245.8
+ARKANSAS,Metropolitan Statistical Area,,"1,837,196",,,,,,,,,,
+ARKANSAS,Metropolitan Statistical Area,Area actually reporting,99.9%,"10,724",124,"1,133",838,"1,673","7,794","67,157","14,402","48,559","4,196"
+ARKANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"10,727",124,"1,134",839,"1,673","7,796","67,180","14,407","48,576","4,197"
+ARKANSAS,Cities outside metropolitan areas,,"515,124",,,,,,,,,,
+ARKANSAS,ARKANSAS,Area actually reporting,89.3%,"2,724",36,406,248,333,"1,949","17,524","4,692","12,108",724
+ARKANSAS,ARKANSAS,Estimated total,100.0%,"3,057",40,462,289,373,"2,182","19,622","5,254","13,557",811
+ARKANSAS,Nonmetropolitan counties,,"625,884",,,,,,,,,,
+ARKANSAS,ARKANSAS,Area actually reporting,90.1%,"1,559",15,292,143,47,"1,205","9,036","2,683","5,665",688
+ARKANSAS,ARKANSAS,Estimated total,100.0%,"1,742",17,335,172,52,"1,338","10,034","2,979","6,291",764
+ARKANSAS,State Total,,"2,978,204","15,526",181,"1,931","1,300","2,098","11,316","96,836","22,640","68,424","5,772"
+ARKANSAS,ARKANSAS,"Rate per 100,000 inhabitants",,521.3,6.1,64.8,43.7,70.4,380.0,"3,251.5",760.2,"2,297.5",193.8
+CALIFORNIA,Metropolitan Statistical Area,,"38,317,995",,,,,,,,,,
+CALIFORNIA,Metropolitan Statistical Area,Area actually reporting,99.9%,"163,195","1,815","12,411","9,116","52,439","96,530","1,006,421","192,016","645,773","168,632"
+CALIFORNIA,Metropolitan Statistical Area,Estimated total,100.0%,"163,219","1,815","12,413","9,117","52,447","96,544","1,006,607","192,051","645,895","168,661"
+CALIFORNIA,Cities outside metropolitan areas,,"268,497",,,,,,,,,,
+CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"1,630",15,151,106,245,"1,219","9,889","2,189","6,747",953
+CALIFORNIA,Nonmetropolitan counties,,"558,326",,,,,,,,,,
+CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"2,034",31,247,164,170,"1,586","8,418","3,164","3,875","1,379"
+CALIFORNIA,State Total,,"39,144,818","166,883","1,861","12,811","9,387","52,862","99,349","1,024,914","197,404","656,517","170,993"
+CALIFORNIA,CALIFORNIA,"Rate per 100,000 inhabitants",,426.3,4.8,32.7,24.0,135.0,253.8,"2,618.3",504.3,"1,677.1",436.8
+COLORADO,Metropolitan Statistical Area,,"4,763,884",,,,,,,,,,
+COLORADO,Metropolitan Statistical Area,Area actually reporting,99.9%,"16,306",164,"2,991","2,196","3,235","9,916","131,216","21,077","94,787","15,352"
+COLORADO,Metropolitan Statistical Area,Estimated total,100.0%,"16,308",164,"2,991","2,196","3,235","9,918","131,247","21,081","94,811","15,355"
+COLORADO,Cities outside metropolitan areas,,"335,080",,,,,,,,,,
+COLORADO,COLORADO,Area actually reporting,96.9%,750,6,167,119,75,502,"9,539","1,440","7,708",391
+COLORADO,COLORADO,Estimated total,100.0%,771,6,170,122,77,518,"9,842","1,486","7,953",403
+COLORADO,Nonmetropolitan counties,,"357,610",,,,,,,,,,
+COLORADO,COLORADO,Area actually reporting,98.4%,430,6,95,58,11,318,"2,999",873,"1,888",238
+COLORADO,COLORADO,Estimated total,100.0%,436,6,96,59,11,323,"3,047",887,"1,918",242
+COLORADO,State Total,,"5,456,574","17,515",176,"3,257","2,377","3,323","10,759","144,136","23,454","104,682","16,000"
+COLORADO,COLORADO,"Rate per 100,000 inhabitants",,321.0,3.2,59.7,43.6,60.9,197.2,"2,641.5",429.8,"1,918.5",293.2
+CONNECTICUT,Metropolitan Statistical Area,,"2,951,843",,,,,,,,,,
+CONNECTICUT,Metropolitan Statistical Area,Area actually reporting,100.0%,"7,441",102,694,521,"2,819","3,826","59,961","9,050","44,991","5,920"
+CONNECTICUT,Cities outside metropolitan areas,,"114,485",,,,,,,,,,
+CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,110,1,23,20,27,59,"1,968",269,"1,606",93
+CONNECTICUT,Nonmetropolitan counties,,"524,558",,,,,,,,,,
+CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,294,14,56,41,46,178,"3,137",734,"2,078",325
+CONNECTICUT,State Total,,"3,590,886","7,845",117,773,582,"2,892","4,063","65,066","10,053","48,675","6,338"
+CONNECTICUT,CONNECTICUT,"Rate per 100,000 inhabitants",,218.5,3.3,21.5,16.2,80.5,113.1,"1,812.0",280.0,"1,355.5",176.5
+DELAWARE,Metropolitan Statistical Area,,"945,934",,,,,,,,,,
+DELAWARE,Metropolitan Statistical Area,Area actually reporting,100.0%,"4,720",63,341,243,"1,235","3,081","25,454","4,772","19,501","1,181"
+DELAWARE,Cities outside metropolitan areas,,None,,,,,,,,,,
+DELAWARE,Nonmetropolitan counties,,None,,,,,,,,,,
+DELAWARE,DELAWARE,Area actually reporting,100.0%,0,0,0,0,0,0,1,1,0,0
+DELAWARE,State Total,,"945,934","4,720",63,341,243,"1,235","3,081","25,455","4,773","19,501","1,181"
+DELAWARE,DELAWARE,"Rate per 100,000 inhabitants",,499.0,6.7,36.0,25.7,130.6,325.7,"2,691.0",504.6,"2,061.6",124.9
+DISTRICT OF COLUMBIA4,Metropolitan Statistical Area,,"672,228",,,,,,,,,,
+DISTRICT OF COLUMBIA4,Metropolitan Statistical Area,Area actually reporting,100.0%,"8,531",162,494,366,"3,742","4,133","31,435","2,971","25,200","3,264"
+DISTRICT OF COLUMBIA4,Cities outside metropolitan areas,,None,,,,,,,,,,
+DISTRICT OF COLUMBIA4,Nonmetropolitan counties,,None,,,,,,,,,,
+DISTRICT OF COLUMBIA4,Total,,"672,228","8,531",162,494,366,"3,742","4,133","31,435","2,971","25,200","3,264"
+DISTRICT OF COLUMBIA4,DISTRICT OF COLUMBIA4,"Rate per 100,000 inhabitants",,"1,269.1",24.1,73.5,54.4,556.7,614.8,"4,676.2",442.0,"3,748.7",485.5
+FLORIDA,Metropolitan Statistical Area,,"19,564,380",,,,,,,,,,
+FLORIDA,Metropolitan Statistical Area,Area actually reporting,99.8%,"89,825",999,"7,321","5,273","20,811","60,694","553,343","104,601","408,936","39,806"
+FLORIDA,Metropolitan Statistical Area,Estimated total,100.0%,"89,966","1,000","7,334","5,283","20,843","60,789","554,303","104,776","409,655","39,872"
+FLORIDA,Cities outside metropolitan areas,,"147,871",,,,,,,,,,
+FLORIDA,FLORIDA,Area actually reporting,96.6%,"1,032",12,54,37,160,806,"5,799","1,224","4,299",276
+FLORIDA,FLORIDA,Estimated total,100.0%,"1,067",12,55,38,166,834,"6,001","1,267","4,448",286
+FLORIDA,Nonmetropolitan counties,,"559,021",,,,,,,,,,
+FLORIDA,FLORIDA,Area actually reporting,98.5%,"2,555",29,162,108,126,"2,238","9,815","3,176","6,144",495
+FLORIDA,FLORIDA,Estimated total,100.0%,"2,593",29,164,109,128,"2,272","9,966","3,225","6,238",503
+FLORIDA,State Total,,"20,271,272","93,626","1,041","7,553","5,430","21,137","63,895","570,270","109,268","420,341","40,661"
+FLORIDA,FLORIDA,"Rate per 100,000 inhabitants",,461.9,5.1,37.3,26.8,104.3,315.2,"2,813.2",539.0,"2,073.6",200.6
+GEORGIA5,Metropolitan Statistical Area,,"8,441,820",,,,,,,,,,
+GEORGIA5,Metropolitan Statistical Area,Area actually reporting,97.2%,"32,186",508,"2,568","1,845","11,058","18,052","253,823","53,387","176,339","24,097"
+GEORGIA5,Metropolitan Statistical Area,Estimated total,100.0%,"32,948",518,"2,631","1,891","11,314","18,485","260,183","54,795","180,700","24,688"
+GEORGIA5,Cities outside metropolitan areas,,"643,253",,,,,,,,,,
+GEORGIA5,GEORGIA5,Area actually reporting,92.6%,"2,910",41,258,191,691,"1,920","26,480","5,213","20,516",751
+GEORGIA5,GEORGIA5,Estimated total,100.0%,"3,132",44,269,202,746,"2,073","28,595","5,629","22,155",811
+GEORGIA5,Nonmetropolitan counties,,"1,129,787",,,,,,,,,,
+GEORGIA5,GEORGIA5,Area actually reporting,91.1%,"2,334",48,294,186,170,"1,822","18,179","5,423","11,860",896
+GEORGIA5,GEORGIA5,Estimated total,100.0%,"2,563",53,324,203,187,"1,999","19,945","5,950","13,012",983
+GEORGIA5,State Total,,"10,214,860","38,643",615,"3,224","2,296","12,247","22,557","308,723","66,374","215,867","26,482"
+GEORGIA5,GEORGIA5,"Rate per 100,000 inhabitants",,378.3,6.0,31.6,22.5,119.9,220.8,"3,022.3",649.8,"2,113.3",259.2
+HAWAII,Metropolitan Statistical Area,,"1,164,233",,,,,,,,,,
+HAWAII,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,994",19,412,302,"1,009","1,554","37,090","5,291","27,346","4,453"
+HAWAII,Cities outside metropolitan areas,,None,,,,,,,,,,
+HAWAII,Nonmetropolitan counties,,"267,370",,,,,,,,,,
+HAWAII,HAWAII,Estimated total,100.0%,"1,207",0,149,98,194,864,"17,256","1,266","14,664","1,326"
+HAWAII,State Total,,"1,431,603","4,201",19,561,400,"1,203","2,418","54,346","6,557","42,010","5,779"
+HAWAII,HAWAII,"Rate per 100,000 inhabitants",,293.4,1.3,39.2,27.9,84.0,168.9,"3,796.2",458.0,"2,934.5",403.7
+IDAHO,Metropolitan Statistical Area,,"1,104,754",,,,,,,,,,
+IDAHO,Metropolitan Statistical Area,Area actually reporting,99.9%,"2,537",19,497,369,150,"1,871","20,974","4,039","15,529","1,406"
+IDAHO,Metropolitan Statistical Area,Estimated total,100.0%,"2,538",19,497,369,150,"1,872","20,984","4,041","15,536","1,407"
+IDAHO,Cities outside metropolitan areas,,"253,084",,,,,,,,,,
+IDAHO,IDAHO,Area actually reporting,100.0%,598,7,122,104,34,435,"4,927","1,056","3,644",227
+IDAHO,Nonmetropolitan counties,,"297,092",,,,,,,,,,
+IDAHO,IDAHO,Area actually reporting,100.0%,432,6,75,60,8,343,"2,947","1,027","1,683",237
+IDAHO,State Total,,"1,654,930","3,568",32,694,533,192,"2,650","28,858","6,124","20,863","1,871"
+IDAHO,IDAHO,"Rate per 100,000 inhabitants",,215.6,1.9,41.9,32.2,11.6,160.1,"1,743.8",370.0,"1,260.7",113.1
+ILLINOIS,Metropolitan Statistical Area,,"11,374,234",,,,,,,,,,
+ILLINOIS,Metropolitan Statistical Area,Area actually reporting,96.3%,"44,926",690,"4,050","2,989","14,460","25,726","226,018","40,306","169,148","16,564"
+ILLINOIS,Metropolitan Statistical Area,Estimated total,100.0%,"45,743",697,"4,186","3,093","14,654","26,206","232,866","41,454","174,548","16,864"
+ILLINOIS,Cities outside metropolitan areas,,"829,658",,,,,,,,,,
+ILLINOIS,ILLINOIS,Area actually reporting,83.3%,"2,168",18,357,257,182,"1,611","14,824","2,931","11,494",399
+ILLINOIS,ILLINOIS,Estimated total,100.0%,"2,601",22,426,316,218,"1,935","17,801","3,520","13,802",479
+ILLINOIS,Nonmetropolitan counties,,"656,103",,,,,,,,,,
+ILLINOIS,ILLINOIS,Area actually reporting,94.2%,950,24,195,131,36,695,"4,766","1,383","3,092",291
+ILLINOIS,ILLINOIS,Estimated total,100.0%,"1,010",25,209,140,38,738,"5,062","1,469","3,284",309
+ILLINOIS,State Total,,"12,859,995","49,354",744,"4,821","3,549","14,910","28,879","255,729","46,443","191,634","17,652"
+ILLINOIS,ILLINOIS,"Rate per 100,000 inhabitants",,383.8,5.8,37.5,27.6,115.9,224.6,"1,988.6",361.1,"1,490.2",137.3
+INDIANA6,Metropolitan Statistical Area,,"5,150,613",,,,,,,,,,
+INDIANA6,Metropolitan Statistical Area,Area actually reporting,88.2%,"21,779",323,"1,853","1,384","6,625","12,978","136,529","27,995","97,087","11,447"
+INDIANA6,Metropolitan Statistical Area,Estimated total,100.0%,"22,994",335,"1,979","1,479","6,851","13,829","148,065","29,832","105,957","12,276"
+INDIANA6,Cities outside metropolitan areas,,"522,395",,,,,,,,,,
+INDIANA6,INDIANA6,Area actually reporting,70.3%,"1,152",12,158,114,135,847,"10,471","1,470","8,505",496
+INDIANA6,INDIANA6,Estimated total,100.0%,"1,636",17,223,166,192,"1,204","14,889","2,090","12,094",705
+INDIANA6,Nonmetropolitan counties,,"946,672",,,,,,,,,,
+INDIANA6,INDIANA6,Area actually reporting,72.2%,729,15,137,104,49,528,"6,417","1,795","4,234",388
+INDIANA6,INDIANA6,Estimated total,100.0%,"1,023",21,202,144,68,732,"8,893","2,488","5,867",538
+INDIANA6,State Total,,"6,619,680","25,653",373,"2,404","1,789","7,111","15,765","171,847","34,410","123,918","13,519"
+INDIANA6,INDIANA6,"Rate per 100,000 inhabitants",,387.5,5.6,36.3,27.0,107.4,238.2,"2,596.0",519.8,"1,872.0",204.2
+IOWA,Metropolitan Statistical Area,,"1,840,338",,,,,,,,,,
+IOWA,Metropolitan Statistical Area,Area actually reporting,99.3%,"5,986",53,782,581,894,"4,257","44,884","9,734","31,932","3,218"
+IOWA,Metropolitan Statistical Area,Estimated total,100.0%,"6,018",53,787,585,896,"4,282","45,107","9,777","32,102","3,228"
+IOWA,Cities outside metropolitan areas,,"594,976",,,,,,,,,,
+IOWA,IOWA,Area actually reporting,96.6%,"2,110",9,249,192,136,"1,716","14,168","3,412","10,030",726
+IOWA,IOWA,Estimated total,100.0%,"2,184",9,258,199,141,"1,776","14,659","3,530","10,378",751
+IOWA,Nonmetropolitan counties,,"688,585",,,,,,,,,,
+IOWA,IOWA,Area actually reporting,100.0%,734,10,111,67,10,603,"4,191","1,585","2,243",363
+IOWA,State Total,,"3,123,899","8,936",72,"1,156",851,"1,047","6,661","63,957","14,892","44,723","4,342"
+IOWA,IOWA,"Rate per 100,000 inhabitants",,286.1,2.3,37.0,27.2,33.5,213.2,"2,047.3",476.7,"1,431.6",139.0
+KANSAS,Metropolitan Statistical Area,,"1,965,292",,,,,,,,,,
+KANSAS,Metropolitan Statistical Area,Area actually reporting,97.6%,"8,382",93,"1,189",928,"1,616","5,484","57,049","10,398","40,905","5,746"
+KANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"8,473",93,"1,200",936,"1,627","5,553","57,942","10,562","41,561","5,819"
+KANSAS,Cities outside metropolitan areas,,"607,622",,,,,,,,,,
+KANSAS,KANSAS,Area actually reporting,94.0%,"2,022",24,291,231,165,"1,542","15,954","2,972","12,236",746
+KANSAS,KANSAS,Estimated total,100.0%,"2,147",26,305,242,176,"1,640","16,973","3,162","13,017",794
+KANSAS,Nonmetropolitan counties,,"338,727",,,,,,,,,,
+KANSAS,KANSAS,Area actually reporting,97.0%,711,9,106,70,15,581,"4,156","1,589","2,233",334
+KANSAS,KANSAS,Estimated total,100.0%,733,9,110,73,15,599,"4,284","1,638","2,302",344
+KANSAS,State Total,,"2,911,641","11,353",128,"1,615","1,251","1,818","7,792","79,199","15,362","56,880","6,957"
+KANSAS,KANSAS,"Rate per 100,000 inhabitants",,389.9,4.4,55.5,43.0,62.4,267.6,"2,720.1",527.6,"1,953.5",238.9
+KENTUCKY,Metropolitan Statistical Area,,"2,589,701",,,,,,,,,,
+KENTUCKY,Metropolitan Statistical Area,Area actually reporting,100.0%,"7,446",124,852,573,"2,836","3,634","72,101","15,154","50,770","6,177"
+KENTUCKY,Cities outside metropolitan areas,,"540,143",,,,,,,,,,
+KENTUCKY,KENTUCKY,Area actually reporting,99.9%,906,13,170,123,312,411,"14,227","2,833","10,763",631
+KENTUCKY,KENTUCKY,Estimated total,100.0%,906,13,170,123,312,411,"14,235","2,835","10,769",631
+KENTUCKY,Nonmetropolitan counties,,"1,295,248",,,,,,,,,,
+KENTUCKY,KENTUCKY,Area actually reporting,100.0%,"1,324",72,470,301,159,623,"10,026","4,271","4,781",974
+KENTUCKY,State Total,,"4,425,092","9,676",209,"1,492",997,"3,307","4,668","96,362","22,260","66,320","7,782"
+KENTUCKY,KENTUCKY,"Rate per 100,000 inhabitants",,218.7,4.7,33.7,22.5,74.7,105.5,"2,177.6",503.0,"1,498.7",175.9
+LOUISIANA,Metropolitan Statistical Area,,"3,907,874",,,,,,,,,,
+LOUISIANA,Metropolitan Statistical Area,Area actually reporting,98.0%,"21,722",433,"1,522","1,113","5,123","14,644","133,837","29,607","95,453","8,777"
+LOUISIANA,Metropolitan Statistical Area,Estimated total,100.0%,"22,042",436,"1,544","1,130","5,173","14,889","136,310","30,124","97,285","8,901"
+LOUISIANA,Cities outside metropolitan areas,,"248,611",,,,,,,,,,
+LOUISIANA,LOUISIANA,Area actually reporting,90.5%,"1,603",18,68,49,263,"1,254","11,274","2,819","8,148",307
+LOUISIANA,LOUISIANA,Estimated total,100.0%,"1,774",20,77,57,291,"1,386","12,457","3,115","9,003",339
+LOUISIANA,Nonmetropolitan counties,,"514,239",,,,,,,,,,
+LOUISIANA,LOUISIANA,Area actually reporting,97.0%,"1,350",24,99,71,83,"1,144","7,628","2,148","4,994",486
+LOUISIANA,LOUISIANA,Estimated total,100.0%,"1,392",25,102,73,86,"1,179","7,862","2,214","5,147",501
+LOUISIANA,State Total,,"4,670,724","25,208",481,"1,723","1,260","5,550","17,454","156,629","35,453","111,435","9,741"
+LOUISIANA,LOUISIANA,"Rate per 100,000 inhabitants",,539.7,10.3,36.9,27.0,118.8,373.7,"3,353.4",759.0,"2,385.8",208.6
+MAINE6,Metropolitan Statistical Area,,"785,828",,,,,,,,,,
+MAINE6,Metropolitan Statistical Area,Area actually reporting,100.0%,996,7,222,174,245,522,"14,577","2,607","11,513",457
+MAINE6,Cities outside metropolitan areas,,"265,131",,,,,,,,,,
+MAINE6,MAINE6,Area actually reporting,100.0%,464,10,169,128,55,230,"6,636","1,061","5,393",182
+MAINE6,Nonmetropolitan counties,,"278,369",,,,,,,,,,
+MAINE6,MAINE6,Area actually reporting,100.0%,269,6,83,52,11,169,"3,114","1,016","1,923",175
+MAINE6,State Total,,"1,329,328","1,729",23,474,354,311,921,"24,327","4,684","18,829",814
+MAINE6,MAINE6,"Rate per 100,000 inhabitants",,130.1,1.7,35.7,26.6,23.4,69.3,"1,830.0",352.4,"1,416.4",61.2
+MARYLAND,Metropolitan Statistical Area,,"5,855,016",,,,,,,,,,
+MARYLAND,Metropolitan Statistical Area,Area actually reporting,100.0%,"26,972",515,"1,623","1,152","9,757","15,077","135,770","24,899","97,815","13,056"
+MARYLAND,Cities outside metropolitan areas,,"52,865",,,,,,,,,,
+MARYLAND,MARYLAND,Area actually reporting,100.0%,324,0,22,17,75,227,"1,915",341,"1,538",36
+MARYLAND,Nonmetropolitan counties,,"98,520",,,,,,,,,,
+MARYLAND,MARYLAND,Area actually reporting,100.0%,166,1,21,15,31,113,"1,363",438,866,59
+MARYLAND,State Total,,"6,006,401","27,462",516,"1,666","1,184","9,863","15,417","139,048","25,678","100,219","13,151"
+MARYLAND,MARYLAND,"Rate per 100,000 inhabitants",,457.2,8.6,27.7,19.7,164.2,256.7,"2,315.0",427.5,"1,668.5",218.9
+MASSACHUSETTS,Metropolitan Statistical Area,,"6,695,032",,,,,,,,,,
+MASSACHUSETTS,Metropolitan Statistical Area,Area actually reporting,96.8%,"25,477",124,"1,965","1,520","5,160","18,228","109,844","20,931","81,135","7,778"
+MASSACHUSETTS,Metropolitan Statistical Area,Estimated total,100.0%,"26,163",126,"2,030","1,570","5,267","18,740","113,118","21,554","83,565","7,999"
+MASSACHUSETTS,Cities outside metropolitan areas,,"91,950",,,,,,,,,,
+MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,86.0%,337,2,36,31,18,281,"1,507",289,"1,158",60
+MASSACHUSETTS,MASSACHUSETTS,Estimated total,100.0%,393,2,43,37,21,327,"1,753",336,"1,347",70
+MASSACHUSETTS,Nonmetropolitan counties,,"7,440",,,,,,,,,,
+MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,100.0%,6,0,2,1,0,4,0,0,0,0
+MASSACHUSETTS,State Total,,"6,794,422","26,562",128,"2,075","1,608","5,288","19,071","114,871","21,890","84,912","8,069"
+MASSACHUSETTS,MASSACHUSETTS,"Rate per 100,000 inhabitants",,390.9,1.9,30.5,23.7,77.8,280.7,"1,690.7",322.2,"1,249.7",118.8
+MICHIGAN,Metropolitan Statistical Area,,"8,121,585",,,,,,,,,,
+MICHIGAN,Metropolitan Statistical Area,Area actually reporting,99.5%,"36,719",528,"4,829","3,119","7,663","23,699","162,248","34,728","112,670","14,850"
+MICHIGAN,Metropolitan Statistical Area,Estimated total,100.0%,"36,839",528,"4,853","3,137","7,684","23,774","163,072","34,871","113,292","14,909"
+MICHIGAN,Cities outside metropolitan areas,,"599,913",,,,,,,,,,
+MICHIGAN,MICHIGAN,Area actually reporting,94.4%,"1,443",8,491,331,60,884,"11,083","1,537","9,242",304
+MICHIGAN,MICHIGAN,Estimated total,100.0%,"1,537",8,529,361,64,936,"11,735","1,627","9,786",322
+MICHIGAN,Nonmetropolitan counties,,"1,201,078",,,,,,,,,,
+MICHIGAN,MICHIGAN,Area actually reporting,98.7%,"2,813",35,"1,049",653,47,"1,682","12,134","3,497","8,111",526
+MICHIGAN,MICHIGAN,Estimated total,100.0%,"2,855",35,"1,068",665,48,"1,704","12,294","3,543","8,218",533
+MICHIGAN,State Total,,"9,922,576","41,231",571,"6,450","4,163","7,796","26,414","187,101","40,041","131,296","15,764"
+MICHIGAN,MICHIGAN,"Rate per 100,000 inhabitants",,415.5,5.8,65.0,42.0,78.6,266.2,"1,885.6",403.5,"1,323.2",158.9
+MINNESOTA,Metropolitan Statistical Area,,"4,254,071",,,,,,,,,,
+MINNESOTA,Metropolitan Statistical Area,Area actually reporting,100.0%,"11,461",104,"1,813","1,327","3,633","5,911","101,503","15,434","79,140","6,929"
+MINNESOTA,Cities outside metropolitan areas,,"533,363",,,,,,,,,,
+MINNESOTA,MINNESOTA,Area actually reporting,100.0%,"1,130",12,292,213,119,707,"13,502","1,787","11,186",529
+MINNESOTA,Nonmetropolitan counties,,"702,160",,,,,,,,,,
+MINNESOTA,MINNESOTA,Area actually reporting,100.0%,728,17,216,146,19,476,"6,979","2,078","4,378",523
+MINNESOTA,State Total,,"5,489,594","13,319",133,"2,321","1,686","3,771","7,094","121,984","19,299","94,704","7,981"
+MINNESOTA,MINNESOTA,"Rate per 100,000 inhabitants",,242.6,2.4,42.3,30.7,68.7,129.2,"2,222.1",351.6,"1,725.2",145.4
+MISSISSIPPI6,Metropolitan Statistical Area,,"1,372,083",,,,,,,,,,
+MISSISSIPPI6,Metropolitan Statistical Area,Area actually reporting,77.3%,"3,343",95,431,323,"1,195","1,622","33,634","8,218","23,237","2,179"
+MISSISSIPPI6,Metropolitan Statistical Area,Estimated total,100.0%,"3,834",105,490,366,"1,280","1,959","40,232","9,762","27,966","2,504"
+MISSISSIPPI6,Cities outside metropolitan areas,,"585,231",,,,,,,,,,
+MISSISSIPPI6,MISSISSIPPI6,Area actually reporting,48.0%,"1,147",43,148,108,371,585,"14,024","3,902","9,606",516
+MISSISSIPPI6,MISSISSIPPI6,Estimated total,100.0%,"2,407",90,327,246,772,"1,218","29,192","8,122","19,996","1,074"
+MISSISSIPPI6,Nonmetropolitan counties,,"1,035,019",,,,,,,,,,
+MISSISSIPPI6,MISSISSIPPI6,Area actually reporting,41.8%,834,27,154,101,101,552,"6,422","2,890","3,254",278
+MISSISSIPPI6,MISSISSIPPI6,Estimated total,100.0%,"2,013",64,386,250,242,"1,321","15,366","6,915","7,786",665
+MISSISSIPPI6,State Total,,"2,992,333","8,254",259,"1,203",862,"2,294","4,498","84,790","24,799","55,748","4,243"
+MISSISSIPPI6,MISSISSIPPI6,"Rate per 100,000 inhabitants",,275.8,8.7,40.2,28.8,76.7,150.3,"2,833.6",828.8,"1,863.0",141.8
+MISSOURI,Metropolitan Statistical Area,,"4,532,929",,,,,,,,,,
+MISSOURI,Metropolitan Statistical Area,Area actually reporting,99.9%,"25,261",441,"2,105","1,531","6,029","16,686","139,741","26,437","98,339","14,965"
+MISSOURI,Metropolitan Statistical Area,Estimated total,100.0%,"25,264",441,"2,105","1,531","6,030","16,688","139,769","26,441","98,361","14,967"
+MISSOURI,Cities outside metropolitan areas,,"664,269",,,,,,,,,,
+MISSOURI,MISSOURI,Area actually reporting,99.4%,"2,770",28,246,179,292,"2,204","22,566","3,780","17,819",967
+MISSOURI,MISSOURI,Estimated total,100.0%,"2,785",28,246,179,294,"2,217","22,699","3,802","17,924",973
+MISSOURI,Nonmetropolitan counties,,"886,474",,,,,,,,,,
+MISSOURI,MISSOURI,Area actually reporting,100.0%,"2,212",33,202,144,52,"1,925","11,174","3,763","6,352","1,059"
+MISSOURI,State Total,,"6,083,672","30,261",502,"2,553","1,854","6,376","20,830","173,642","34,006","122,637","16,999"
+MISSOURI,MISSOURI,"Rate per 100,000 inhabitants",,497.4,8.3,42.0,30.5,104.8,342.4,"2,854.2",559.0,"2,015.8",279.4
+MONTANA,Metropolitan Statistical Area,,"365,179",,,,,,,,,,
+MONTANA,Metropolitan Statistical Area,Area actually reporting,99.9%,"1,299",20,195,135,134,950,"12,583","1,673","9,714","1,196"
+MONTANA,Metropolitan Statistical Area,Estimated total,100.0%,"1,300",20,195,135,134,951,"12,598","1,674","9,727","1,197"
+MONTANA,Cities outside metropolitan areas,,"218,086",,,,,,,,,,
+MONTANA,MONTANA,Area actually reporting,99.1%,"1,134",6,203,172,52,873,"7,589",895,"6,136",558
+MONTANA,MONTANA,Estimated total,100.0%,"1,145",6,206,174,52,881,"7,656",903,"6,190",563
+MONTANA,Nonmetropolitan counties,,"449,684",,,,,,,,,,
+MONTANA,MONTANA,Area actually reporting,98.5%,"1,147",10,142,120,24,971,"6,743","1,242","4,853",648
+MONTANA,MONTANA,Estimated total,100.0%,"1,166",10,146,122,24,986,"6,846","1,261","4,927",658
+MONTANA,State Total,,"1,032,949","3,611",36,547,431,210,"2,818","27,100","3,838","20,844","2,418"
+MONTANA,MONTANA,"Rate per 100,000 inhabitants",,349.6,3.5,53.0,41.7,20.3,272.8,"2,623.6",371.6,"2,017.9",234.1
+NEBRASKA6,Metropolitan Statistical Area,,"1,227,692",,,,,,,,,,
+NEBRASKA6,Metropolitan Statistical Area,Area actually reporting,99.2%,"4,027",50,594,441,929,"2,454","32,043","4,539","24,109","3,395"
+NEBRASKA6,Metropolitan Statistical Area,Estimated total,100.0%,"4,036",50,597,444,929,"2,460","32,191","4,559","24,226","3,406"
+NEBRASKA6,Cities outside metropolitan areas,,"335,719",,,,,,,,,,
+NEBRASKA6,NEBRASKA6,Area actually reporting,93.7%,781,6,200,152,50,525,"7,472","1,132","5,985",355
+NEBRASKA6,NEBRASKA6,Estimated total,100.0%,838,6,219,167,53,560,"7,973","1,208","6,386",379
+NEBRASKA6,Nonmetropolitan counties,,"332,779",,,,,,,,,,
+NEBRASKA6,NEBRASKA6,Area actually reporting,90.4%,305,5,51,38,11,238,"2,106",592,"1,319",195
+NEBRASKA6,NEBRASKA6,Estimated total,100.0%,338,6,57,41,12,263,"2,331",655,"1,460",216
+NEBRASKA6,State Total,,"1,896,190","5,212",62,873,652,994,"3,283","42,495","6,422","32,072","4,001"
+NEBRASKA6,NEBRASKA6,"Rate per 100,000 inhabitants",,274.9,3.3,46.0,34.4,52.4,173.1,"2,241.1",338.7,"1,691.4",211.0
+NEVADA,Metropolitan Statistical Area,,"2,617,805",,,,,,,,,,
+NEVADA,Metropolitan Statistical Area,Area actually reporting,100.0%,"19,404",166,"1,565","1,156","6,244","11,429","72,206","20,939","40,285","10,982"
+NEVADA,Cities outside metropolitan areas,,"48,996",,,,,,,,,,
+NEVADA,NEVADA,Area actually reporting,100.0%,237,2,41,29,10,184,"1,688",456,"1,130",102
+NEVADA,Nonmetropolitan counties,,"224,044",,,,,,,,,,
+NEVADA,NEVADA,Area actually reporting,100.0%,477,10,82,53,33,352,"3,243",965,"2,011",267
+NEVADA,State Total,,"2,890,845","20,118",178,"1,688","1,238","6,287","11,965","77,137","22,360","43,426","11,351"
+NEVADA,NEVADA,"Rate per 100,000 inhabitants",,695.9,6.2,58.4,42.8,217.5,413.9,"2,668.3",773.5,"1,502.2",392.7
+NEW HAMPSHIRE,Metropolitan Statistical Area,,"835,158",,,,,,,,,,
+NEW HAMPSHIRE,Metropolitan Statistical Area,Area actually reporting,97.9%,"1,743",14,360,277,365,"1,004","13,955","1,967","11,385",603
+NEW HAMPSHIRE,Metropolitan Statistical Area,Estimated total,100.0%,"1,766",14,367,283,368,"1,017","14,201","2,000","11,588",613
+NEW HAMPSHIRE,Cities outside metropolitan areas,,"443,394",,,,,,,,,,
+NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,89.3%,750,0,218,148,87,445,"7,785","1,206","6,343",236
+NEW HAMPSHIRE,NEW HAMPSHIRE,Estimated total,100.0%,847,0,251,173,97,499,"8,721","1,351","7,106",264
+NEW HAMPSHIRE,Nonmetropolitan counties,,"52,056",,,,,,,,,,
+NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,100.0%,39,0,9,5,3,27,307,116,177,14
+NEW HAMPSHIRE,State Total,,"1,330,608","2,652",14,627,461,468,"1,543","23,229","3,467","18,871",891
+NEW HAMPSHIRE,NEW HAMPSHIRE,"Rate per 100,000 inhabitants",,199.3,1.1,47.1,34.6,35.2,116.0,"1,745.7",260.6,"1,418.2",67.0
+NEW JERSEY,Metropolitan Statistical Area,,"8,958,013",,,,,,,,,,
+NEW JERSEY,Metropolitan Statistical Area,Area actually reporting,100.0%,"22,879",363,"1,373","1,019","9,729","11,414","145,701","27,960","105,963","11,778"
+NEW JERSEY,Cities outside metropolitan areas,,None,,,,,,,,,,
+NEW JERSEY,Nonmetropolitan counties,,None,,,,,,,,,,
+NEW JERSEY,State Total,,"8,958,013","22,879",363,"1,373","1,019","9,729","11,414","145,701","27,960","105,963","11,778"
+NEW JERSEY,NEW JERSEY,"Rate per 100,000 inhabitants",,255.4,4.1,15.3,11.4,108.6,127.4,"1,626.5",312.1,"1,182.9",131.5
+NEW MEXICO5,Metropolitan Statistical Area,,"1,390,305",,,,,,,,,,
+NEW MEXICO5,Metropolitan Statistical Area,Area actually reporting,94.9%,"9,007",68,"1,115",818,"2,098","5,726","54,488","10,943","36,644","6,901"
+NEW MEXICO5,Metropolitan Statistical Area,Estimated total,100.0%,"9,319",70,"1,159",849,"2,128","5,962","55,506","11,289","37,178","7,039"
+NEW MEXICO5,Cities outside metropolitan areas,,"398,912",,,,,,,,,,
+NEW MEXICO5,NEW MEXICO5,Area actually reporting,96.9%,"2,773",28,333,249,307,"2,105","17,423","4,310","12,114",999
+NEW MEXICO5,NEW MEXICO5,Estimated total,100.0%,"2,864",29,345,258,317,"2,173","17,983","4,449","12,503","1,031"
+NEW MEXICO5,Nonmetropolitan counties,,"295,892",,,,,,,,,,
+NEW MEXICO5,NEW MEXICO5,Area actually reporting,92.8%,"1,389",17,155,100,37,"1,180","3,345","1,250","1,672",423
+NEW MEXICO5,NEW MEXICO5,Estimated total,100.0%,"1,498",18,168,108,40,"1,272","3,605","1,347","1,802",456
+NEW MEXICO5,State Total,,"2,085,109","13,681",117,"1,672","1,215","2,485","9,407","77,094","17,085","51,483","8,526"
+NEW MEXICO5,NEW MEXICO5,"Rate per 100,000 inhabitants",,656.1,5.6,80.2,58.3,119.2,451.2,"3,697.4",819.4,"2,469.1",408.9
+NEW YORK6,Metropolitan Statistical Area,,"18,403,124",,,,,,,,,,
+NEW YORK6,Metropolitan Statistical Area,Area actually reporting,99.9%,"72,574",589,"5,099","3,721","23,682","43,204","295,464","40,021","240,693","14,750"
+NEW YORK6,Metropolitan Statistical Area,Estimated total,100.0%,"72,606",589,"5,099","3,721","23,694","43,224","295,805","40,066","240,978","14,761"
+NEW YORK6,Cities outside metropolitan areas,,"513,230",,,,,,,,,,
+NEW YORK6,NEW YORK6,Area actually reporting,97.7%,"1,239",9,298,217,182,750,"11,824","1,968","9,600",256
+NEW YORK6,NEW YORK6,Estimated total,100.0%,"1,271",9,308,225,186,768,"12,108","2,015","9,831",262
+NEW YORK6,Nonmetropolitan counties,,"879,437",,,,,,,,,,
+NEW YORK6,NEW YORK6,Area actually reporting,100.0%,"1,288",11,667,443,56,554,"9,616","2,195","7,131",290
+NEW YORK6,State Total,,"19,795,791","75,165",609,"6,074","4,389","23,936","44,546","317,529","44,276","257,940","15,313"
+NEW YORK6,NEW YORK6,"Rate per 100,000 inhabitants",,379.7,3.1,30.7,22.2,120.9,225.0,"1,604.0",223.7,"1,303.0",77.4
+NORTH CAROLINA5,Metropolitan Statistical Area,,"7,835,390",,,,,,,,,,
+NORTH CAROLINA5,Metropolitan Statistical Area,Area actually reporting,98.9%,"28,126",383,"2,111","1,544","7,601","18,031","216,706","55,372","150,403","10,931"
+NORTH CAROLINA5,Metropolitan Statistical Area,Estimated total,100.0%,"28,310",384,"2,119","1,552","7,645","18,162","218,939","55,886","152,039","11,014"
+NORTH CAROLINA5,Cities outside metropolitan areas,,"648,044",,,,,,,,,,
+NORTH CAROLINA5,NORTH CAROLINA5,Area actually reporting,90.7%,"3,558",73,230,169,777,"2,478","28,612","7,228","20,402",982
+NORTH CAROLINA5,NORTH CAROLINA5,Estimated total,100.0%,"3,909",80,240,179,857,"2,732","31,546","7,969","22,494","1,083"
+NORTH CAROLINA5,Nonmetropolitan counties,,"1,559,368",,,,,,,,,,
+NORTH CAROLINA5,NORTH CAROLINA5,Area actually reporting,94.7%,"2,490",50,305,196,306,"1,829","24,332","10,402","12,663","1,267"
+NORTH CAROLINA5,NORTH CAROLINA5,Estimated total,100.0%,"2,633",53,325,208,323,"1,932","25,698","10,986","13,374","1,338"
+NORTH CAROLINA5,State Total,,"10,042,802","34,852",517,"2,684","1,939","8,825","22,826","276,183","74,841","187,907","13,435"
+NORTH CAROLINA5,NORTH CAROLINA5,"Rate per 100,000 inhabitants",,347.0,5.1,26.7,19.3,87.9,227.3,"2,750.1",745.2,"1,871.1",133.8
+NORTH DAKOTA,Metropolitan Statistical Area,,"371,616",,,,,,,,,,
+NORTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,100.0%,973,11,179,141,96,687,"8,388","1,370","6,358",660
+NORTH DAKOTA,Cities outside metropolitan areas,,"191,270",,,,,,,,,,
+NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,100.0%,660,5,126,106,44,485,"5,487","1,068","3,847",572
+NORTH DAKOTA,Nonmetropolitan counties,,"194,041",,,,,,,,,,
+NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,100.0%,179,5,40,29,8,126,"2,145",559,"1,235",351
+NORTH DAKOTA,State Total,,"756,927","1,812",21,345,276,148,"1,298","16,020","2,997","11,440","1,583"
+NORTH DAKOTA,NORTH DAKOTA,"Rate per 100,000 inhabitants",,239.4,2.8,45.6,36.5,19.6,171.5,"2,116.5",395.9,"1,511.4",209.1
+OHIO6,Metropolitan Statistical Area,,"9,246,915",,,,,,,,,,
+OHIO6,Metropolitan Statistical Area,Area actually reporting,91.8%,"29,364",443,"4,055","3,277","11,591","13,275","235,870","55,250","165,442","15,178"
+OHIO6,Metropolitan Statistical Area,Estimated total,100.0%,"30,588",455,"4,291","3,459","11,999","13,843","252,958","58,231","178,945","15,782"
+OHIO6,Cities outside metropolitan areas,,"1,047,288",,,,,,,,,,
+OHIO6,OHIO6,Area actually reporting,84.6%,"1,608",21,398,338,342,847,"26,196","5,270","20,363",563
+OHIO6,OHIO6,Estimated total,100.0%,"1,902",25,472,400,404,"1,001","30,966","6,230","24,071",665
+OHIO6,Nonmetropolitan counties,,"1,319,220",,,,,,,,,,
+OHIO6,OHIO6,Area actually reporting,91.5%,"1,277",18,343,266,138,778,"15,185","4,429","10,041",715
+OHIO6,OHIO6,Estimated total,100.0%,"1,408",20,386,295,151,851,"16,601","4,842","10,977",782
+OHIO6,State Total,,"11,613,423","33,898",500,"5,149","4,154","12,554","15,695","300,525","69,303","213,993","17,229"
+OHIO6,OHIO6,"Rate per 100,000 inhabitants",,291.9,4.3,44.3,35.8,108.1,135.1,"2,587.7",596.7,"1,842.6",148.4
+OKLAHOMA,Metropolitan Statistical Area,,"2,621,143",,,,,,,,,,
+OKLAHOMA,Metropolitan Statistical Area,Area actually reporting,99.9%,"12,556",185,"1,409","1,027","2,666","8,296","81,302","19,938","53,076","8,288"
+OKLAHOMA,Metropolitan Statistical Area,Estimated total,100.0%,"12,559",185,"1,409","1,027","2,666","8,299","81,350","19,948","53,110","8,292"
+OKLAHOMA,Cities outside metropolitan areas,,"679,145",,,,,,,,,,
+OKLAHOMA,OKLAHOMA,Area actually reporting,99.7%,"3,027",29,325,240,312,"2,361","24,467","5,647","17,354","1,466"
+OKLAHOMA,OKLAHOMA,Estimated total,100.0%,"3,035",29,325,240,313,"2,368","24,544","5,665","17,408","1,471"
+OKLAHOMA,Nonmetropolitan counties,,"611,050",,,,,,,,,,
+OKLAHOMA,OKLAHOMA,Area actually reporting,98.0%,894,20,113,84,25,736,"6,847","2,738","3,435",674
+OKLAHOMA,OKLAHOMA,Estimated total,100.0%,912,20,115,85,26,751,"6,984","2,793","3,504",687
+OKLAHOMA,State Total,,"3,911,338","16,506",234,"1,849","1,352","3,005","11,418","112,878","28,406","74,022","10,450"
+OKLAHOMA,OKLAHOMA,"Rate per 100,000 inhabitants",,422.0,6.0,47.3,34.6,76.8,291.9,"2,885.9",726.2,"1,892.5",267.2
+OREGON6,Metropolitan Statistical Area,,"3,373,232",,,,,,,,,,
+OREGON6,Metropolitan Statistical Area,Area actually reporting,89.8%,"8,284",70,"1,185",873,"1,918","5,111","95,209","13,788","72,649","8,772"
+OREGON6,Metropolitan Statistical Area,Estimated total,100.0%,"8,982",77,"1,322",971,"2,002","5,581","101,615","14,998","77,274","9,343"
+OREGON6,Cities outside metropolitan areas,,"306,104",,,,,,,,,,
+OREGON6,OREGON6,Area actually reporting,94.2%,828,11,163,123,110,544,"11,293","1,779","8,868",646
+OREGON6,OREGON6,Estimated total,100.0%,879,12,173,131,117,577,"11,986","1,888","9,412",686
+OREGON6,Nonmetropolitan counties,,"349,641",,,,,,,,,,
+OREGON6,OREGON6,Area actually reporting,97.6%,592,10,96,61,26,460,"4,993","1,415","3,073",505
+OREGON6,OREGON6,Estimated total,100.0%,607,10,98,62,27,472,"5,118","1,450","3,150",518
+OREGON6,State Total,,"4,028,977","10,468",99,"1,593","1,164","2,146","6,630","118,719","18,336","89,836","10,547"
+OREGON6,OREGON6,"Rate per 100,000 inhabitants",,259.8,2.5,39.5,28.9,53.3,164.6,"2,946.6",455.1,"2,229.7",261.8
+PENNSYLVANIA,Metropolitan Statistical Area,,"11,319,063",,,,,,,,,,
+PENNSYLVANIA,Metropolitan Statistical Area,Area actually reporting,99.2%,"37,198",608,"3,557","2,615","12,700","20,333","210,622","34,817","164,417","11,388"
+PENNSYLVANIA,Metropolitan Statistical Area,Estimated total,100.0%,"37,344",609,"3,562","2,620","12,741","20,432","212,012","35,000","165,580","11,432"
+PENNSYLVANIA,Cities outside metropolitan areas,,"683,735",,,,,,,,,,
+PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,95.7%,"1,657",22,171,122,150,"1,314","9,998","1,717","7,980",301
+PENNSYLVANIA,PENNSYLVANIA,Estimated total,100.0%,"1,730",23,177,128,157,"1,373","10,448","1,794","8,339",315
+PENNSYLVANIA,Nonmetropolitan counties,,"799,705",,,,,,,,,,
+PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,100.0%,"1,265",26,566,374,105,568,"9,625","2,870","6,368",387
+PENNSYLVANIA,State Total,,"12,802,503","40,339",658,"4,305","3,122","13,003","22,373","232,085","39,664","180,287","12,134"
+PENNSYLVANIA,PENNSYLVANIA,"Rate per 100,000 inhabitants",,315.1,5.1,33.6,24.4,101.6,174.8,"1,812.8",309.8,"1,408.2",94.8
+PUERTO RICO7,Metropolitan Statistical Area,,"3,323,005",,,,,,,,,,
+PUERTO RICO7,Metropolitan Statistical Area,Area actually reporting,100.0%,"7,566",565,156,116,"4,063","2,782","37,598","9,100","24,426","4,072"
+PUERTO RICO7,Cities outside metropolitan areas,,"151,177",,,,,,,,,,
+PUERTO RICO7,PUERTO RICO7,Area actually reporting,100.0%,63,19,9,7,7,28,119,50,67,2
+PUERTO RICO7,Total,,"3,474,182","7,629",584,165,123,"4,070","2,810","37,717","9,150","24,493","4,074"
+PUERTO RICO7,PUERTO RICO7,"Rate per 100,000 inhabitants",,219.6,16.8,4.7,3.5,117.1,80.9,"1,085.6",263.4,705.0,117.3
+RHODE ISLAND6,Metropolitan Statistical Area,,"1,056,298",,,,,,,,,,
+RHODE ISLAND6,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,537",28,444,331,555,"1,510","19,976","3,944","14,659","1,373"
+RHODE ISLAND6,Cities outside metropolitan areas,,None,,,,,,,,,,
+RHODE ISLAND6,Nonmetropolitan counties,,None,,,,,,,,,,
+RHODE ISLAND6,RHODE ISLAND6,Area actually reporting,100.0%,25,1,15,7,1,8,67,3,48,16
+RHODE ISLAND6,State Total,,"1,056,298","2,562",29,459,338,556,"1,518","20,043","3,947","14,707","1,389"
+RHODE ISLAND6,RHODE ISLAND6,"Rate per 100,000 inhabitants",,242.5,2.7,43.5,32.0,52.6,143.7,"1,897.5",373.7,"1,392.3",131.5
+SOUTH CAROLINA,Metropolitan Statistical Area,,"4,145,678",,,,,,,,,,
+SOUTH CAROLINA,Metropolitan Statistical Area,Area actually reporting,98.6%,"20,072",331,"1,881","1,414","3,338","14,522","133,964","27,404","95,276","11,284"
+SOUTH CAROLINA,Metropolitan Statistical Area,Estimated total,100.0%,"20,336",335,"1,908","1,434","3,374","14,719","135,587","27,788","96,369","11,430"
+SOUTH CAROLINA,Cities outside metropolitan areas,,"207,146",,,,,,,,,,
+SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,93.5%,"1,799",26,135,98,326,"1,312","10,889","2,281","8,175",433
+SOUTH CAROLINA,SOUTH CAROLINA,Estimated total,100.0%,"1,923",28,143,105,349,"1,403","11,643","2,439","8,741",463
+SOUTH CAROLINA,Nonmetropolitan counties,,"543,322",,,,,,,,,,
+SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,99.2%,"2,421",36,244,167,206,"1,935","13,898","4,288","8,542","1,068"
+SOUTH CAROLINA,SOUTH CAROLINA,Estimated total,100.0%,"2,441",36,246,168,208,"1,951","14,015","4,324","8,614","1,077"
+SOUTH CAROLINA,State Total,,"4,896,146","24,700",399,"2,297","1,707","3,931","18,073","161,245","34,551","113,724","12,970"
+SOUTH CAROLINA,SOUTH CAROLINA,"Rate per 100,000 inhabitants",,504.5,8.1,46.9,34.9,80.3,369.1,"3,293.3",705.7,"2,322.7",264.9
+SOUTH DAKOTA,Metropolitan Statistical Area,,"412,368",,,,,,,,,,
+SOUTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,99.5%,"1,626",12,303,275,165,"1,146","10,205","1,897","7,545",763
+SOUTH DAKOTA,Metropolitan Statistical Area,Estimated total,100.0%,"1,628",12,303,275,165,"1,148","10,224","1,900","7,560",764
+SOUTH DAKOTA,Cities outside metropolitan areas,,"219,563",,,,,,,,,,
+SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,95.9%,"1,391",7,160,138,40,"1,184","5,239",745,"4,186",308
+SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,"1,451",7,167,144,42,"1,235","5,465",777,"4,367",321
+SOUTH DAKOTA,Nonmetropolitan counties,,"226,538",,,,,,,,,,
+SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,75.6%,158,10,18,18,7,123,750,214,458,78
+SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,210,13,25,22,9,163,991,283,605,103
+SOUTH DAKOTA,State Total,,"858,469","3,289",32,495,441,216,"2,546","16,680","2,960","12,532","1,188"
+SOUTH DAKOTA,SOUTH DAKOTA,"Rate per 100,000 inhabitants",,383.1,3.7,57.7,51.4,25.2,296.6,"1,943.0",344.8,"1,459.8",138.4
+TENNESSEE,Metropolitan Statistical Area,,"5,103,420",,,,,,,,,,
+TENNESSEE,Metropolitan Statistical Area,Area actually reporting,100.0%,"34,397",351,"2,260","1,659","7,078","24,708","158,863","34,790","113,624","10,449"
+TENNESSEE,Cities outside metropolitan areas,,"513,845",,,,,,,,,,
+TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"3,364",16,253,183,295,"2,800","20,823","3,809","16,006","1,008"
+TENNESSEE,Nonmetropolitan counties,,"983,034",,,,,,,,,,
+TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"2,639",39,163,124,101,"2,336","14,110","4,648","8,049","1,413"
+TENNESSEE,State Total,,"6,600,299","40,400",406,"2,676","1,966","7,474","29,844","193,796","43,247","137,679","12,870"
+TENNESSEE,TENNESSEE,"Rate per 100,000 inhabitants",,612.1,6.2,40.5,29.8,113.2,452.2,"2,936.2",655.2,"2,086.0",195.0
+TEXAS,Metropolitan Statistical Area,,"24,422,501",,,,,,,,,,
+TEXAS,Metropolitan Statistical Area,Area actually reporting,99.8%,"104,453","1,207","11,040","8,068","31,163","61,043","714,288","136,056","514,139","64,093"
+TEXAS,Metropolitan Statistical Area,Estimated total,100.0%,"104,564","1,207","11,055","8,081","31,189","61,113","715,398","136,238","514,990","64,170"
+TEXAS,Cities outside metropolitan areas,,"1,425,757",,,,,,,,,,
+TEXAS,TEXAS,Area actually reporting,97.1%,"5,528",43,657,472,602,"4,226","41,169","9,231","30,193","1,745"
+TEXAS,TEXAS,Estimated total,100.0%,"5,687",44,679,492,617,"4,347","42,301","9,488","31,023","1,790"
+TEXAS,Nonmetropolitan counties,,"1,620,856",,,,,,,,,,
+TEXAS,TEXAS,Area actually reporting,99.4%,"2,958",65,512,350,127,"2,254","19,923","7,285","11,122","1,516"
+TEXAS,TEXAS,Estimated total,100.0%,"2,976",65,516,352,128,"2,267","20,040","7,328","11,187","1,525"
+TEXAS,State Total,,"27,469,114","113,227","1,316","12,250","8,925","31,934","67,727","777,739","153,054","557,200","67,485"
+TEXAS,TEXAS,"Rate per 100,000 inhabitants",,412.2,4.8,44.6,32.5,116.3,246.6,"2,831.3",557.2,"2,028.5",245.7
+UTAH6,Metropolitan Statistical Area,,"2,675,737",,,,,,,,,,
+UTAH6,Metropolitan Statistical Area,Area actually reporting,98.7%,"6,295",49,"1,448",969,"1,292","3,506","82,075","11,283","62,574","8,218"
+UTAH6,Metropolitan Statistical Area,Estimated total,100.0%,"6,357",49,"1,462",980,"1,303","3,543","82,969","11,414","63,248","8,307"
+UTAH6,Cities outside metropolitan areas,,"144,887",,,,,,,,,,
+UTAH6,UTAH6,Area actually reporting,95.5%,337,1,95,50,12,229,"3,411",519,"2,714",178
+UTAH6,UTAH6,Estimated total,100.0%,354,1,100,54,13,240,"3,573",544,"2,843",186
+UTAH6,Nonmetropolitan counties,,"175,295",,,,,,,,,,
+UTAH6,UTAH6,Area actually reporting,96.0%,346,4,79,61,10,253,"2,628",490,"1,932",206
+UTAH6,UTAH6,Estimated total,100.0%,360,4,83,64,10,263,"2,736",510,"2,012",214
+UTAH6,State Total,,"2,995,919","7,071",54,"1,645","1,098","1,326","4,046","89,278","12,468","68,103","8,707"
+UTAH6,UTAH6,"Rate per 100,000 inhabitants",,236.0,1.8,54.9,36.6,44.3,135.1,"2,980.0",416.2,"2,273.2",290.6
+VERMONT,Metropolitan Statistical Area,,"217,090",,,,,,,,,,
+VERMONT,Metropolitan Statistical Area,Area actually reporting,100.0%,279,2,50,48,47,180,"4,245",815,"3,396",34
+VERMONT,Cities outside metropolitan areas,,"203,524",,,,,,,,,,
+VERMONT,VERMONT,Area actually reporting,100.0%,307,5,48,44,42,212,"2,873",504,"2,312",57
+VERMONT,Nonmetropolitan counties,,"205,428",,,,,,,,,,
+VERMONT,VERMONT,Area actually reporting,100.0%,153,3,38,29,12,100,"1,688",649,952,87
+VERMONT,State Total,,"626,042",739,10,136,121,101,492,"8,806","1,968","6,660",178
+VERMONT,VERMONT,"Rate per 100,000 inhabitants",,118.0,1.6,21.7,19.3,16.1,78.6,"1,406.6",314.4,"1,063.8",28.4
+VIRGINIA,Metropolitan Statistical Area,,"7,333,021",,,,,,,,,,
+VIRGINIA,Metropolitan Statistical Area,Area actually reporting,99.9%,"14,490",328,"1,920","1,252","4,194","8,048","139,834","18,121","114,372","7,341"
+VIRGINIA,Metropolitan Statistical Area,Estimated total,100.0%,"14,491",328,"1,920","1,252","4,194","8,049","139,851","18,123","114,386","7,342"
+VIRGINIA,Cities outside metropolitan areas,,"262,020",,,,,,,,,,
+VIRGINIA,VIRGINIA,Area actually reporting,99.2%,721,19,115,72,139,448,"7,585","1,032","6,342",211
+VIRGINIA,VIRGINIA,Estimated total,100.0%,726,19,115,72,140,452,"7,646","1,040","6,393",213
+VIRGINIA,Nonmetropolitan counties,,"787,952",,,,,,,,,,
+VIRGINIA,VIRGINIA,Area actually reporting,100.0%,"1,182",36,305,169,107,734,"8,973","2,177","6,240",556
+VIRGINIA,State Total,,"8,382,993","16,399",383,"2,340","1,493","4,441","9,235","156,470","21,340","127,019","8,111"
+VIRGINIA,VIRGINIA,"Rate per 100,000 inhabitants",,195.6,4.6,27.9,17.8,53.0,110.2,"1,866.5",254.6,"1,515.2",96.8
+WASHINGTON6,Metropolitan Statistical Area,,"6,452,326",,,,,,,,,,
+WASHINGTON6,Metropolitan Statistical Area,Area actually reporting,99.9%,"18,899",197,"2,438","1,965","5,234","11,030","229,294","45,974","157,899","25,421"
+WASHINGTON6,Metropolitan Statistical Area,Estimated total,100.0%,"18,899",197,"2,438","1,965","5,234","11,030","229,304","45,976","157,906","25,422"
+WASHINGTON6,Cities outside metropolitan areas,,"296,377",,,,,,,,,,
+WASHINGTON6,WASHINGTON6,Area actually reporting,97.8%,922,6,173,151,165,578,"12,260","2,524","8,829",907
+WASHINGTON6,WASHINGTON6,Estimated total,100.0%,942,6,176,154,169,591,"12,541","2,582","9,031",928
+WASHINGTON6,Nonmetropolitan counties,,"421,648",,,,,,,,,,
+WASHINGTON6,WASHINGTON6,Area actually reporting,100.0%,553,8,91,74,46,408,"6,524","2,435","3,572",517
+WASHINGTON6,State Total,,"7,170,351","20,394",211,"2,705","2,193","5,449","12,029","248,369","50,993","170,509","26,867"
+WASHINGTON6,WASHINGTON6,"Rate per 100,000 inhabitants",,284.4,2.9,37.7,30.6,76.0,167.8,"3,463.8",711.2,"2,378.0",374.7
+WEST VIRGINIA,Metropolitan Statistical Area,,"1,136,862",,,,,,,,,,
+WEST VIRGINIA,Metropolitan Statistical Area,Area actually reporting,89.8%,"3,557",45,402,245,625,"2,485","25,404","6,476","17,423","1,505"
+WEST VIRGINIA,Metropolitan Statistical Area,Estimated total,100.0%,"3,887",47,433,269,667,"2,740","28,418","7,019","19,731","1,668"
+WEST VIRGINIA,Cities outside metropolitan areas,,"189,216",,,,,,,,,,
+WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,53.0%,280,4,23,18,28,225,"1,619",264,"1,285",70
+WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,519,8,33,26,53,425,"3,056",498,"2,426",132
+WEST VIRGINIA,Nonmetropolitan counties,,"518,050",,,,,,,,,,
+WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,73.1%,"1,325",11,142,83,29,"1,143","4,223","1,208","2,694",321
+WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,"1,825",15,206,125,40,"1,564","5,777","1,653","3,685",439
+WEST VIRGINIA,State Total,,"1,844,128","6,231",70,672,420,760,"4,729","37,251","9,170","25,842","2,239"
+WEST VIRGINIA,WEST VIRGINIA,"Rate per 100,000 inhabitants",,337.9,3.8,36.4,22.8,41.2,256.4,"2,020.0",497.3,"1,401.3",121.4
+WISCONSIN6,Metropolitan Statistical Area,,"4,268,682",,,,,,,,,,
+WISCONSIN6,Metropolitan Statistical Area,Area actually reporting,96.5%,"15,597",207,"1,368",923,"5,087","8,935","88,714","15,012","63,592","10,110"
+WISCONSIN6,Metropolitan Statistical Area,Estimated total,100.0%,"15,770",209,"1,396",945,"5,131","9,034","91,251","15,314","65,713","10,224"
+WISCONSIN6,Cities outside metropolitan areas,,"639,613",,,,,,,,,,
+WISCONSIN6,WISCONSIN6,Area actually reporting,93.8%,"1,015",9,189,141,79,738,"14,140","1,732","12,065",343
+WISCONSIN6,WISCONSIN6,Estimated total,100.0%,"1,082",10,201,150,84,787,"15,070","1,846","12,858",366
+WISCONSIN6,Nonmetropolitan counties,,"863,042",,,,,,,,,,
+WISCONSIN6,WISCONSIN6,Area actually reporting,100.0%,795,21,183,129,17,574,"7,603","2,394","4,814",395
+WISCONSIN6,State Total,,"5,771,337","17,647",240,"1,780","1,224","5,232","10,395","113,924","19,554","83,385","10,985"
+WISCONSIN6,WISCONSIN6,"Rate per 100,000 inhabitants",,305.8,4.2,30.8,21.2,90.7,180.1,"1,974.0",338.8,"1,444.8",190.3
+WYOMING,Metropolitan Statistical Area,,"179,738",,,,,,,,,,
+WYOMING,Metropolitan Statistical Area,Area actually reporting,100.0%,366,8,50,36,31,277,"4,584",763,"3,579",242
+WYOMING,Cities outside metropolitan areas,,"245,549",,,,,,,,,,
+WYOMING,WYOMING,Area actually reporting,96.7%,629,5,82,62,24,518,"5,255",693,"4,313",249
+WYOMING,WYOMING,Estimated total,100.0%,649,5,83,63,25,536,"5,434",717,"4,460",257
+WYOMING,Nonmetropolitan counties,,"160,820",,,,,,,,,,
+WYOMING,WYOMING,Area actually reporting,91.6%,262,3,35,23,3,221,"1,038",258,695,85
+WYOMING,WYOMING,Estimated total,100.0%,287,3,40,26,3,241,"1,133",282,758,93
+WYOMING,State Total,,"586,107","1,302",16,173,125,59,"1,054","11,151","1,762","8,797",592
+WYOMING,WYOMING,"Rate per 100,000 inhabitants",,222.1,2.7,29.5,21.3,10.1,179.8,"1,902.6",300.6,"1,500.9",101.0

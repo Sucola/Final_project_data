@@ -1,507 +1,2009 @@
-State,Area,Var.3,Population,Violent.crime1,Murder.and.nonnegligent.manslaughter,Rape2,Robbery,Aggravated.assault,Property.crime,Burglary,Larceny.theft,Motor.vehicle.theft
-ALABAMA,Metropolitan Statistical Area,,"3,709,622",,,,,,,,,
-ALABAMA,Metropolitan Statistical Area,Area actually reporting,94.3%,"20,207",322,"1,530","3,608","14,747","108,373","22,178","75,625","10,570"
-ALABAMA,Metropolitan Statistical Area,Estimated total,100.0%,"20,570",324,"1,546","3,649","15,051","110,384","22,615","77,059","10,710"
-ALABAMA,Cities outside metropolitan areas,,"531,555",,,,,,,,,
-ALABAMA,ALABAMA,Area actually reporting,93.1%,"3,477",40,242,312,"2,883","19,161","3,685","13,976","1,500"
-ALABAMA,ALABAMA,Estimated total,100.0%,"3,644",40,242,316,"3,046","19,996","3,817","14,634","1,545"
-ALABAMA,Nonmetropolitan counties,,"646,694",,,,,,,,,
-ALABAMA,ALABAMA,Area actually reporting,91.9%,"1,090",17,203,68,802,"6,737","2,238","3,710",789
-ALABAMA,ALABAMA,Estimated total,100.0%,"1,185",19,208,111,847,"7,320","2,409","4,054",857
-ALABAMA,State Total,,"4,887,871","25,399",383,"1,996","4,076","18,944","137,700","28,841","95,747","13,112"
-ALABAMA,ALABAMA,"Rate per 100,000 inhabitants",,519.6,7.8,40.8,83.4,387.6,"2,817.2",590.1,"1,958.9",268.3
-ALASKA,Metropolitan Statistical Area,,"343,648",,,,,,,,,
-ALASKA,Metropolitan Statistical Area,Area actually reporting,100.0%,"4,127",30,645,772,"2,680","17,021","2,293","11,560","3,168"
-ALASKA,Cities outside metropolitan areas,,"127,692",,,,,,,,,
-ALASKA,ALASKA,Area actually reporting,97.1%,994,5,199,77,713,"4,119",642,"3,128",349
-ALASKA,ALASKA,Estimated total,100.0%,"1,012",5,203,77,727,"4,164",646,"3,165",353
-ALASKA,Nonmetropolitan counties,,"266,098",,,,,,,,,
-ALASKA,ALASKA,Area actually reporting,100.0%,"1,387",12,344,47,984,"3,154","1,040","1,639",475
-ALASKA,State Total,,"737,438","6,526",47,"1,192",896,"4,391","24,339","3,979","16,364","3,996"
-ALASKA,ALASKA,"Rate per 100,000 inhabitants",,885.0,6.4,161.6,121.5,595.4,"3,300.5",539.6,"2,219.0",541.9
-ARIZONA,Metropolitan Statistical Area,,"6,820,581",,,,,,,,,
-ARIZONA,Metropolitan Statistical Area,Area actually reporting,99.3%,"28,938",325,"3,297","6,409","18,907","183,308","29,518","135,712","18,078"
-ARIZONA,Metropolitan Statistical Area,Estimated total,100.0%,"29,054",326,"3,314","6,448","18,966","184,427","29,730","136,514","18,183"
-ARIZONA,Cities outside metropolitan areas,,"124,445",,,,,,,,,
-ARIZONA,ARIZONA,Area actually reporting,96.3%,"4,684",38,313,55,"4,278","5,937","1,326","3,847",764
-ARIZONA,ARIZONA,Estimated total,100.0%,"4,707",38,313,55,"4,301","6,057","1,345","3,944",768
-ARIZONA,Nonmetropolitan counties,,"226,620",,,,,,,,,
-ARIZONA,ARIZONA,Area actually reporting,100.0%,297,5,11,20,261,"1,490",457,845,188
-ARIZONA,State Total,,"7,171,646","34,058",369,"3,638","6,523","23,528","191,974","31,532","141,303","19,139"
-ARIZONA,ARIZONA,"Rate per 100,000 inhabitants",,474.9,5.1,50.7,91.0,328.1,"2,676.8",439.7,"1,970.3",266.9
-ARKANSAS,Metropolitan Statistical Area,,"1,902,947",,,,,,,,,
-ARKANSAS,Metropolitan Statistical Area,Area actually reporting,99.7%,"11,659",150,"1,420","1,266","8,823","61,777","12,699","43,799","5,279"
-ARKANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"11,690",150,"1,423","1,270","8,847","61,850","12,731","43,826","5,293"
-ARKANSAS,Cities outside metropolitan areas,,"504,175",,,,,,,,,
-ARKANSAS,ARKANSAS,Area actually reporting,91.1%,"2,590",39,396,252,"1,903","16,156","3,944","11,238",974
-ARKANSAS,ARKANSAS,Estimated total,100.0%,"2,833",40,406,289,"2,098","17,899","4,394","12,465","1,040"
-ARKANSAS,Nonmetropolitan counties,,"606,703",,,,,,,,,
-ARKANSAS,ARKANSAS,Area actually reporting,84.9%,"1,782",26,361,35,"1,360","7,137","1,870","4,507",760
-ARKANSAS,ARKANSAS,Estimated total,100.0%,"1,861",26,367,35,"1,433","8,044","2,068","5,196",780
-ARKANSAS,State Total,,"3,013,825","16,384",216,"2,196","1,594","12,378","87,793","19,193","61,487","7,113"
-ARKANSAS,ARKANSAS,"Rate per 100,000 inhabitants",,543.6,7.2,72.9,52.9,410.7,"2,913.0",636.8,"2,040.2",236.0
-CALIFORNIA,Metropolitan Statistical Area,,"38,726,576",,,,,,,,,
-CALIFORNIA,Metropolitan Statistical Area,Area actually reporting,99.9%,"173,383","1,684","15,067","53,895","102,737","925,205","160,267","611,972","152,966"
-CALIFORNIA,Metropolitan Statistical Area,Estimated total,100.0%,"173,393","1,684","15,067","53,895","102,747","925,308","160,286","612,051","152,971"
-CALIFORNIA,Cities outside metropolitan areas,,"265,831",,,,,,,,,
-CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"1,536",14,174,245,"1,103","8,198","1,633","5,615",950
-CALIFORNIA,Nonmetropolitan counties,,"564,638",,,,,,,,,
-CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"2,053",41,264,186,"1,562","8,112","2,713","4,109","1,290"
-CALIFORNIA,State Total,,"39,557,045","176,982","1,739","15,505","54,326","105,412","941,618","164,632","621,775","155,211"
-CALIFORNIA,CALIFORNIA,"Rate per 100,000 inhabitants",,447.4,4.4,39.2,137.3,266.5,"2,380.4",416.2,"1,571.8",392.4
-COLORADO,Metropolitan Statistical Area,,"4,986,493",,,,,,,,,
-COLORADO,Metropolitan Statistical Area,Area actually reporting,95.1%,"20,718",191,"3,670","3,670","13,187","138,757","19,300","98,778","20,679"
-COLORADO,Metropolitan Statistical Area,Estimated total,100.0%,"20,778",191,"3,684","3,687","13,216","139,506","19,331","99,444","20,731"
-COLORADO,Cities outside metropolitan areas,,"339,737",,,,,,,,,
-COLORADO,COLORADO,Area actually reporting,94.9%,"1,058",5,233,55,765,"9,108","1,172","7,386",550
-COLORADO,COLORADO,Estimated total,100.0%,"1,090",5,234,70,781,"9,462","1,224","7,682",556
-COLORADO,Nonmetropolitan counties,,"369,334",,,,,,,,,
-COLORADO,COLORADO,Area actually reporting,91.5%,718,14,144,15,545,"2,952",774,"1,860",318
-COLORADO,COLORADO,Estimated total,100.0%,756,14,152,40,550,"3,195",816,"1,993",386
-COLORADO,State Total,,"5,695,564","22,624",210,"4,070","3,797","14,547","152,163","21,371","109,119","21,673"
-COLORADO,COLORADO,"Rate per 100,000 inhabitants",,397.2,3.7,71.5,66.7,255.4,"2,671.6",375.2,"1,915.9",380.5
-CONNECTICUT,Metropolitan Statistical Area,,"2,980,253",,,,,,,,,
-CONNECTICUT,Metropolitan Statistical Area,Area actually reporting,100.0%,"6,995",72,728,"2,123","4,072","56,246","7,239","42,122","6,885"
-CONNECTICUT,Cities outside metropolitan areas,,"112,751",,,,,,,,,
-CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,117,3,26,31,57,"1,648",203,"1,321",124
-CONNECTICUT,Nonmetropolitan counties,,"479,661",,,,,,,,,
-CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,299,8,86,40,165,"2,161",506,"1,281",374
-CONNECTICUT,State Total,,"3,572,665","7,411",83,840,"2,194","4,294","60,055","7,948","44,724","7,383"
-CONNECTICUT,CONNECTICUT,"Rate per 100,000 inhabitants",,207.4,2.3,23.5,61.4,120.2,"1,681.0",222.5,"1,251.8",206.7
-DELAWARE,Metropolitan Statistical Area,,"967,171",,,,,,,,,
-DELAWARE,Area actually reporting,100.0%,"4,097",48,338,866,"2,845","22,481","3,158","17,847","1,476",NA
-DELAWARE,Cities outside metropolitan areas,,None,,,,,,,,,
-DELAWARE,Nonmetropolitan counties,,None,,,,,,,,,
-DELAWARE,State Total,,"967,171","4,097",48,338,866,"2,845","22,481","3,158","17,847","1,476"
-DELAWARE,DELAWARE,"Rate per 100,000 inhabitants",,423.6,5.0,34.9,89.5,294.2,"2,324.4",326.5,"1,845.3",152.6
-DISTRICT OF COLUMBIA3,Metropolitan Statistical Area,,"702,455",,,,,,,,,
-DISTRICT OF COLUMBIA3,Metropolitan Statistical Area,Area actually reporting,100.0%,"6,996",160,450,"2,415","3,971","30,724","1,788","26,343","2,593"
-DISTRICT OF COLUMBIA3,Cities outside metropolitan areas,,None,,,,,,,,,
-DISTRICT OF COLUMBIA3,Nonmetropolitan counties,,None,,,,,,,,,
-DISTRICT OF COLUMBIA3,Total,,"702,455","6,996",160,450,"2,415","3,971","30,724","1,788","26,343","2,593"
-DISTRICT OF COLUMBIA3,DISTRICT OF COLUMBIA3,"Rate per 100,000 inhabitants",,995.9,22.8,64.1,343.8,565.3,"4,373.8",254.5,"3,750.1",369.1
-FLORIDA,Metropolitan Statistical Area,,"20,609,181",,,,,,,,,
-FLORIDA,Metropolitan Statistical Area,Area actually reporting,99.9%,"79,202","1,074","8,200","16,638","53,290","472,759","68,481","364,004","40,274"
-FLORIDA,Metropolitan Statistical Area,Estimated total,100.0%,"79,241","1,074","8,201","16,647","53,319","473,080","68,545","364,237","40,298"
-FLORIDA,Cities outside metropolitan areas,,"141,401",,,,,,,,,
-FLORIDA,FLORIDA,Area actually reporting,95.0%,810,12,58,103,637,"4,289",855,"3,200",234
-FLORIDA,FLORIDA,Estimated total,100.0%,829,12,58,104,655,"4,439",908,"3,288",243
-FLORIDA,Nonmetropolitan counties,,"548,743",,,,,,,,,
-FLORIDA,FLORIDA,Area actually reporting,100.0%,"1,910",21,179,133,"1,577","8,498","2,480","5,394",624
-FLORIDA,State Total,,"21,299,325","81,980","1,107","8,438","16,884","55,551","486,017","71,933","372,919","41,165"
-FLORIDA,FLORIDA,"Rate per 100,000 inhabitants",,384.9,5.2,39.6,79.3,260.8,"2,281.8",337.7,"1,750.8",193.3
-GEORGIA,Metropolitan Statistical Area,,"8,732,372",,,,,,,,,
-GEORGIA,Metropolitan Statistical Area,Area actually reporting,96.6%,"28,495",548,"2,260","7,501","18,186","223,556","36,007","165,559","21,990"
-GEORGIA,Metropolitan Statistical Area,Estimated total,100.0%,"29,161",559,"2,290","7,650","18,662","229,661","36,903","170,274","22,484"
-GEORGIA,Cities outside metropolitan areas,,"622,684",,,,,,,,,
-GEORGIA,GEORGIA,Area actually reporting,88.7%,"2,563",45,169,473,"1,876","21,036","3,707","16,424",905
-GEORGIA,GEORGIA,Estimated total,100.0%,"2,662",45,170,481,"1,966","23,282","4,005","18,341",936
-GEORGIA,Nonmetropolitan counties,,"1,164,419",,,,,,,,,
-GEORGIA,GEORGIA,Area actually reporting,93.5%,"2,470",38,191,148,"2,093","16,905","4,231","11,407","1,267"
-GEORGIA,GEORGIA,Estimated total,100.0%,"2,532",38,191,148,"2,155","17,795","4,461","11,994","1,340"
-GEORGIA,State Total,,"10,519,475","34,355",642,"2,651","8,279","22,783","270,738","45,369","200,609","24,760"
-GEORGIA,GEORGIA,"Rate per 100,000 inhabitants",,326.6,6.1,25.2,78.7,216.6,"2,573.7",431.3,"1,907.0",235.4
-HAWAII,Metropolitan Statistical Area,,"1,148,121",,,,,,,,,
-HAWAII,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,886",30,454,857,"1,545","33,970","4,328","24,758","4,884"
-HAWAII,Cities outside metropolitan areas,,None,,,,,,,,,
-HAWAII,Nonmetropolitan counties,,"272,370",,,,,,,,,
-HAWAII,HAWAII,Area actually reporting,100.0%,646,6,171,89,380,"6,802","1,303","4,734",765
-HAWAII,State Total,,"1,420,491","3,532",36,625,946,"1,925","40,772","5,631","29,492","5,649"
-HAWAII,HAWAII,"Rate per 100,000 inhabitants",,248.6,2.5,44.0,66.6,135.5,"2,870.3",396.4,"2,076.2",397.7
-IDAHO,Metropolitan Statistical Area,,"1,300,470",,,,,,,,,
-IDAHO,Metropolitan Statistical Area,Area actually reporting,100.0%,"3,152",19,644,178,"2,311","20,923","3,861","15,487","1,575"
-IDAHO,Cities outside metropolitan areas,,"181,635",,,,,,,,,
-IDAHO,IDAHO,Area actually reporting,95.7%,404,4,77,5,318,"2,502",522,"1,802",178
-IDAHO,IDAHO,Estimated total,100.0%,414,4,79,11,320,"2,561",527,"1,838",196
-IDAHO,Nonmetropolitan counties,,"272,103",,,,,,,,,
-IDAHO,IDAHO,Area actually reporting,98.3%,401,12,67,7,315,"2,128",546,"1,389",193
-IDAHO,IDAHO,Estimated total,100.0%,417,12,68,11,326,"2,152",552,"1,407",193
-IDAHO,State Total,,"1,754,208","3,983",35,791,200,"2,957","25,636","4,940","18,732","1,964"
-IDAHO,IDAHO,"Rate per 100,000 inhabitants",,227.1,2.0,45.1,11.4,168.6,"1,461.4",281.6,"1,067.8",112.0
-ILLINOIS,Metropolitan Statistical Area,,"11,305,797",,,,,,,,,
-ILLINOIS,Metropolitan Statistical Area,Area actually reporting,92.1%,"47,266",865,"5,050","13,857","27,494","218,713","33,314","167,160","18,239"
-ILLINOIS,Metropolitan Statistical Area,Estimated total,100.0%,"48,003",873,"5,171","14,007","27,952","225,321","34,316","172,338","18,667"
-ILLINOIS,Cities outside metropolitan areas,,"814,261",,,,,,,,,
-ILLINOIS,ILLINOIS,Area actually reporting,83.2%,"2,357",6,475,161,"1,715","13,966","2,681","10,760",525
-ILLINOIS,ILLINOIS,Estimated total,100.0%,"2,668",6,515,174,"1,973","16,018","3,132","12,290",596
-ILLINOIS,Nonmetropolitan counties,,"621,022",,,,,,,,,
-ILLINOIS,ILLINOIS,Area actually reporting,89.7%,737,5,159,25,548,"4,396","1,454","2,644",298
-ILLINOIS,ILLINOIS,Estimated total,100.0%,819,5,173,27,614,"4,925","1,632","2,963",330
-ILLINOIS,State Total,,"12,741,080","51,490",884,"5,859","14,208","30,539","246,264","39,080","187,591","19,593"
-ILLINOIS,ILLINOIS,"Rate per 100,000 inhabitants",,404.1,6.9,46.0,111.5,239.7,"1,932.8",306.7,"1,472.3",153.8
-INDIANA,Metropolitan Statistical Area,,"5,228,617",,,,,,,,,
-INDIANA,Metropolitan Statistical Area,Area actually reporting,84.4%,"21,358",363,"1,976","5,307","13,712","114,723","20,173","81,982","12,568"
-INDIANA,Metropolitan Statistical Area,Estimated total,100.0%,"22,320",383,"2,027","5,396","14,514","124,342","21,936","89,268","13,138"
-INDIANA,Cities outside metropolitan areas,,"540,439",,,,,,,,,
-INDIANA,INDIANA,Area actually reporting,59.0%,788,15,98,93,582,"8,140","1,055","6,521",564
-INDIANA,INDIANA,Estimated total,100.0%,"1,119",26,104,141,848,"13,533","1,496","11,259",778
-INDIANA,Nonmetropolitan counties,,"922,822",,,,,,,,,
-INDIANA,INDIANA,Area actually reporting,51.4%,622,15,121,33,453,"4,260","1,178","2,640",442
-INDIANA,INDIANA,Estimated total,100.0%,"2,142",29,239,402,"1,472","7,963","1,836","4,715","1,412"
-INDIANA,State Total,,"6,691,878","25,581",438,"2,370","5,939","16,834","145,838","25,268","105,242","15,328"
-INDIANA,INDIANA,"Rate per 100,000 inhabitants",,382.3,6.5,35.4,88.7,251.6,"2,179.3",377.6,"1,572.7",229.1
-IOWA4,Metropolitan Statistical Area,,"1,929,318",,,,,,,,,
-IOWA4,Metropolitan Statistical Area,Area actually reporting,90.7%,"4,345",40,589,612,"3,104","33,142","6,717","23,433","2,992"
-IOWA4,Metropolitan Statistical Area,Estimated total,100.0%,"4,951",44,635,759,"3,513","37,029","7,342","26,305","3,382"
-IOWA4,Cities outside metropolitan areas,,"572,110",,,,,,,,,
-IOWA4,IOWA4,Area actually reporting,85.7%,"1,903",7,218,77,"1,601","11,322","2,379","8,173",770
-IOWA4,IOWA4,Estimated total,100.0%,"2,175",7,241,144,"1,783","13,090","2,665","9,476",949
-IOWA4,Nonmetropolitan counties,,"654,717",,,,,,,,,
-IOWA4,IOWA4,Area actually reporting,97.0%,700,3,95,12,590,"2,833","1,050","1,471",312
-IOWA4,IOWA4,Estimated total,100.0%,767,3,100,29,635,"3,266","1,120","1,790",356
-IOWA4,State Total,,"3,156,145","7,893",54,976,932,"5,931","53,385","11,127","37,571","4,687"
-IOWA4,IOWA4,"Rate per 100,000 inhabitants",,250.1,1.7,30.9,29.5,187.9,"1,691.5",352.6,"1,190.4",148.5
-KANSAS,Metropolitan Statistical Area,,"2,018,178",,,,,,,,,
-KANSAS,Metropolitan Statistical Area,Area actually reporting,83.8%,"8,495",88,999,"1,127","6,281","49,894","7,590","36,811","5,493"
-KANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"10,105",88,"1,162","1,376","7,479","58,412","8,830","43,142","6,440"
-KANSAS,Cities outside metropolitan areas,,"571,274",,,,,,,,,
-KANSAS,KANSAS,Area actually reporting,95.4%,"1,899",17,298,126,"1,458","14,140","2,545","10,585","1,010"
-KANSAS,KANSAS,Estimated total,100.0%,"1,957",17,298,145,"1,497","14,738","2,644","11,069","1,025"
-KANSAS,Nonmetropolitan counties,,"322,053",,,,,,,,,
-KANSAS,KANSAS,Area actually reporting,96.6%,708,8,105,13,582,"3,466","1,054","2,057",355
-KANSAS,KANSAS,Estimated total,100.0%,720,8,107,22,583,"3,536","1,063","2,094",379
-KANSAS,State Total,,"2,911,505","12,782",113,"1,567","1,543","9,559","76,686","12,537","56,305","7,844"
-KANSAS,KANSAS,"Rate per 100,000 inhabitants",,439.0,3.9,53.8,53.0,328.3,"2,633.9",430.6,"1,933.9",269.4
-KENTUCKY,Metropolitan Statistical Area,,"2,659,106",,,,,,,,,
-KENTUCKY,Metropolitan Statistical Area,Area actually reporting,99.7%,"7,130",144,944,"2,104","3,938","66,119","11,452","47,079","7,588"
-KENTUCKY,Metropolitan Statistical Area,Estimated total,100.0%,"7,135",144,945,"2,106","3,940","66,231","11,478","47,148","7,605"
-KENTUCKY,Cities outside metropolitan areas,,"534,383",,,,,,,,,
-KENTUCKY,KENTUCKY,Area actually reporting,97.5%,911,17,235,238,421,"12,313","2,479","8,797","1,037"
-KENTUCKY,KENTUCKY,Estimated total,100.0%,912,17,236,238,421,"12,437","2,496","8,890","1,051"
-KENTUCKY,Nonmetropolitan counties,,"1,274,913",,,,,,,,,
-KENTUCKY,KENTUCKY,Area actually reporting,100.0%,"1,420",83,526,113,698,"9,027","3,216","4,206","1,605"
-KENTUCKY,State Total,,"4,468,402","9,467",244,"1,707","2,457","5,059","87,695","17,190","60,244","10,261"
-KENTUCKY,KENTUCKY,"Rate per 100,000 inhabitants",,211.9,5.5,38.2,55.0,113.2,"1,962.6",384.7,"1,348.2",229.6
-LOUISIANA,Metropolitan Statistical Area,,"3,921,292",,,,,,,,,
-LOUISIANA,Metropolitan Statistical Area,Area actually reporting,97.2%,"21,501",481,"1,864","4,256","14,900","131,877","25,979","95,308","10,590"
-LOUISIANA,Metropolitan Statistical Area,Estimated total,100.0%,"22,029",487,"1,880","4,326","15,336","135,727","26,788","98,151","10,788"
-LOUISIANA,Cities outside metropolitan areas,,"274,151",,,,,,,,,
-LOUISIANA,LOUISIANA,Area actually reporting,80.8%,"1,454",25,89,156,"1,184","8,835","2,132","6,415",288
-LOUISIANA,LOUISIANA,Estimated total,100.0%,"1,577",25,89,159,"1,304","10,371","2,360","7,719",292
-LOUISIANA,Nonmetropolitan counties,,"464,535",,,,,,,,,
-LOUISIANA,LOUISIANA,Area actually reporting,96.7%,"1,416",18,116,83,"1,199","6,373","1,936","3,987",450
-LOUISIANA,LOUISIANA,Estimated total,100.0%,"1,443",18,116,83,"1,226","6,563","1,984","4,123",456
-LOUISIANA,State Total,,"4,659,978","25,049",530,"2,085","4,568","17,866","152,661","31,132","109,993","11,536"
-LOUISIANA,LOUISIANA,"Rate per 100,000 inhabitants",,537.5,11.4,44.7,98.0,383.4,"3,276.0",668.1,"2,360.4",247.6
-MAINE,Metropolitan Statistical Area,,"794,794",,,,,,,,,
-MAINE,Metropolitan Statistical Area,Area actually reporting,100.0%,887,12,230,170,475,"11,228","1,452","9,347",429
-MAINE,Cities outside metropolitan areas,,"256,583",,,,,,,,,
-MAINE,MAINE,Area actually reporting,100.0%,322,2,112,33,175,"4,473",627,"3,675",171
-MAINE,Nonmetropolitan counties,,"287,027",,,,,,,,,
-MAINE,MAINE,Area actually reporting,100.0%,292,10,104,25,153,"2,472",634,"1,661",177
-MAINE,State Total,,"1,338,404","1,501",24,446,228,803,"18,173","2,713","14,683",777
-MAINE,MAINE,"Rate per 100,000 inhabitants",,112.1,1.8,33.3,17.0,60.0,"1,357.8",202.7,"1,097.1",58.1
-MARYLAND,Metropolitan Statistical Area,,"5,893,251",,,,,,,,,
-MARYLAND,Metropolitan Statistical Area,Area actually reporting,100.0%,"27,945",488,"1,932","9,646","15,879","120,507","18,359","90,082","12,066"
-MARYLAND,Cities outside metropolitan areas,,"51,354",,,,,,,,,
-MARYLAND,MARYLAND,Area actually reporting,100.0%,228,2,17,55,154,"1,545",290,"1,226",29
-MARYLAND,Nonmetropolitan counties,,"98,113",,,,,,,,,
-MARYLAND,MARYLAND,Area actually reporting,100.0%,147,0,30,15,102,812,243,527,42
-MARYLAND,State Total,,"6,042,718","28,320",490,"1,979","9,716","16,135","122,864","18,892","91,835","12,137"
-MARYLAND,MARYLAND,"Rate per 100,000 inhabitants",,468.7,8.1,32.8,160.8,267.0,"2,033.3",312.6,"1,519.8",200.9
-MASSACHUSETTS,Metropolitan Statistical Area,,"6,873,328",,,,,,,,,
-MASSACHUSETTS,Metropolitan Statistical Area,Area actually reporting,97.5%,"22,924",136,"2,377","4,068","16,343","85,784","13,762","65,538","6,484"
-MASSACHUSETTS,Metropolitan Statistical Area,Estimated total,100.0%,"23,216",136,"2,393","4,141","16,546","86,714","13,807","66,319","6,588"
-MASSACHUSETTS,Cities outside metropolitan areas,,"28,747",,,,,,,,,
-MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,100.0%,121,0,17,2,102,481,55,408,18
-MASSACHUSETTS,Nonmetropolitan counties,,74,,,,,,,,,
-MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,98.8%,0,0,0,0,0,0,0,0,0
-MASSACHUSETTS,MASSACHUSETTS,Estimated total,100.0%,0,0,0,0,0,1,0,1,0
-MASSACHUSETTS,State Total,,"6,902,149","23,337",136,"2,410","4,143","16,648","87,196","13,862","66,728","6,606"
-MASSACHUSETTS,MASSACHUSETTS,"Rate per 100,000 inhabitants",,338.1,2.0,34.9,60.0,241.2,"1,263.3",200.8,966.8,95.7
-MICHIGAN,Metropolitan Statistical Area,,"8,193,112",,,,,,,,,
-MICHIGAN,Metropolitan Statistical Area,Area actually reporting,98.8%,"39,962",513,"5,988","5,514","27,947","144,783","27,577","100,875","16,331"
-MICHIGAN,Metropolitan Statistical Area,Estimated total,100.0%,"40,037",514,"5,999","5,521","28,003","145,166","27,653","101,165","16,348"
-MICHIGAN,Cities outside metropolitan areas,,"578,160",,,,,,,,,
-MICHIGAN,MICHIGAN,Area actually reporting,98.0%,"1,729",10,623,70,"1,026","9,729","1,163","8,147",419
-MICHIGAN,MICHIGAN,Estimated total,100.0%,"1,743",10,625,81,"1,027","9,869","1,168","8,258",443
-MICHIGAN,Nonmetropolitan counties,,"1,224,643",,,,,,,,,
-MICHIGAN,MICHIGAN,Area actually reporting,99.2%,"3,124",27,"1,065",46,"1,986","10,171","2,822","6,690",659
-MICHIGAN,MICHIGAN,Estimated total,100.0%,"3,138",27,"1,066",54,"1,991","10,245","2,830","6,755",660
-MICHIGAN,State Total,,"9,995,915","44,918",551,"7,690","5,656","31,021","165,280","31,651","116,178","17,451"
-MICHIGAN,MICHIGAN,"Rate per 100,000 inhabitants",,449.4,5.5,76.9,56.6,310.3,"1,653.5",316.6,"1,162.3",174.6
-MINNESOTA,Metropolitan Statistical Area,,"4,367,933",,,,,,,,,
-MINNESOTA,Metropolitan Statistical Area,Area actually reporting,98.6%,"10,564",85,"1,988","2,848","5,643","94,250","12,953","72,415","8,882"
-MINNESOTA,Metropolitan Statistical Area,Estimated total,100.0%,"10,564",85,"1,988","2,848","5,643","94,250","12,953","72,415","8,882"
-MINNESOTA,Cities outside metropolitan areas,,"564,597",,,,,,,,,
-MINNESOTA,MINNESOTA,Area actually reporting,99.7%,"1,182",12,294,79,797,"11,817","1,612","9,535",670
-MINNESOTA,MINNESOTA,Estimated total,100.0%,"1,182",12,294,79,797,"11,841","1,613","9,557",671
-MINNESOTA,Nonmetropolitan counties,,"678,649",,,,,,,,,
-MINNESOTA,MINNESOTA,Area actually reporting,100.0%,623,9,180,17,417,"5,783","1,619","3,589",575
-MINNESOTA,State Total,,"5,611,179","12,369",106,"2,462","2,944","6,857","111,874","16,185","85,561","10,128"
-MINNESOTA,MINNESOTA,"Rate per 100,000 inhabitants",,220.4,1.9,43.9,52.5,122.2,"1,993.8",288.4,"1,524.8",180.5
-MISSISSIPPI,Metropolitan Statistical Area,,"1,437,099",,,,,,,,,
-MISSISSIPPI,Metropolitan Statistical Area,Area actually reporting,75.9%,"2,942",114,208,854,"1,766","30,690","6,285","21,574","2,831"
-MISSISSIPPI,Metropolitan Statistical Area,Estimated total,100.0%,"3,735",138,256,"1,049","2,292","39,700","7,943","28,430","3,327"
-MISSISSIPPI,Cities outside metropolitan areas,,"557,101",,,,,,,,,
-MISSISSIPPI,MISSISSIPPI,Area actually reporting,37.9%,"1,031",28,68,200,735,"8,504","2,425","5,715",364
-MISSISSIPPI,MISSISSIPPI,Estimated total,100.0%,"1,698",28,152,370,"1,148","17,844","5,437","11,810",597
-MISSISSIPPI,Nonmetropolitan counties,,"992,330",,,,,,,,,
-MISSISSIPPI,MISSISSIPPI,Area actually reporting,20.7%,368,5,47,50,266,"2,840","1,262","1,394",184
-MISSISSIPPI,MISSISSIPPI,Estimated total,100.0%,"1,566",5,129,176,"1,256","14,222","7,459","6,387",376
-MISSISSIPPI,State Total,,"2,986,530","6,999",171,537,"1,595","4,696","71,766","20,839","46,627","4,300"
-MISSISSIPPI,MISSISSIPPI,"Rate per 100,000 inhabitants",,234.4,5.7,18.0,53.4,157.2,"2,403.0",697.8,"1,561.2",144.0
-MISSOURI,Metropolitan Statistical Area,,"4,592,956",,,,,,,,,
-MISSOURI,Metropolitan Statistical Area,Area actually reporting,99.8%,"25,819",537,"2,372","4,985","17,925","131,128","20,841","92,909","17,378"
-MISSOURI,Metropolitan Statistical Area,Estimated total,100.0%,"25,822",537,"2,372","4,988","17,925","131,163","20,850","92,926","17,387"
-MISSOURI,Cities outside metropolitan areas,,"650,579",,,,,,,,,
-MISSOURI,MISSOURI,Area actually reporting,98.5%,"2,486",27,327,164,"1,968","20,341","3,153","15,940","1,248"
-MISSOURI,MISSOURI,Estimated total,100.0%,"2,503",27,327,164,"1,985","20,506","3,154","16,095","1,257"
-MISSOURI,Nonmetropolitan counties,,"882,917",,,,,,,,,
-MISSOURI,MISSOURI,Area actually reporting,100.0%,"2,433",43,213,45,"2,132","10,504","3,253","6,080","1,171"
-MISSOURI,State Total,,"6,126,452","30,758",607,"2,912","5,197","22,042","162,173","27,257","115,101","19,815"
-MISSOURI,MISSOURI,"Rate per 100,000 inhabitants",,502.1,9.9,47.5,84.8,359.8,"2,647.1",444.9,"1,878.8",323.4
-MONTANA,Metropolitan Statistical Area,,"382,078",,,,,,,,,
-MONTANA,Metropolitan Statistical Area,Area actually reporting,100.0%,"1,589",14,181,183,"1,211","14,400","1,671","11,176","1,553"
-MONTANA,Cities outside metropolitan areas,,"224,421",,,,,,,,,
-MONTANA,MONTANA,Area actually reporting,100.0%,"1,216",8,212,63,933,"6,250",700,"4,997",553
-MONTANA,Nonmetropolitan counties,,"455,806",,,,,,,,,
-MONTANA,MONTANA,Area actually reporting,99.3%,"1,162",12,158,20,972,"5,845",885,"4,275",685
-MONTANA,MONTANA,Estimated total,100.0%,"1,169",12,158,23,976,"5,868",886,"4,292",690
-MONTANA,State Total,,"1,062,305","3,974",34,551,269,"3,120","26,518","3,257","20,465","2,796"
-MONTANA,MONTANA,"Rate per 100,000 inhabitants",,374.1,3.2,51.9,25.3,293.7,"2,496.3",306.6,"1,926.5",263.2
-NEBRASKA,Metropolitan Statistical Area,,"1,255,602",,,,,,,,,
-NEBRASKA,Metropolitan Statistical Area,Area actually reporting,99.8%,"4,418",39,914,681,"2,784","31,051","3,872","22,973","4,206"
-NEBRASKA,Metropolitan Statistical Area,Estimated total,100.0%,"4,429",39,915,683,"2,792","31,141","3,882","23,040","4,219"
-NEBRASKA,Cities outside metropolitan areas,,"347,118",,,,,,,,,
-NEBRASKA,NEBRASKA,Area actually reporting,92.9%,773,2,252,50,469,"6,773",963,"5,357",453
-NEBRASKA,NEBRASKA,Estimated total,100.0%,805,2,253,72,478,"7,211","1,017","5,721",473
-NEBRASKA,Nonmetropolitan counties,,"326,548",,,,,,,,,
-NEBRASKA,NEBRASKA,Area actually reporting,84.6%,260,3,65,1,191,"1,641",347,"1,112",182
-NEBRASKA,NEBRASKA,Estimated total,100.0%,260,3,65,1,191,"1,774",347,"1,245",182
-NEBRASKA,State Total,,"1,929,268","5,494",44,"1,233",756,"3,461","40,126","5,246","30,006","4,874"
-NEBRASKA,NEBRASKA,"Rate per 100,000 inhabitants",,284.8,2.3,63.9,39.2,179.4,"2,079.9",271.9,"1,555.3",252.6
-NEVADA,Metropolitan Statistical Area,,"2,759,691",,,,,,,,,
-NEVADA,Metropolitan Statistical Area,Area actually reporting,100.0%,"15,629",186,"2,198","3,805","9,440","70,268","16,758","42,000","11,510"
-NEVADA,Cities outside metropolitan areas,,"48,497",,,,,,,,,
-NEVADA,NEVADA,Area actually reporting,100.0%,256,6,45,22,183,993,230,684,79
-NEVADA,Nonmetropolitan counties,,"226,204",,,,,,,,,
-NEVADA,NEVADA,Area actually reporting,100.0%,535,10,86,35,404,"2,724",755,"1,654",315
-NEVADA,State Total,,"3,034,392","16,420",202,"2,329","3,862","10,027","73,985","17,743","44,338","11,904"
-NEVADA,NEVADA,"Rate per 100,000 inhabitants",,541.1,6.7,76.8,127.3,330.4,"2,438.2",584.7,"1,461.2",392.3
-NEW HAMPSHIRE,Metropolitan Statistical Area,,"854,544",,,,,,,,,
-NEW HAMPSHIRE,Metropolitan Statistical Area,Area actually reporting,99.2%,"1,530",15,304,259,952,"10,324","1,026","8,747",551
-NEW HAMPSHIRE,Metropolitan Statistical Area,Estimated total,100.0%,"1,535",15,304,259,957,"10,473","1,031","8,887",555
-NEW HAMPSHIRE,Cities outside metropolitan areas,,"459,985",,,,,,,,,
-NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,93.6%,728,5,209,72,442,"5,960",738,"4,929",293
-NEW HAMPSHIRE,NEW HAMPSHIRE,Estimated total,100.0%,766,5,216,96,449,"6,165",754,"5,117",294
-NEW HAMPSHIRE,Nonmetropolitan counties,,"41,929",,,,,,,,,
-NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,93.4%,39,1,13,2,23,237,52,171,14
-NEW HAMPSHIRE,NEW HAMPSHIRE,Estimated total,100.0%,48,1,14,4,29,297,62,215,20
-NEW HAMPSHIRE,State Total,,"1,356,458","2,349",21,534,359,"1,435","16,935","1,847","14,219",869
-NEW HAMPSHIRE,NEW HAMPSHIRE,"Rate per 100,000 inhabitants",,173.2,1.5,39.4,26.5,105.8,"1,248.5",136.2,"1,048.2",64.1
-NEW JERSEY,Metropolitan Statistical Area,,"8,908,520",,,,,,,,,
-NEW JERSEY,Metropolitan Statistical Area,Area actually reporting,100.0%,"18,537",286,"1,424","6,364","10,463","125,156","19,232","94,887","11,037"
-NEW JERSEY,Cities outside metropolitan areas,,None,,,,,,,,,
-NEW JERSEY,Nonmetropolitan counties,,None,,,,,,,,,
-NEW JERSEY,State Total,,"8,908,520","18,537",286,"1,424","6,364","10,463","125,156","19,232","94,887","11,037"
-NEW JERSEY,NEW JERSEY,"Rate per 100,000 inhabitants",,208.1,3.2,16.0,71.4,117.4,"1,404.9",215.9,"1,065.1",123.9
-NEW MEXICO,Metropolitan Statistical Area,,"1,408,549",,,,,,,,,
-NEW MEXICO,Metropolitan Statistical Area,Area actually reporting,92.5%,"12,522",107,909,"2,419","9,087","52,221","10,979","32,955","8,287"
-NEW MEXICO,Metropolitan Statistical Area,Estimated total,100.0%,"13,376",111,936,"2,527","9,802","53,954","11,465","34,013","8,476"
-NEW MEXICO,Cities outside metropolitan areas,,"394,037",,,,,,,,,
-NEW MEXICO,NEW MEXICO,Area actually reporting,96.0%,"2,820",33,227,252,"2,308","13,827","3,289","9,359","1,179"
-NEW MEXICO,NEW MEXICO,Estimated total,100.0%,"2,836",33,229,255,"2,319","14,284","3,406","9,687","1,191"
-NEW MEXICO,Nonmetropolitan counties,,"292,842",,,,,,,,,
-NEW MEXICO,NEW MEXICO,Area actually reporting,97.4%,"1,701",23,187,41,"1,450","3,302","1,172","1,627",503
-NEW MEXICO,NEW MEXICO,Estimated total,100.0%,"1,737",23,189,48,"1,477","3,419","1,217","1,690",512
-NEW MEXICO,State Total,,"2,095,428","17,949",167,"1,354","2,830","13,598","71,657","16,088","45,390","10,179"
-NEW MEXICO,NEW MEXICO,"Rate per 100,000 inhabitants",,856.6,8.0,64.6,135.1,648.9,"3,419.7",767.8,"2,166.1",485.8
-NEW YORK,Metropolitan Statistical Area,,"18,197,801",,,,,,,,,
-NEW YORK,Metropolitan Statistical Area,Area actually reporting,99.7%,"65,791",535,"5,597","17,953","41,706","263,956","28,097","223,311","12,548"
-NEW YORK,Metropolitan Statistical Area,Estimated total,100.0%,"65,840",535,"5,603","17,961","41,741","264,695","28,169","223,958","12,568"
-NEW YORK,Cities outside metropolitan areas,,"502,454",,,,,,,,,
-NEW YORK,NEW YORK,Area actually reporting,97.4%,"1,242",11,285,174,772,"8,916","1,373","7,308",235
-NEW YORK,NEW YORK,Estimated total,100.0%,"1,278",12,296,176,794,"9,222","1,421","7,559",242
-NEW YORK,Nonmetropolitan counties,,"841,954",,,,,,,,,
-NEW YORK,NEW YORK,Area actually reporting,100.0%,"1,377",15,676,50,636,"7,590","1,547","5,716",327
-NEW YORK,State Total,,"19,542,209","68,495",562,"6,575","18,187","43,171","281,507","31,137","237,233","13,137"
-NEW YORK,NEW YORK,"Rate per 100,000 inhabitants",,350.5,2.9,33.6,93.1,220.9,"1,440.5",159.3,"1,214.0",67.2
-NORTH CAROLINA5,Metropolitan Statistical Area,,"8,401,289",,,,,,,,,
-NORTH CAROLINA5,Metropolitan Statistical Area,Area actually reporting,89.1%,"29,429",396,1989,"6,340","20,704","190,073","42,468","134,375","13,230"
-NORTH CAROLINA5,Metropolitan Statistical Area,Estimated total,100.0%,"32,996",456,"2,140","7,449","22,951","210,122","46,893","148,551","14,678"
-NORTH CAROLINA5,Cities outside metropolitan areas,,"586,242",,,,,,,,,
-NORTH CAROLINA5,NORTH CAROLINA5,Area actually reporting,86.2%,"2,842",66,122,566,"2,088","22,507","5,258","16,180","1,069"
-NORTH CAROLINA5,NORTH CAROLINA5,Estimated total,100.0%,"3,174",68,135,633,"2,338","25,766","5,983","18,566","1,217"
-NORTH CAROLINA5,Nonmetropolitan counties,,"1,396,089",,,,,,,,,
-NORTH CAROLINA5,NORTH CAROLINA5,Area actually reporting,95.3%,"2,909",99,342,327,"2,141","22,190","9,060","11,454","1,676"
-NORTH CAROLINA5,NORTH CAROLINA5,Estimated total,100.0%,"3,040",104,358,341,"2,237","23,091","9,414","11,940","1,737"
-NORTH CAROLINA5,State Total,,"10,383,620","39,210",628,"2,633","8,423","27,526","258,979","62,290","179,057","17,632"
-NORTH CAROLINA5,NORTH CAROLINA5,"Rate per 100,000 inhabitants",,377.6,6.0,25.4,81.1,265.1,"2,494.1",599.9,"1,724.4",169.8
-NORTH DAKOTA,Metropolitan Statistical Area,,"379,498",,,,,,,,,
-NORTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,100.0%,"1,164",11,233,121,799,"9,331","1,538","6,924",869
-NORTH DAKOTA,Cities outside metropolitan areas,,"188,093",,,,,,,,,
-NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,99.8%,765,7,120,32,606,"4,574",807,"3,135",632
-NORTH DAKOTA,NORTH DAKOTA,Estimated total,100.0%,766,7,120,32,607,"4,582",808,"3,141",633
-NORTH DAKOTA,Nonmetropolitan counties,,"192,486",,,,,,,,,
-NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,100.0%,203,0,44,5,154,"1,594",378,943,273
-NORTH DAKOTA,State Total,,"760,077","2,133",18,397,158,"1,560","15,507","2,724","11,008","1,775"
-NORTH DAKOTA,NORTH DAKOTA,"Rate per 100,000 inhabitants",,280.6,2.4,52.2,20.8,205.2,"2,040.2",358.4,"1,448.3",233.5
-OHIO,Metropolitan Statistical Area,,"9,376,628",,,,,,,,,
-OHIO,Metropolitan Statistical Area,Area actually reporting,90.1%,"28,724",537,"4,341","8,382","15,464","199,224","39,060","143,262","16,902"
-OHIO,Metropolitan Statistical Area,Estimated total,100.0%,"29,748",537,"4,511","8,829","15,871","215,783","40,774","157,031","17,978"
-OHIO,Cities outside metropolitan areas,,"1,018,281",,,,,,,,,
-OHIO,OHIO,Area actually reporting,80.9%,"1,562",15,421,249,877,"21,458","3,433","17,179",846
-OHIO,OHIO,Estimated total,100.0%,"1,643",16,429,254,944,"25,677","4,001","20,747",929
-OHIO,Nonmetropolitan counties,,"1,294,533",,,,,,,,,
-OHIO,OHIO,Area actually reporting,86.0%,"1,301",11,359,102,829,"11,326","2,990","7,401",935
-OHIO,OHIO,Estimated total,100.0%,"1,332",11,360,102,859,"13,036","3,411","8,623","1,002"
-OHIO,State Total,,"11,689,442","32,723",564,"5,300","9,185","17,674","254,496","48,186","186,401","19,909"
-OHIO,OHIO,"Rate per 100,000 inhabitants",,279.9,4.8,45.3,78.6,151.2,"2,177.1",412.2,"1,594.6",170.3
-OKLAHOMA,Metropolitan Statistical Area,,"2,621,457",,,,,,,,,
-OKLAHOMA,Metropolitan Statistical Area,Area actually reporting,99.9%,"14,233",162,"1,708","2,432","9,931","82,153","18,608","53,054","10,491"
-OKLAHOMA,Metropolitan Statistical Area,Estimated total,100.0%,"14,233",162,"1,708","2,432","9,931","82,153","18,608","53,054","10,491"
-OKLAHOMA,Cities outside metropolitan areas,,"731,666",,,,,,,,,
-OKLAHOMA,OKLAHOMA,Area actually reporting,99.3%,"3,082",31,421,317,"2,313","23,573","5,537","16,165","1,871"
-OKLAHOMA,OKLAHOMA,Estimated total,100.0%,"3,085",31,421,317,"2,316","23,677","5,556","16,248","1,873"
-OKLAHOMA,Nonmetropolitan counties,,"589,956",,,,,,,,,
-OKLAHOMA,OKLAHOMA,Area actually reporting,97.9%,"1,053",13,169,42,829,"7,384","2,640","3,828",916
-OKLAHOMA,OKLAHOMA,Estimated total,100.0%,"1,062",13,170,42,837,"7,534","2,694","3,915",925
-OKLAHOMA,State Total,,"3,943,079","18,380",206,"2,299","2,791","13,084","113,364","26,858","73,217","13,289"
-OKLAHOMA,OKLAHOMA,"Rate per 100,000 inhabitants",,466.1,5.2,58.3,70.8,331.8,"2,875.0",681.1,"1,856.8",337.0
-OREGON,Metropolitan Statistical Area,,"3,518,314",,,,,,,,,
-OREGON,Metropolitan Statistical Area,Area actually reporting,99.3%,"10,262",65,"1,707","2,296","6,194","105,007","13,343","76,678","14,986"
-OREGON,Metropolitan Statistical Area,Estimated total,100.0%,"10,313",65,"1,713","2,310","6,225","105,339","13,359","76,960","15,020"
-OREGON,Cities outside metropolitan areas,,"311,614",,,,,,,,,
-OREGON,OREGON,Area actually reporting,95.0%,893,8,154,144,587,"10,648","1,602","8,227",819
-OREGON,OREGON,Estimated total,100.0%,923,8,158,158,599,"11,119","1,660","8,618",841
-OREGON,Nonmetropolitan counties,,"360,785",,,,,,,,,
-OREGON,OREGON,Area actually reporting,84.3%,603,8,91,34,470,"4,118","1,086","2,425",607
-OREGON,OREGON,Estimated total,100.0%,730,9,104,81,536,"4,820","1,285","2,840",695
-OREGON,State Total,,"4,190,713","11,966",82,"1,975","2,549","7,360","121,278","16,304","88,418","16,556"
-OREGON,OREGON,"Rate per 100,000 inhabitants",,285.5,2.0,47.1,60.8,175.6,"2,894.0",389.1,"2,109.9",395.1
-PENNSYLVANIA,Metropolitan Statistical Area,,"11,353,779",,,,,,,,,
-PENNSYLVANIA,Metropolitan Statistical Area,Area actually reporting,99.7%,"36,145",745,"3,830","9,605","21,965","175,929","24,132","139,309","12,488"
-PENNSYLVANIA,Metropolitan Statistical Area,Estimated total,100.0%,"36,160",745,"3,830","9,606","21,979","176,290","24,146","139,655","12,489"
-PENNSYLVANIA,Cities outside metropolitan areas,,"642,834",,,,,,,,,
-PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,98.9%,"1,751",13,164,142,"1,432","7,172","1,019","5,921",232
-PENNSYLVANIA,PENNSYLVANIA,Estimated total,100.0%,"1,757",13,164,142,"1,438","7,233","1,021","5,980",232
-PENNSYLVANIA,Nonmetropolitan counties,,"810,447",,,,,,,,,
-PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,100.0%,"1,275",26,489,100,660,"7,293","1,937","4,961",395
-PENNSYLVANIA,State Total,,"12,807,060","39,192",784,"4,483","9,848","24,077","190,816","27,104","150,596","13,116"
-PENNSYLVANIA,PENNSYLVANIA,"Rate per 100,000 inhabitants",,306.0,6.1,35.0,76.9,188.0,"1,489.9",211.6,"1,175.9",102.4
-PUERTO RICO,Metropolitan Statistical Area,,"3,079,741",,,,,,,,,
-PUERTO RICO,Metropolitan Statistical Area,Area actually reporting,100.0%,"6,181",614,191,"2,239","3,137","24,202","5,273","15,259","3,670"
-PUERTO RICO,Cities outside metropolitan areas,,"115,412",,,,,,,,,
-PUERTO RICO,PUERTO RICO,Area actually reporting,100.0%,236,25,7,32,172,649,213,399,37
-PUERTO RICO,Total,,"3,195,153","6,417",639,198,"2,271","3,309","24,851","5,486","15,658","3,707"
-PUERTO RICO,PUERTO RICO,"Rate per 100,000 inhabitants",,200.8,20.0,6.2,71.1,103.6,777.8,171.7,490.1,116.0
-RHODE ISLAND,Metropolitan Statistical Area,,"1,057,315",,,,,,,,,
-RHODE ISLAND,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,317",16,481,454,"1,366","17,561","2,810","13,220","1,531"
-RHODE ISLAND,Cities outside metropolitan areas,,None,,,,,,,,,
-RHODE ISLAND,Nonmetropolitan counties,,None,,,,,,,,,
-RHODE ISLAND,State Total,,"1,057,315","2,317",16,481,454,"1,366","17,561","2,810","13,220","1,531"
-RHODE ISLAND,RHODE ISLAND,"Rate per 100,000 inhabitants",,219.1,1.5,45.5,42.9,129.2,"1,660.9",265.8,"1,250.3",144.8
-SOUTH CAROLINA,Metropolitan Statistical Area,,"4,347,374",,,,,,,,,
-SOUTH CAROLINA,Metropolitan Statistical Area,Area actually reporting,98.8%,"20,355",306,"2,060","3,050","14,939","127,824","23,029","92,348","12,447"
-SOUTH CAROLINA,Metropolitan Statistical Area,Estimated total,100.0%,"20,541",306,"2,074","3,075","15,086","129,023","23,215","93,322","12,486"
-SOUTH CAROLINA,Cities outside metropolitan areas,,"203,525",,,,,,,,,
-SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,97.0%,"2,028",32,133,287,"1,576","10,512","2,169","7,820",523
-SOUTH CAROLINA,SOUTH CAROLINA,Estimated total,100.0%,"2,061",32,133,292,"1,604","10,661","2,185","7,947",529
-SOUTH CAROLINA,Nonmetropolitan counties,,"533,228",,,,,,,,,
-SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,96.3%,"2,158",54,226,183,"1,695","13,312","3,927","8,100","1,285"
-SOUTH CAROLINA,SOUTH CAROLINA,Estimated total,100.0%,"2,223",54,227,186,"1,756","13,737","4,073","8,347","1,317"
-SOUTH CAROLINA,State Total,,"5,084,127","24,825",392,"2,434","3,553","18,446","153,421","29,473","109,616","14,332"
-SOUTH CAROLINA,SOUTH CAROLINA,"Rate per 100,000 inhabitants",,488.3,7.7,47.9,69.9,362.8,"3,017.6",579.7,"2,156.0",281.9
-SOUTH DAKOTA,Metropolitan Statistical Area,,"420,829",,,,,,,,,
-SOUTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,99.1%,"1,623",7,339,176,"1,101","9,378","1,556","6,849",973
-SOUTH DAKOTA,Metropolitan Statistical Area,Estimated total,100.0%,"1,638",7,342,178,"1,111","9,470","1,569","6,918",983
-SOUTH DAKOTA,Cities outside metropolitan areas,,"219,614",,,,,,,,,
-SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,96.0%,"1,587",2,231,40,"1,314","4,504",633,"3,508",363
-SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,"1,608",2,231,47,"1,328","4,604",645,"3,590",369
-SOUTH DAKOTA,Nonmetropolitan counties,,"241,792",,,,,,,,,
-SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,82.8%,183,3,29,3,148,817,213,522,82
-SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,324,3,41,37,243,"1,177",357,648,172
-SOUTH DAKOTA,State Total,,"882,235","3,570",12,614,262,"2,682","15,251","2,571","11,156","1,524"
-SOUTH DAKOTA,SOUTH DAKOTA,"Rate per 100,000 inhabitants",,404.7,1.4,69.6,29.7,304.0,"1,728.7",291.4,"1,264.5",172.7
-TENNESSEE,Metropolitan Statistical Area,,"5,297,542",,,,,,,,,
-TENNESSEE,Metropolitan Statistical Area,Area actually reporting,99.9%,"36,817",451,"2,379","6,916","27,071","160,578","26,609","116,881","17,088"
-TENNESSEE,Metropolitan Statistical Area,Estimated total,100.0%,"36,817",451,"2,379","6,916","27,071","160,578","26,609","116,881","17,088"
-TENNESSEE,Cities outside metropolitan areas,,"483,479",,,,,,,,,
-TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"2,646",14,186,190,"2,256","17,352","2,813","13,213","1,326"
-TENNESSEE,Nonmetropolitan counties,,"988,989",,,,,,,,,
-TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"2,763",33,256,84,"2,390","13,349","3,710","7,614","2,025"
-TENNESSEE,State Total,,"6,770,010","42,226",498,"2,821","7,190","31,717","191,279","33,132","137,708","20,439"
-TENNESSEE,TENNESSEE,"Rate per 100,000 inhabitants",,623.7,7.4,41.7,106.2,468.5,"2,825.4",489.4,"2,034.1",301.9
-TEXAS,Metropolitan Statistical Area,,"25,601,190",,,,,,,,,
-TEXAS,Metropolitan Statistical Area,Area actually reporting,98.2%,"109,688","1,228","13,483","27,686","67,291","631,017","105,140","459,349","66,528"
-TEXAS,Metropolitan Statistical Area,Estimated total,100.0%,"109,839","1,228","13,496","27,703","67,412","632,569","105,409","460,517","66,643"
-TEXAS,Cities outside metropolitan areas,,"1,443,676",,,,,,,,,
-TEXAS,TEXAS,Area actually reporting,93.4%,"4,859",42,617,447,"3,753","30,004","6,785","21,596","1,623"
-TEXAS,TEXAS,Estimated total,100.0%,"5,065",42,638,454,"3,931","31,297","7,099","22,520","1,678"
-TEXAS,Nonmetropolitan counties,,"1,656,979",,,,,,,,,
-TEXAS,TEXAS,Area actually reporting,98.4%,"2,985",52,554,98,"2,281","15,328","5,321","8,529","1,478"
-TEXAS,TEXAS,Estimated total,100.0%,"3,023",52,559,99,"2,313","15,564","5,403","8,665","1,496"
-TEXAS,State Total,,"28,701,845","117,927","1,322","14,693","28,256","73,656","679,430","117,911","491,702","69,817"
-TEXAS,TEXAS,"Rate per 100,000 inhabitants",,410.9,4.6,51.2,98.4,256.6,"2,367.2",410.8,"1,713.1",243.2
-UTAH,Metropolitan Statistical Area,,"2,830,802",,,,,,,,,
-UTAH,Metropolitan Statistical Area,Area actually reporting,99.4%,"6,631",53,"1,615","1,201","3,762","69,225","9,095","52,857","7,273"
-UTAH,Metropolitan Statistical Area,Estimated total,100.0%,"6,639",53,"1,616","1,202","3,768","69,483","9,128","53,065","7,290"
-UTAH,Cities outside metropolitan areas,,"149,423",,,,,,,,,
-UTAH,UTAH,Area actually reporting,89.6%,364,4,78,15,267,"3,076",390,"2,469",217
-UTAH,UTAH,Estimated total,100.0%,397,4,81,27,285,"3,280",412,"2,642",226
-UTAH,Nonmetropolitan counties,,"180,880",,,,,,,,,
-UTAH,UTAH,Area actually reporting,90.9%,310,3,56,7,244,"2,179",401,"1,573",205
-UTAH,UTAH,Estimated total,100.0%,332,3,56,7,266,"2,393",428,"1,753",212
-UTAH,State Total,,"3,161,105","7,368",60,"1,753","1,236","4,319","75,156","9,968","57,460","7,728"
-UTAH,UTAH,"Rate per 100,000 inhabitants",,233.1,1.9,55.5,39.1,136.6,"2,377.5",315.3,"1,817.7",244.5
-VERMONT,Metropolitan Statistical Area,,"220,420",,,,,,,,,
-VERMONT,Metropolitan Statistical Area,Area actually reporting,100.0%,384,4,117,26,237,"3,412",493,"2,852",67
-VERMONT,Cities outside metropolitan areas,,"190,773",,,,,,,,,
-VERMONT,VERMONT,Area actually reporting,100.0%,402,1,95,34,272,"3,183",452,"2,638",93
-VERMONT,Nonmetropolitan counties,,"215,106",,,,,,,,,
-VERMONT,VERMONT,Area actually reporting,100.0%,291,5,75,10,201,"1,441",522,826,93
-VERMONT,State Total,,"626,299","1,077",10,287,70,710,"8,036","1,467","6,316",253
-VERMONT,VERMONT,"Rate per 100,000 inhabitants",,172.0,1.6,45.8,11.2,113.4,"1,283.1",234.2,"1,008.5",40.4
-VIRGINIA,Metropolitan Statistical Area,,"7,466,029",,,,,,,,,
-VIRGINIA,Metropolitan Statistical Area,Area actually reporting,99.9%,"15,054",334,"2,428","3,384","8,908","127,888","13,142","104,914","9,832"
-VIRGINIA,Metropolitan Statistical Area,Estimated total,100.0%,"15,056",334,"2,428","3,384","8,910","127,900","13,145","104,921","9,834"
-VIRGINIA,Cities outside metropolitan areas,,"244,617",,,,,,,,,
-VIRGINIA,VIRGINIA,Area actually reporting,97.8%,640,18,95,123,404,"6,088",752,"5,033",303
-VIRGINIA,VIRGINIA,Estimated total,100.0%,645,18,96,124,407,"6,201",761,"5,134",306
-VIRGINIA,Nonmetropolitan counties,,"807,039",,,,,,,,,
-VIRGINIA,VIRGINIA,Area actually reporting,100.0%,"1,331",39,400,96,796,"7,784","1,668","5,478",638
-VIRGINIA,State Total,,"8,517,685","17,032",391,"2,924","3,604","10,113","141,885","15,574","115,533","10,778"
-VIRGINIA,VIRGINIA,"Rate per 100,000 inhabitants",,200.0,4.6,34.3,42.3,118.7,"1,665.8",182.8,"1,356.4",126.5
-WASHINGTON,Metropolitan Statistical Area,,"6,769,023",,,,,,,,,
-WASHINGTON,Metropolitan Statistical Area,Area actually reporting,98.6%,"21,866",214,"3,094","5,400","13,158","204,842","36,088","142,637","26,117"
-WASHINGTON,Metropolitan Statistical Area,Estimated total,100.0%,"21,919",214,"3,099","5,415","13,191","205,202","36,129","142,935","26,138"
-WASHINGTON,Cities outside metropolitan areas,,"308,505",,,,,,,,,
-WASHINGTON,WASHINGTON,Area actually reporting,92.8%,944,4,209,95,636,"10,638","1,922","7,728",988
-WASHINGTON,WASHINGTON,Estimated total,100.0%,979,4,211,114,650,"11,011","2,008","7,997","1,006"
-WASHINGTON,Nonmetropolitan counties,,"458,063",,,,,,,,,
-WASHINGTON,WASHINGTON,Area actually reporting,100.0%,574,18,103,43,410,"5,798","2,064","3,201",533
-WASHINGTON,State Total,,"7,535,591","23,472",236,"3,413","5,572","14,251","222,011","40,201","154,133","27,677"
-WASHINGTON,WASHINGTON,"Rate per 100,000 inhabitants",,311.5,3.1,45.3,73.9,189.1,"2,946.2",533.5,"2,045.4",367.3
-WEST VIRGINIA,Metropolitan Statistical Area,,"1,164,452",,,,,,,,,
-WEST VIRGINIA,Metropolitan Statistical Area,Area actually reporting,81.9%,"3,193",40,446,251,"2,456","17,785","3,837","12,480","1,468"
-WEST VIRGINIA,Metropolitan Statistical Area,Estimated total,100.0%,"3,677",45,492,418,"2,722","20,085","4,105","14,123","1,857"
-WEST VIRGINIA,Cities outside metropolitan areas,,"175,743",,,,,,,,,
-WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,54.3%,342,2,24,17,299,"1,625",204,"1,341",80
-WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,490,2,35,77,376,"4,071",482,"3,332",257
-WEST VIRGINIA,Nonmetropolitan counties,,"465,637",,,,,,,,,
-WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,86.7%,917,19,109,26,763,"2,445",758,"1,417",270
-WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,"1,069",20,125,77,847,"2,671",767,"1,499",405
-WEST VIRGINIA,State Total,,"1,805,832","5,236",67,652,572,"3,945","26,827","5,354","18,954","2,519"
-WEST VIRGINIA,WEST VIRGINIA,"Rate per 100,000 inhabitants",,289.9,3.7,36.1,31.7,218.5,"1,485.6",296.5,"1,049.6",139.5
-WISCONSIN,Metropolitan Statistical Area,,"4,343,699",,,,,,,,,
-WISCONSIN,Metropolitan Statistical Area,Area actually reporting,98.2%,"15,155",153,"1,737","3,414","9,851","74,000","11,575","54,598","7,827"
-WISCONSIN,Metropolitan Statistical Area,Estimated total,100.0%,"15,159",153,"1,738","3,417","9,851","74,030","11,575","54,628","7,827"
-WISCONSIN,Cities outside metropolitan areas,,"640,432",,,,,,,,,
-WISCONSIN,WISCONSIN,Area actually reporting,99.5%,"1,194",10,290,54,840,"10,935","1,048","9,477",410
-WISCONSIN,WISCONSIN,Estimated total,100.0%,"1,194",10,290,54,840,"11,005","1,048","9,547",410
-WISCONSIN,Nonmetropolitan counties,,"829,437",,,,,,,,,
-WISCONSIN,WISCONSIN,Area actually reporting,100.0%,823,13,220,18,572,"5,651","1,476","3,778",397
-WISCONSIN,State Total,,"5,813,568","17,176",176,"2,248","3,489","11,263","90,686","14,099","67,953","8,634"
-WISCONSIN,WISCONSIN,"Rate per 100,000 inhabitants",,295.4,3.0,38.7,60.0,193.7,"1,559.9",242.5,"1,168.9",148.5
-WYOMING,Metropolitan Statistical Area,,"178,207",,,,,,,,,
-WYOMING,Metropolitan Statistical Area,Area actually reporting,81.3%,384,5,102,27,250,"4,582",712,"3,463",407
-WYOMING,Metropolitan Statistical Area,Estimated total,100.0%,496,6,110,54,326,"5,107",859,"3,769",479
-WYOMING,Cities outside metropolitan areas,,"239,201",,,,,,,,,
-WYOMING,WYOMING,Area actually reporting,91.9%,456,4,91,14,347,"3,795",465,"3,125",205
-WYOMING,WYOMING,Estimated total,100.0%,476,4,91,29,352,"4,120",488,"3,386",246
-WYOMING,Nonmetropolitan counties,,"160,329",,,,,,,,,
-WYOMING,WYOMING,Area actually reporting,89.1%,220,3,38,3,176,958,174,708,76
-WYOMING,WYOMING,Estimated total,100.0%,254,3,42,17,192,"1,086",178,794,114
-WYOMING,State Total,,"577,737","1,226",13,243,100,870,"10,313","1,525","7,949",839
-WYOMING,WYOMING,"Rate per 100,000 inhabitants",,212.2,2.3,42.1,17.3,150.6,"1,785.1",264.0,"1,375.9",145.2
+X1,X2,State,Area,Var.5,Population,Violentcrime,Murder.andnonnegligentmanslaughter,Forciblerape,Robbery,Aggravatedassault,Propertycrime,Burglary,Larceny.theft,Motorvehicletheft
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,Metropolitan Statistical Area,,"3,650,288",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,Metropolitan Statistical Area,Area actually reporting,98.9%,"16,842",283,981,"4,517","11,061","133,153","37,131","88,221","7,801"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,Metropolitan Statistical Area,Estimated total,100.0%,"17,034",285,990,"4,562","11,197","134,817","37,524","89,402","7,891"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,Cities outside metropolitan areas,,"530,240",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,ALABAMA,Area actually reporting,94.1%,"2,813",28,177,364,"2,244","22,441","5,530","15,765","1,146"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,ALABAMA,Estimated total,100.0%,"2,972",30,186,380,"2,376","23,541","5,817","16,518","1,206"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,Nonmetropolitan counties,,"641,495",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,ALABAMA,Area actually reporting,99.2%,"1,674",27,119,77,"1,451","10,438","4,108","5,559",771
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,ALABAMA,Estimated total,100.0%,"1,687",27,120,78,"1,462","10,520","4,140","5,603",777
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,State Total,,"4,822,023","21,693",342,"1,296","5,020","15,035","168,878","47,481","111,523","9,874"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALABAMA,ALABAMA,"Rate per 100,000 inhabitants",,449.9,7.1,26.9,104.1,311.8,"3,502.2",984.7,"2,312.8",204.8
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,Metropolitan Statistical Area,,"348,132",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,726",18,336,535,"1,837","12,893","1,384","10,518",991
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,Cities outside metropolitan areas,,"127,551",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,ALASKA,Area actually reporting,96.5%,699,4,103,56,536,"3,645",422,"2,979",244
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,ALASKA,Estimated total,100.0%,724,4,107,58,555,"3,777",437,"3,087",253
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,Nonmetropolitan counties,,"255,766",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,ALASKA,Area actually reporting,100.0%,962,8,140,37,777,"3,367","1,129","1,960",278
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,State Total,,"731,449","4,412",30,583,630,"3,169","20,037","2,950","15,565","1,522"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ALASKA,ALASKA,"Rate per 100,000 inhabitants",,603.2,4.1,79.7,86.1,433.2,"2,739.4",403.3,"2,128.0",208.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,Metropolitan Statistical Area,,"6,202,680",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,Metropolitan Statistical Area,Area actually reporting,99.8%,"25,286",324,"1,733","7,251","15,978","219,952","49,185","153,015","17,752"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,Metropolitan Statistical Area,Estimated total,100.0%,"25,312",324,"1,735","7,257","15,996","220,275","49,249","153,254","17,772"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,Cities outside metropolitan areas,,"125,367",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,ARIZONA,Area actually reporting,78.9%,"1,909",25,417,88,"1,379","7,424","2,259","4,199",966
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,ARIZONA,Estimated total,100.0%,"2,418",32,528,111,"1,747","9,405","2,862","5,319","1,224"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,Nonmetropolitan counties,,"225,208",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,ARIZONA,Area actually reporting,100.0%,378,2,14,18,344,"2,250",823,"1,265",162
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,State Total,,"6,553,255","28,108",358,"2,277","7,386","18,087","231,930","52,934","159,838","19,158"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARIZONA,ARIZONA,"Rate per 100,000 inhabitants",,428.9,5.5,34.7,112.7,276.0,"3,539.2",807.8,"2,439.1",292.3
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,Metropolitan Statistical Area,,"1,782,720",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,Metropolitan Statistical Area,Area actually reporting,92.5%,"9,710",118,801,"1,894","6,897","71,252","19,357","48,012","3,883"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"10,163",122,853,"1,913","7,275","73,787","20,322","49,371","4,094"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,Cities outside metropolitan areas,,"510,920",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,ARKANSAS,Area actually reporting,98.7%,"2,273",33,231,342,"1,667","21,509","7,274","13,549",686
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,ARKANSAS,Estimated total,100.0%,"2,303",33,234,347,"1,689","21,796","7,371","13,730",695
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,Nonmetropolitan counties,,"655,491",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,ARKANSAS,Area actually reporting,89.0%,"1,217",16,142,53,"1,006","10,995","3,734","6,429",832
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,ARKANSAS,Estimated total,100.0%,"1,369",18,160,60,"1,131","12,358","4,197","7,226",935
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,State Total,,"2,949,131","13,835",173,"1,247","2,320","10,095","107,941","31,890","70,327","5,724"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ARKANSAS,ARKANSAS,"Rate per 100,000 inhabitants",,469.1,5.9,42.3,78.7,342.3,"3,660.1","1,081.3","2,384.7",194.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,Metropolitan Statistical Area,,"37,191,572",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,Metropolitan Statistical Area,Area actually reporting,99.9%,"157,689","1,852","7,562","56,074","92,201","1,028,710","239,283","622,803","166,624"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,Metropolitan Statistical Area,Estimated total,100.0%,"157,749","1,852","7,565","56,094","92,238","1,029,164","239,392","623,083","166,689"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,Cities outside metropolitan areas,,"277,160",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"1,573",9,118,268,"1,178","10,573","2,727","7,078",768
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,Nonmetropolitan counties,,"572,698",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,CALIFORNIA,Area actually reporting,100.0%,"1,622",23,154,159,"1,286","9,728","3,648","4,929","1,151"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,State Total,,"38,041,430","160,944","1,884","7,837","56,521","94,702","1,049,465","245,767","635,090","168,608"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CALIFORNIA,CALIFORNIA,"Rate per 100,000 inhabitants",,423.1,5.0,20.6,148.6,248.9,"2,758.7",646.1,"1,669.5",443.2
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,Metropolitan Statistical Area,,"4,492,292",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,Metropolitan Statistical Area,Area actually reporting,99.2%,"14,734",145,"1,936","3,297","9,356","126,058","23,715","90,810","11,533"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,Metropolitan Statistical Area,Estimated total,100.0%,"14,813",145,"1,948","3,309","9,411","127,022","23,859","91,563","11,600"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,Cities outside metropolitan areas,,"329,576",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,COLORADO,Area actually reporting,91.4%,723,7,104,72,540,"8,366","1,278","6,801",287
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,COLORADO,Estimated total,100.0%,792,8,114,79,591,"9,152","1,398","7,440",314
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,Nonmetropolitan counties,,"365,714",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,COLORADO,Area actually reporting,88.7%,370,8,45,6,311,"2,745",798,"1,789",158
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,COLORADO,Estimated total,100.0%,418,9,51,7,351,"3,096",900,"2,018",178
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,State Total,,"5,187,582","16,023",162,"2,113","3,395","10,353","139,270","26,157","101,021","12,092"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",COLORADO,COLORADO,"Rate per 100,000 inhabitants",,308.9,3.1,40.7,65.4,199.6,"2,684.7",504.2,"1,947.4",233.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,Metropolitan Statistical Area,,"2,933,569",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,Metropolitan Statistical Area,Area actually reporting,100.0%,"9,680",108,828,"3,609","5,135","69,896","13,021","50,840","6,035"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,Cities outside metropolitan areas,,"118,014",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,124,2,37,19,66,"2,326",378,"1,848",100
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,Nonmetropolitan counties,,"538,764",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,CONNECTICUT,Area actually reporting,100.0%,356,36,54,59,207,"4,612","1,312","2,986",314
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,State Total,,"3,590,347","10,160",146,919,"3,687","5,408","76,834","14,711","55,674","6,449"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",CONNECTICUT,CONNECTICUT,"Rate per 100,000 inhabitants",,283.0,4.1,25.6,102.7,150.6,"2,140.0",409.7,"1,550.7",179.6
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DELAWARE,Metropolitan Statistical Area,,"917,092",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DELAWARE,Metropolitan Statistical Area,Area actually reporting,100.0%,"5,020",57,243,"1,492","3,228","30,639","7,371","21,832","1,436"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DELAWARE,Cities outside metropolitan areas,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DELAWARE,Nonmetropolitan counties,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DELAWARE,State Total,,"917,092","5,020",57,243,"1,492","3,228","30,639","7,371","21,832","1,436"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DELAWARE,DELAWARE,"Rate per 100,000 inhabitants",,547.4,6.2,26.5,162.7,352.0,"3,340.9",803.7,"2,380.6",156.6
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DISTRICT OF COLUMBIA1,Metropolitan Statistical Area,,"632,323",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DISTRICT OF COLUMBIA1,Metropolitan Statistical Area,Area actually reporting,100.0%,"7,864",88,236,"4,036","3,504","30,736","3,519","23,556","3,661"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DISTRICT OF COLUMBIA1,Cities outside metropolitan areas,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DISTRICT OF COLUMBIA1,Nonmetropolitan counties,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DISTRICT OF COLUMBIA1,Total,,"632,323","7,864",88,236,"4,036","3,504","30,736","3,519","23,556","3,661"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",DISTRICT OF COLUMBIA1,DISTRICT OF COLUMBIA1,"Rate per 100,000 inhabitants",,"1,243.7",13.9,37.3,638.3,554.1,"4,860.8",556.5,"3,725.3",579.0
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,Metropolitan Statistical Area,,"18,601,449",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,Metropolitan Statistical Area,Area actually reporting,99.9%,"90,584",986,"5,012","23,480","61,106","613,039","146,949","429,515","36,575"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,Metropolitan Statistical Area,Estimated total,100.0%,"90,694",986,"5,017","23,513","61,178","613,951","147,151","430,173","36,627"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,Cities outside metropolitan areas,,"146,081",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,FLORIDA,Area actually reporting,98.5%,"1,066",7,60,189,810,"6,429","1,710","4,514",205
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,FLORIDA,Estimated total,100.0%,"1,082",7,61,192,822,"6,526","1,736","4,582",208
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,Nonmetropolitan counties,,"570,038",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,FLORIDA,Area actually reporting,100.0%,"2,311",16,182,184,"1,929","12,511","4,676","7,340",495
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,State Total,,"19,317,568","94,087","1,009","5,260","23,889","63,929","632,988","153,563","442,095","37,330"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",FLORIDA,FLORIDA,"Rate per 100,000 inhabitants",,487.1,5.2,27.2,123.7,330.9,"3,276.7",794.9,"2,288.6",193.2
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,Metropolitan Statistical Area,,"8,122,687",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,Metropolitan Statistical Area,Area actually reporting,99.5%,"31,515",492,"1,712","11,396","17,915","281,144","71,871","182,887","26,386"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,Metropolitan Statistical Area,Estimated total,100.0%,"31,675",492,"1,721","11,453","18,009","282,825","72,230","184,075","26,520"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,Cities outside metropolitan areas,,"663,946",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,GEORGIA,Area actually reporting,92.6%,"3,180",37,215,750,"2,178","29,697","7,137","21,745",815
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,GEORGIA,Estimated total,100.0%,"3,434",40,232,810,"2,352","32,074","7,708","23,486",880
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,Nonmetropolitan counties,,"1,133,312",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,GEORGIA,Area actually reporting,96.2%,"2,388",47,165,192,"1,984","22,544","6,592","14,859","1,093"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,GEORGIA,Estimated total,100.0%,"2,482",49,171,200,"2,062","23,430","6,851","15,443","1,136"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,State Total,,"9,919,945","37,591",581,"2,124","12,463","22,423","338,329","86,789","223,004","28,536"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",GEORGIA,GEORGIA,"Rate per 100,000 inhabitants",,378.9,5.9,21.4,125.6,226.0,"3,410.6",874.9,"2,248.0",287.7
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",HAWAII,Metropolitan Statistical Area,,"1,134,635",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",HAWAII,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,675",25,204,939,"1,507","34,679","6,039","25,607","3,033"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",HAWAII,Cities outside metropolitan areas,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",HAWAII,Nonmetropolitan counties,,"257,678",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",HAWAII,HAWAII,Area actually reporting,100.0%,655,4,81,101,469,"8,138","1,940","5,626",572
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",HAWAII,State Total,,"1,392,313","3,330",29,285,"1,040","1,976","42,817","7,979","31,233","3,605"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",HAWAII,HAWAII,"Rate per 100,000 inhabitants",,239.2,2.1,20.5,74.7,141.9,"3,075.2",573.1,"2,243.2",258.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,Metropolitan Statistical Area,,"1,046,821",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,Metropolitan Statistical Area,Area actually reporting,99.9%,"2,241",11,319,189,"1,722","23,187","4,920","17,332",935
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,Metropolitan Statistical Area,Estimated total,100.0%,"2,242",11,319,189,"1,723","23,198","4,922","17,341",935
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,Cities outside metropolitan areas,,"249,143",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,IDAHO,Area actually reporting,100.0%,679,6,94,47,532,"5,316","1,191","3,905",220
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,Nonmetropolitan counties,,"299,764",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,IDAHO,Area actually reporting,100.0%,397,12,66,7,312,"3,137","1,073","1,855",209
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,State Total,,"1,595,728","3,318",29,479,243,"2,567","31,651","7,186","23,101","1,364"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IDAHO,IDAHO,"Rate per 100,000 inhabitants",,207.9,1.8,30.0,15.2,160.9,"1,983.5",450.3,"1,447.7",85.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,Metropolitan Statistical Area,,"11,351,574",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,Metropolitan Statistical Area,Area actually reporting,96.7%,"49,174",718,"3,047","19,031","26,378","296,052","62,951","208,470","24,631"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,Metropolitan Statistical Area,Estimated total,100.0%,"49,982",726,"3,139","19,245","26,872","303,879","64,538","214,378","24,963"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,Cities outside metropolitan areas,,"833,251",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,ILLINOIS,Area actually reporting,87.8%,"2,323",10,290,182,"1,841","18,413","3,761","14,233",419
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,ILLINOIS,Estimated total,100.0%,"2,644",11,330,207,"2,096","20,960","4,281","16,202",477
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,Nonmetropolitan counties,,"690,430",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,ILLINOIS,Area actually reporting,94.3%,733,7,95,18,613,"6,768","2,153","4,379",236
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,ILLINOIS,Estimated total,100.0%,777,7,101,19,650,"7,174","2,282","4,642",250
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,State Total,,"12,875,255","53,403",744,"3,570","19,471","29,618","332,013","71,101","235,222","25,690"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",ILLINOIS,ILLINOIS,"Rate per 100,000 inhabitants",,414.8,5.8,27.7,151.2,230.0,"2,578.7",552.2,"1,826.9",199.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,Metropolitan Statistical Area,,"5,054,644",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,Metropolitan Statistical Area,Area actually reporting,89.5%,"19,898",267,"1,322","6,228","12,081","158,421","38,510","108,199","11,712"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,Metropolitan Statistical Area,Estimated total,100.0%,"20,537",275,"1,396","6,323","12,543","167,343","40,612","114,459","12,272"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,Cities outside metropolitan areas,,"524,374",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,INDIANA,Area actually reporting,86.2%,"1,015",10,140,184,681,"17,092","3,082","13,224",786
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,INDIANA,Estimated total,100.0%,"1,177",12,162,213,790,"19,832","3,576","15,344",912
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,Nonmetropolitan counties,,"958,316",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,INDIANA,Area actually reporting,78.6%,699,18,86,49,546,"8,538","2,693","5,470",375
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,INDIANA,Estimated total,100.0%,888,23,109,62,694,"10,857","3,424","6,956",477
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,State Total,,"6,537,334","22,602",310,"1,667","6,598","14,027","198,032","47,612","136,759","13,661"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",INDIANA,INDIANA,"Rate per 100,000 inhabitants",,345.7,4.7,25.5,100.9,214.6,"3,029.2",728.3,"2,092.0",209.0
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,Metropolitan Statistical Area,,"1,773,013",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,Metropolitan Statistical Area,Area actually reporting,98.4%,"5,356",31,625,829,"3,871","48,220","11,157","34,135","2,928"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,Metropolitan Statistical Area,Estimated total,100.0%,"5,394",31,631,830,"3,902","48,560","11,259","34,349","2,952"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,Cities outside metropolitan areas,,"604,442",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,IOWA,Area actually reporting,89.7%,"1,799",11,167,110,"1,511","14,660","3,600","10,434",626
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,IOWA,Estimated total,100.0%,"2,005",12,186,123,"1,684","16,339","4,012","11,629",698
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,Nonmetropolitan counties,,"696,731",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,IOWA,Area actually reporting,86.0%,613,2,46,8,557,"4,249","1,570","2,358",321
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,IOWA,Estimated total,100.0%,713,2,54,9,648,"4,940","1,825","2,742",373
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,State Total,,"3,074,186","8,112",45,871,962,"6,234","69,839","17,096","48,720","4,023"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",IOWA,IOWA,"Rate per 100,000 inhabitants",,263.9,1.5,28.3,31.3,202.8,"2,271.8",556.1,"1,584.8",130.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,Metropolitan Statistical Area,,"1,923,596",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,Metropolitan Statistical Area,Area actually reporting,99.2%,"7,207",67,689,"1,297","5,154","63,939","12,207","46,230","5,502"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,Metropolitan Statistical Area,Estimated total,100.0%,"7,239",67,693,"1,301","5,178","64,300","12,269","46,505","5,526"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,Cities outside metropolitan areas,,"620,655",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,KANSAS,Area actually reporting,96.1%,"2,233",9,277,178,"1,769","20,552","4,470","15,223",859
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,KANSAS,Estimated total,100.0%,"2,323",9,288,185,"1,841","21,384","4,651","15,839",894
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,Nonmetropolitan counties,,"341,654",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,KANSAS,Area actually reporting,97.6%,654,8,70,14,562,"4,904","1,802","2,753",349
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,KANSAS,Estimated total,100.0%,670,8,72,14,576,"5,026","1,847","2,821",358
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,State Total,,"2,885,905","10,232",84,"1,053","1,500","7,595","90,710","18,767","65,165","6,778"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KANSAS,KANSAS,"Rate per 100,000 inhabitants",,354.6,2.9,36.5,52.0,263.2,"3,143.2",650.3,"2,258.0",234.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,Metropolitan Statistical Area,,"2,530,495",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,Metropolitan Statistical Area,Area actually reporting,99.6%,"7,289",101,656,"2,925","3,607","79,535","18,970","55,714","4,851"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,Metropolitan Statistical Area,Estimated total,100.0%,"7,313",101,660,"2,937","3,615","79,876","19,048","55,961","4,867"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,Cities outside metropolitan areas,,"530,844",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,KENTUCKY,Area actually reporting,95.7%,936,17,146,363,410,"16,643","3,617","12,404",622
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,KENTUCKY,Estimated total,100.0%,979,18,153,379,429,"17,398","3,781","12,967",650
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,Nonmetropolitan counties,,"1,319,076",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,KENTUCKY,Area actually reporting,97.4%,"1,422",74,447,213,688,"14,173","6,582","6,470","1,121"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,KENTUCKY,Estimated total,100.0%,"1,460",76,459,219,706,"14,552","6,758","6,643","1,151"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,State Total,,"4,380,415","9,752",195,"1,272","3,535","4,750","111,826","29,587","75,571","6,668"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",KENTUCKY,KENTUCKY,"Rate per 100,000 inhabitants",,222.6,4.5,29.0,80.7,108.4,"2,552.9",675.4,"1,725.2",152.2
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,Metropolitan Statistical Area,,"3,823,577",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,Metropolitan Statistical Area,Area actually reporting,96.6%,"18,739",450,908,"4,972","12,409","136,314","35,438","93,929","6,947"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,Metropolitan Statistical Area,Estimated total,100.0%,"19,200",456,934,"5,059","12,751","140,631","36,395","97,127","7,109"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,Cities outside metropolitan areas,,"279,709",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,LOUISIANA,Area actually reporting,77.4%,"1,744",17,75,251,"1,401","10,168","2,717","7,222",229
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,LOUISIANA,Estimated total,100.0%,"2,254",22,97,324,"1,811","13,140","3,511","9,333",296
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,Nonmetropolitan counties,,"498,607",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,LOUISIANA,Area actually reporting,88.5%,"1,250",15,112,81,"1,042","8,110","1,977","5,712",421
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,LOUISIANA,Estimated total,100.0%,"1,414",17,127,92,"1,178","9,165","2,234","6,455",476
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,State Total,,"4,601,893","22,868",495,"1,158","5,475","15,740","162,936","42,140","112,915","7,881"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",LOUISIANA,LOUISIANA,"Rate per 100,000 inhabitants",,496.9,10.8,25.2,119.0,342.0,"3,540.6",915.7,"2,453.7",171.3
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,Metropolitan Statistical Area,,"777,579",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,Metropolitan Statistical Area,Area actually reporting,100.0%,982,15,200,324,443,"20,607","4,179","15,819",609
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,Cities outside metropolitan areas,,"272,036",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,MAINE,Area actually reporting,100.0%,402,4,114,75,209,"8,280","1,683","6,382",215
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,Nonmetropolitan counties,,"279,577",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,MAINE,Area actually reporting,100.0%,247,6,58,24,159,"4,474","1,599","2,704",171
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,State Total,,"1,329,192","1,631",25,372,423,811,"33,361","7,461","24,905",995
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MAINE,MAINE,"Rate per 100,000 inhabitants",,122.7,1.9,28.0,31.8,61.0,"2,509.9",561.3,"1,873.7",74.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,Metropolitan Statistical Area,,"5,729,173",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,Metropolitan Statistical Area,Area actually reporting,100.0%,"27,531",364,"1,188","10,040","15,939","158,189","32,580","110,726","14,883"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,Cities outside metropolitan areas,,"52,943",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,MARYLAND,Area actually reporting,100.0%,321,2,31,74,214,"1,934",438,"1,442",54
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,Nonmetropolitan counties,,"102,447",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,MARYLAND,Area actually reporting,100.0%,203,3,16,27,157,"1,908",714,"1,106",88
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,State Total,,"5,884,563","28,055",369,"1,235","10,141","16,310","162,031","33,732","113,274","15,025"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MARYLAND,MARYLAND,"Rate per 100,000 inhabitants",,476.8,6.3,21.0,172.3,277.2,"2,753.5",573.2,"1,924.9",255.3
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,Metropolitan Statistical Area,,"6,546,761",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,Metropolitan Statistical Area,Area actually reporting,98.0%,"26,233",120,"1,590","6,432","18,091","138,322","33,264","96,045","9,013"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,Metropolitan Statistical Area,Estimated total,100.0%,"26,648",120,"1,620","6,516","18,392","140,839","33,874","97,803","9,162"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,Cities outside metropolitan areas,,"91,869",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,87.2%,245,1,19,31,194,"1,963",581,"1,321",61
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,MASSACHUSETTS,Estimated total,100.0%,281,1,22,36,222,"2,250",666,"1,514",70
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,Nonmetropolitan counties,,"7,514",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,MASSACHUSETTS,Area actually reporting,100.0%,24,0,0,0,24,0,0,0,0
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,State Total,,"6,646,144","26,953",121,"1,642","6,552","18,638","143,089","34,540","99,317","9,232"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MASSACHUSETTS,MASSACHUSETTS,"Rate per 100,000 inhabitants",,405.5,1.8,24.7,98.6,280.4,"2,153.0",519.7,"1,494.4",138.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,Metropolitan Statistical Area,,"8,069,120",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,Metropolitan Statistical Area,Area actually reporting,98.7%,"40,674",659,"3,365","10,225","26,425","212,949","57,129","132,041","23,779"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,Metropolitan Statistical Area,Estimated total,100.0%,"40,963",660,"3,398","10,292","26,613","215,518","57,671","133,871","23,976"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,Cities outside metropolitan areas,,"609,654",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,MICHIGAN,Area actually reporting,87.0%,"1,381",8,376,70,927,"15,020","2,244","12,359",417
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,MICHIGAN,Estimated total,100.0%,"1,587",9,432,80,"1,066","17,268","2,580","14,209",479
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,Nonmetropolitan counties,,"1,204,586",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,MICHIGAN,Area actually reporting,89.8%,"2,131",18,682,56,"1,375","15,550","4,862","10,095",593
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,MICHIGAN,Estimated total,100.0%,"2,372",20,759,62,"1,531","17,315","5,414","11,241",660
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,State Total,,"9,883,360","44,922",689,"4,589","10,434","29,210","250,101","65,665","159,321","25,115"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MICHIGAN,MICHIGAN,"Rate per 100,000 inhabitants",,454.5,7.0,46.4,105.6,295.5,"2,530.5",664.4,"1,612.0",254.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,Metropolitan Statistical Area,,"4,129,414",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,Metropolitan Statistical Area,Area actually reporting,100.0%,,84,,"3,360","5,716","113,606","20,487","85,803","7,316"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,Cities outside metropolitan areas,,"491,959",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,MINNESOTA2,Area actually reporting,100.0%,,5,,95,996,"15,178","2,300","12,291",587
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,Nonmetropolitan counties,,"757,766",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,MINNESOTA2,Area actually reporting,100.0%,,10,,20,495,"9,368","2,591","6,222",555
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,State Total,,"5,379,139","12,419",99,"1,638","3,475","7,207","138,152","25,378","104,316","8,458"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MINNESOTA2,MINNESOTA2,"Rate per 100,000 inhabitants",,230.9,1.8,30.5,64.6,134.0,"2,568.3",471.8,"1,939.3",157.2
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,Metropolitan Statistical Area,,"1,346,110",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,Metropolitan Statistical Area,Area actually reporting,87.3%,"3,582",105,398,"1,374","1,705","39,268","11,667","25,114","2,487"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,Metropolitan Statistical Area,Estimated total,100.0%,"3,803",111,429,"1,421","1,842","42,480","12,719","27,092","2,669"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,Cities outside metropolitan areas,,"589,064",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,MISSISSIPPI,Area actually reporting,77.5%,"1,753",43,186,544,980,"20,580","6,820","13,051",709
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,MISSISSIPPI,Estimated total,100.0%,"2,261",55,240,702,"1,264","26,539","8,795","16,830",914
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,Nonmetropolitan counties,,"1,049,752",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,MISSISSIPPI,Area actually reporting,54.1%,932,29,83,87,733,"8,058","3,552","4,106",400
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,MISSISSIPPI,Estimated total,100.0%,"1,722",54,153,161,"1,354","14,887","6,562","7,586",739
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,State Total,,"2,984,926","7,786",220,822,"2,284","4,460","83,906","28,076","51,508","4,322"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSISSIPPI,MISSISSIPPI,"Rate per 100,000 inhabitants",,260.8,7.4,27.5,76.5,149.4,"2,811.0",940.6,"1,725.6",144.8
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,Metropolitan Statistical Area,,"4,459,490",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,Metropolitan Statistical Area,Area actually reporting,99.9%,"22,444",366,"1,236","5,480","15,362","158,787","32,998","111,426","14,363"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,Metropolitan Statistical Area,Estimated total,100.0%,"22,415",336,"1,236","5,480","15,363","158,804","33,001","111,439","14,364"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,Cities outside metropolitan areas,,"663,032",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,MISSOURI,Area actually reporting,99.8%,"2,799",14,147,246,"2,392","26,657","4,628","21,053",976
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,MISSOURI,Estimated total,100.0%,"2,805",14,147,247,"2,397","26,718","4,639","21,101",978
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,Nonmetropolitan counties,,"899,466",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,MISSOURI,Area actually reporting,100.0%,"1,935",39,128,55,"1,713","14,068","4,826","8,276",966
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,State Total,,"6,021,988","27,155",389,"1,511","5,782","19,473","199,590","42,466","140,816","16,308"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MISSOURI,MISSOURI,"Rate per 100,000 inhabitants",,450.9,6.5,25.1,96.0,323.4,"3,314.4",705.2,"2,338.4",270.8
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,Metropolitan Statistical Area,,"355,392",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,Metropolitan Statistical Area,Area actually reporting,100.0%,971,3,100,133,735,"12,486","1,851","9,838",797
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,Cities outside metropolitan areas,,"203,868",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,MONTANA,Area actually reporting,97.5%,894,11,180,39,664,"7,149",935,"5,795",419
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,MONTANA,Estimated total,100.0%,917,11,185,40,681,"7,335",959,"5,946",430
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,Nonmetropolitan counties,,"445,881",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,MONTANA,Area actually reporting,98.8%,838,13,93,18,714,"6,074","1,071","4,547",456
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,MONTANA,Estimated total,100.0%,848,13,94,18,723,"6,149","1,084","4,603",462
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,State Total,,"1,005,141","2,736",27,379,191,"2,139","25,970","3,894","20,387","1,689"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",MONTANA,MONTANA,"Rate per 100,000 inhabitants",,272.2,2.7,37.7,19.0,212.8,"2,583.7",387.4,"2,028.3",168.0
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,Metropolitan Statistical Area,,"1,177,981",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,Metropolitan Statistical Area,Area actually reporting,97.9%,"4,028",46,494,"1,077","2,411","38,248","6,483","28,160","3,605"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,Metropolitan Statistical Area,Estimated total,100.0%,"4,044",46,498,"1,078","2,422","38,569","6,551","28,391","3,627"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,Cities outside metropolitan areas,,"343,307",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,NEBRASKA,Area actually reporting,88.9%,532,3,157,40,332,"8,423","1,324","6,784",315
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,NEBRASKA,Estimated total,100.0%,599,3,177,45,374,"9,477","1,490","7,633",354
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,Nonmetropolitan counties,,"334,237",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,NEBRASKA,Area actually reporting,81.4%,139,3,29,6,101,"2,501",565,"1,801",135
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,NEBRASKA,Estimated total,100.0%,171,4,36,7,124,"3,072",694,"2,212",166
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,State Total,,"1,855,525","4,814",53,711,"1,130","2,920","51,118","8,735","38,236","4,147"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEBRASKA,NEBRASKA,"Rate per 100,000 inhabitants",,259.4,2.9,38.3,60.9,157.4,"2,754.9",470.8,"2,060.7",223.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,Metropolitan Statistical Area,,"2,487,122",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,Metropolitan Statistical Area,Area actually reporting,100.0%,"15,754",107,824,"4,852","9,971","71,770","20,521","41,708","9,541"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,Cities outside metropolitan areas,,"46,956",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,NEVADA,Area actually reporting,100.0%,305,12,39,19,235,"1,815",469,"1,187",159
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,Nonmetropolitan counties,,"224,853",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,NEVADA,Area actually reporting,100.0%,704,5,68,47,584,"3,925","1,130","2,477",318
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,State Total,,"2,758,931","16,763",124,931,"4,918","10,790","77,510","22,120","45,372","10,018"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEVADA,NEVADA,"Rate per 100,000 inhabitants",,607.6,4.5,33.7,178.3,391.1,"2,809.4",801.8,"1,644.6",363.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,Metropolitan Statistical Area,,"823,334",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,Metropolitan Statistical Area,Area actually reporting,94.6%,"1,571",10,265,360,936,"17,792","3,033","14,131",628
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,Metropolitan Statistical Area,Estimated total,100.0%,"1,610",10,274,365,961,"18,391","3,126","14,617",648
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,Cities outside metropolitan areas,,"444,509",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,87.6%,675,4,143,94,434,"9,999","1,763","7,954",282
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,NEW HAMPSHIRE,Estimated total,100.0%,770,5,163,107,495,"11,416","2,013","9,081",322
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,Nonmetropolitan counties,,"52,875",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,NEW HAMPSHIRE,Area actually reporting,4.4%,20,0,2,0,18,102,36,62,4
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,NEW HAMPSHIRE,Estimated total,100.0%,101,0,12,0,89,886,305,528,53
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,State Total,,"1,320,718","2,481",15,449,472,"1,545","30,693","5,444","24,226","1,023"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW HAMPSHIRE,NEW HAMPSHIRE,"Rate per 100,000 inhabitants",,187.9,1.1,34.0,35.7,117.0,"2,324.0",412.2,"1,834.3",77.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW JERSEY,Metropolitan Statistical Area,,"8,864,590",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW JERSEY,Metropolitan Statistical Area,Area actually reporting,99.9%,"25,707",388,"1,034","11,377","12,908","181,293","42,296","122,529","16,468"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW JERSEY,Metropolitan Statistical Area,Estimated total,100.0%,"25,727",388,"1,035","11,385","12,919","181,481","42,338","122,662","16,481"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW JERSEY,Cities outside metropolitan areas,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW JERSEY,Nonmetropolitan counties,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW JERSEY,State Total,,"8,864,590","25,727",388,"1,035","11,385","12,919","181,481","42,338","122,662","16,481"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW JERSEY,NEW JERSEY,"Rate per 100,000 inhabitants",,290.2,4.4,11.7,128.4,145.7,"2,047.3",477.6,"1,383.7",185.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,Metropolitan Statistical Area,,"1,388,294",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,Metropolitan Statistical Area,Area actually reporting,99.3%,"7,858",72,621,"1,507","5,658","52,207","14,091","33,866","4,250"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,Metropolitan Statistical Area,Estimated total,100.0%,"7,906",72,625,"1,511","5,698","52,507","14,161","34,072","4,274"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,Cities outside metropolitan areas,,"397,656",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,NEW MEXICO,Area actually reporting,99.0%,"2,941",36,265,282,"2,358","17,422","4,810","11,835",777
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,NEW MEXICO,Estimated total,100.0%,"2,970",36,268,285,"2,381","17,589","4,856","11,949",784
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,Nonmetropolitan counties,,"299,588",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,NEW MEXICO,Area actually reporting,84.0%,659,7,54,43,555,"4,197","1,988","1,869",340
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,NEW MEXICO,Estimated total,100.0%,784,8,64,51,661,"4,998","2,367","2,226",405
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,State Total,,"2,085,538","11,660",116,957,"1,847","8,740","75,094","21,384","48,247","5,463"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW MEXICO,NEW MEXICO,"Rate per 100,000 inhabitants",,559.1,5.6,45.9,88.6,419.1,"3,600.7","1,025.3","2,313.4",261.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,Metropolitan Statistical Area,,"18,146,686",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,Metropolitan Statistical Area,Area actually reporting,99.2%,"77,229",666,"2,518","28,297","45,748","344,885","57,785","270,535","16,565"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,Metropolitan Statistical Area,Estimated total,100.0%,"77,445",668,"2,533","28,361","45,883","347,280","58,219","272,403","16,658"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,Cities outside metropolitan areas,,"528,831",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,NEW YORK3,Area actually reporting,97.5%,"1,194",4,144,215,831,"15,505","2,910","12,298",297
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,NEW YORK3,Estimated total,100.0%,"1,224",4,148,220,852,"15,894","2,983","12,607",304
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,Nonmetropolitan counties,,"894,744",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,NEW YORK3,Area actually reporting,100.0%,941,12,167,74,688,"12,966","3,351","9,229",386
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,State Total,,"19,570,261","79,610",684,"2,848","28,655","47,423","376,140","64,553","294,239","17,348"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NEW YORK3,NEW YORK3,"Rate per 100,000 inhabitants",,406.8,3.5,14.6,146.4,242.3,"1,922.0",329.9,"1,503.5",88.6
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,Metropolitan Statistical Area,,"7,523,905",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,Metropolitan Statistical Area,Area actually reporting,99.2%,"26,943",329,"1,513","7,833","17,268","252,494","72,337","167,235","12,922"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,Metropolitan Statistical Area,Estimated total,100.0%,"27,088",329,"1,522","7,868","17,369","254,349","72,825","168,531","12,993"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,Cities outside metropolitan areas,,"642,467",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,NORTH CAROLINA,Area actually reporting,91.8%,"3,642",59,179,934,"2,470","33,453","9,006","23,277","1,170"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,NORTH CAROLINA,Estimated total,100.0%,"3,966",64,195,"1,017","2,690","36,434","9,809","25,351","1,274"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,Nonmetropolitan counties,,"1,585,701",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,NORTH CAROLINA,Area actually reporting,97.7%,"3,330",84,261,495,"2,490","36,926","16,298","18,818","1,810"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,NORTH CAROLINA,Estimated total,100.0%,"3,410",86,267,507,"2,550","37,811","16,689","19,269","1,853"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,State Total,,"9,752,073","34,464",479,"1,984","9,392","22,609","328,594","99,323","213,151","16,120"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH CAROLINA,NORTH CAROLINA,"Rate per 100,000 inhabitants",,353.4,4.9,20.3,96.3,231.8,"3,369.5","1,018.5","2,185.7",165.3
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,Metropolitan Statistical Area,,"343,667",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,100.0%,"1,063",6,164,105,788,"8,129","1,388","6,244",497
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,Cities outside metropolitan areas,,"161,463",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,94.1%,452,13,79,20,340,"3,861",527,"2,938",396
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,NORTH DAKOTA,Estimated total,100.0%,480,14,84,21,361,"4,104",560,"3,123",421
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,Nonmetropolitan counties,,"194,498",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,NORTH DAKOTA,Area actually reporting,99.4%,168,8,24,5,131,"1,819",426,"1,161",232
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,NORTH DAKOTA,Estimated total,100.0%,169,8,24,5,132,"1,830",429,"1,168",233
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,State Total,,"699,628","1,712",28,272,131,"1,281","14,063","2,377","10,535","1,151"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",NORTH DAKOTA,NORTH DAKOTA,"Rate per 100,000 inhabitants",,244.7,4.0,38.9,18.7,183.1,"2,010.1",339.8,"1,505.8",164.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,Metropolitan Statistical Area,,"9,153,765",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,Metropolitan Statistical Area,Area actually reporting,93.4%,"30,974",446,"3,052","14,314","13,162","284,666","84,284","183,037","17,345"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,Metropolitan Statistical Area,Estimated total,100.0%,"31,824",454,"3,183","14,629","13,558","300,466","87,578","195,002","17,886"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,Cities outside metropolitan areas,,"1,039,632",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,OHIO,Area actually reporting,80.0%,"1,302",12,233,368,689,"30,130","6,707","22,769",654
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,OHIO,Estimated total,100.0%,"1,627",15,291,460,861,"37,668","8,385","28,465",818
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,Nonmetropolitan counties,,"1,350,828",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,OHIO,Area actually reporting,97.6%,"1,116",25,180,142,769,"21,225","7,278","13,158",789
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,OHIO,Estimated total,100.0%,"1,144",26,184,146,788,"21,749","7,458","13,483",808
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,State Total,,"11,544,225","34,595",495,"3,658","15,235","15,207","359,883","103,421","236,950","19,512"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OHIO,OHIO,"Rate per 100,000 inhabitants",,299.7,4.3,31.7,132.0,131.7,"3,117.4",895.9,"2,052.5",169.0
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,Metropolitan Statistical Area,,"2,465,038",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,Metropolitan Statistical Area,Area actually reporting,100.0%,"13,374",171,"1,124","2,858","9,221","94,951","26,135","59,466","9,350"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,Cities outside metropolitan areas,,"722,935",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,OKLAHOMA,Area actually reporting,99.9%,"3,541",25,348,334,"2,834","26,958","6,760","18,703","1,495"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,OKLAHOMA,Estimated total,100.0%,"3,544",25,348,334,"2,837","26,989","6,768","18,724","1,497"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,Nonmetropolitan counties,,"626,847",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,OKLAHOMA,Area actually reporting,100.0%,984,20,116,39,809,"7,803","2,828","4,258",717
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,State Total,,"3,814,820","17,902",216,"1,588","3,231","12,867","129,743","35,731","82,448","11,564"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OKLAHOMA,OKLAHOMA,"Rate per 100,000 inhabitants",,469.3,5.7,41.6,84.7,337.3,"3,401.0",936.6,"2,161.3",303.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,Metropolitan Statistical Area,,"3,241,382",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,Metropolitan Statistical Area,Area actually reporting,99.9%,"8,356",73,965,"2,216","5,102","106,863","17,850","79,987","9,026"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,Metropolitan Statistical Area,Estimated total,100.0%,"8,363",73,966,"2,218","5,106","106,966","17,866","80,066","9,034"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,Cities outside metropolitan areas,,"306,270",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,OREGON,Area actually reporting,89.2%,837,12,107,143,575,"11,997","2,247","9,115",635
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,OREGON,Estimated total,100.0%,938,13,120,160,645,"13,451","2,519","10,220",712
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,Nonmetropolitan counties,,"351,701",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,OREGON,Area actually reporting,98.4%,346,6,53,34,253,"5,221","1,492","3,279",450
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,OREGON,Estimated total,100.0%,352,6,54,35,257,"5,306","1,516","3,333",457
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,State Total,,"3,899,353","9,653",92,"1,140","2,413","6,008","125,723","21,901","93,619","10,203"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",OREGON,OREGON,"Rate per 100,000 inhabitants",,247.6,2.4,29.2,61.9,154.1,"3,224.2",561.7,"2,400.9",261.7
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,Metropolitan Statistical Area,,"11,253,278",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,Metropolitan Statistical Area,Area actually reporting,99.4%,"41,344",648,"2,800","15,353","22,543","250,881","50,686","186,047","14,148"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,Metropolitan Statistical Area,Estimated total,100.0%,"41,463",649,"2,807","15,387","22,620","252,060","50,881","186,992","14,187"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,Cities outside metropolitan areas,,"684,242",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,97.2%,"1,835",7,127,171,"1,530","12,595","2,200","10,096",299
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,PENNSYLVANIA,Estimated total,100.0%,"1,888",7,131,176,"1,574","12,956","2,263","10,385",308
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,Nonmetropolitan counties,,"826,016",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,PENNSYLVANIA,Area actually reporting,100.0%,"1,152",29,389,110,624,"11,480","3,715","7,232",533
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,State Total,,"12,763,536","44,503",685,"3,327","15,673","24,818","276,496","56,859","204,609","15,028"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PENNSYLVANIA,PENNSYLVANIA,"Rate per 100,000 inhabitants",,348.7,5.4,26.1,122.8,194.4,"2,166.3",445.5,"1,603.1",117.7
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PUERTO RICO,Metropolitan Statistical Area,,"3,509,567",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PUERTO RICO,Metropolitan Statistical Area,Area actually reporting,100.0%,"9,713",948,29,"6,191","2,545","49,475","14,465","29,239","5,771"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PUERTO RICO,Cities outside metropolitan areas,,"157,517",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PUERTO RICO,PUERTO RICO,Area actually reporting,100.0%,328,30,3,107,188,"2,204",822,"1,306",76
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PUERTO RICO,Total,,"3,667,084","10,041",978,32,"6,298","2,733","51,679","15,287","30,545","5,847"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",PUERTO RICO,PUERTO RICO,"Rate per 100,000 inhabitants",,273.8,26.7,0.9,171.7,74.5,"1,409.3",416.9,833.0,159.4
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",RHODE ISLAND,Metropolitan Statistical Area,,"1,050,292",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",RHODE ISLAND,Metropolitan Statistical Area,Area actually reporting,100.0%,"2,628",32,281,713,"1,602","26,928","5,947","18,419","2,562"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",RHODE ISLAND,Cities outside metropolitan areas,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",RHODE ISLAND,Nonmetropolitan counties,,None,,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",RHODE ISLAND,RHODE ISLAND,Area actually reporting,100.0%,23,2,7,0,14,89,2,21,66
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",RHODE ISLAND,State Total,,"1,050,292","2,651",34,288,713,"1,616","27,017","5,949","18,440","2,628"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",RHODE ISLAND,RHODE ISLAND,"Rate per 100,000 inhabitants",,252.4,3.2,27.4,67.9,153.9,"2,572.3",566.4,"1,755.7",250.2
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,Metropolitan Statistical Area,,"3,956,484",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,Metropolitan Statistical Area,Area actually reporting,99.8%,"21,468",260,"1,423","3,852","15,933","149,317","35,981","102,169","11,167"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,Metropolitan Statistical Area,Estimated total,100.0%,"21,497",260,"1,425","3,857","15,955","149,576","36,027","102,369","11,180"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,Cities outside metropolitan areas,,"211,649",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,98.0%,"2,193",20,92,379,"1,702","12,872","3,389","8,985",498
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,SOUTH CAROLINA,Estimated total,100.0%,"2,238",20,94,387,"1,737","13,138","3,459","9,171",508
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,Nonmetropolitan counties,,"555,590",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,SOUTH CAROLINA,Area actually reporting,100.0%,"2,662",44,160,245,"2,213","17,836","5,600","10,723","1,513"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,State Total,,"4,723,723","26,397",324,"1,679","4,489","19,905","180,550","45,086","122,263","13,201"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH CAROLINA,SOUTH CAROLINA,"Rate per 100,000 inhabitants",,558.8,6.9,35.5,95.0,421.4,"3,822.2",954.5,"2,588.3",279.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,Metropolitan Statistical Area,,"388,098",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,Metropolitan Statistical Area,Area actually reporting,99.3%,"1,248",6,300,125,817,"10,297","1,901","7,776",620
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,Metropolitan Statistical Area,Estimated total,100.0%,"1,252",6,301,125,820,"10,336","1,906","7,808",622
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,Cities outside metropolitan areas,,"219,788",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,77.7%,"1,179",10,232,28,909,"5,231",956,"3,948",327
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,"1,238",11,244,29,954,"5,492","1,004","4,145",343
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,Nonmetropolitan counties,,"225,468",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,SOUTH DAKOTA,Area actually reporting,77.7%,149,6,31,3,109,"1,041",270,693,78
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,SOUTH DAKOTA,Estimated total,100.0%,192,8,40,4,140,"1,340",348,892,100
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,State Total,,"833,354","2,682",25,585,158,"1,914","17,168","3,258","12,845","1,065"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",SOUTH DAKOTA,SOUTH DAKOTA,"Rate per 100,000 inhabitants",,321.8,3.0,70.2,19.0,229.7,"2,060.1",391.0,"1,541.4",127.8
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,Metropolitan Statistical Area,,"4,953,032",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,Metropolitan Statistical Area,Area actually reporting,100.0%,"35,306",327,"1,701","7,678","25,600","175,516","44,094","120,691","10,731"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,Cities outside metropolitan areas,,"516,983",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"3,261",17,185,360,"2,699","23,311","5,195","17,271",845
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,Nonmetropolitan counties,,"986,228",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,TENNESSEE,Area actually reporting,100.0%,"2,983",44,146,131,"2,662","18,837","6,892","10,541","1,404"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,State Total,,"6,456,243","41,550",388,"2,032","8,169","30,961","217,664","56,181","148,503","12,980"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TENNESSEE,TENNESSEE,"Rate per 100,000 inhabitants",,643.6,6.0,31.5,126.5,479.6,"3,371.4",870.2,"2,300.1",201.0
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,Metropolitan Statistical Area,,"22,993,976",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,Metropolitan Statistical Area,Area actually reporting,99.9%,"97,603","1,016","6,791","29,625","60,171","805,325","184,006","559,621","61,698"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,Metropolitan Statistical Area,Estimated total,100.0%,"97,633","1,016","6,794","29,632","60,191","805,678","184,076","559,884","61,718"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,Cities outside metropolitan areas,,"1,427,466",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,TEXAS,Area actually reporting,99.0%,"5,747",58,583,605,"4,501","45,308","11,193","32,545","1,570"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,TEXAS,Estimated total,100.0%,"5,796",59,588,608,"4,541","45,684","11,288","32,817","1,579"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,Nonmetropolitan counties,,"1,637,761",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,TEXAS,Area actually reporting,98.3%,"2,995",68,323,140,"2,464","24,276","9,285","13,321","1,670"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,TEXAS,Estimated total,100.0%,"3,047",69,329,142,"2,507","24,697","9,446","13,552","1,699"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,State Total,,"26,059,203","106,476","1,144","7,711","30,382","67,239","876,059","204,810","606,253","64,996"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",TEXAS,TEXAS,"Rate per 100,000 inhabitants",,408.6,4.4,29.6,116.6,258.0,"3,361.8",785.9,"2,326.4",249.4
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,Metropolitan Statistical Area,,"2,545,653",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,Metropolitan Statistical Area,Area actually reporting,99.9%,"5,226",36,833,"1,071","3,286","78,305","11,682","60,984","5,639"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,Metropolitan Statistical Area,Estimated total,100.0%,"5,231",36,834,"1,072","3,289","78,406","11,697","61,064","5,645"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,Cities outside metropolitan areas,,"135,463",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,UTAH,Area actually reporting,92.2%,297,9,53,19,216,"3,677",611,"2,913",153
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,UTAH,Estimated total,100.0%,322,10,57,21,234,"3,986",662,"3,158",166
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,Nonmetropolitan counties,,"174,171",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,UTAH,Area actually reporting,95.6%,310,4,50,7,249,"2,899",558,"2,161",180
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,UTAH,Estimated total,100.0%,323,4,52,7,260,"3,032",584,"2,260",188
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,State Total,,"2,855,287","5,876",50,943,"1,100","3,783","85,424","12,943","66,482","5,999"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",UTAH,UTAH,"Rate per 100,000 inhabitants",,205.8,1.8,33.0,38.5,132.5,"2,991.8",453.3,"2,328.4",210.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,Metropolitan Statistical Area,,"212,393",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,Metropolitan Statistical Area,Area actually reporting,100.0%,344,1,45,51,247,"6,035","1,374","4,524",137
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,Cities outside metropolitan areas,,"205,469",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,VERMONT,Area actually reporting,98.5%,359,3,50,47,259,"5,337","1,125","4,065",147
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,VERMONT,Estimated total,100.0%,365,3,51,48,263,"5,417","1,142","4,126",149
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,Nonmetropolitan counties,,"208,149",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,VERMONT,Area actually reporting,100.0%,184,4,25,13,142,"3,564","1,449","1,966",149
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,State Total,,"626,011",893,8,121,112,652,"15,016","3,965","10,616",435
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VERMONT,VERMONT,"Rate per 100,000 inhabitants",,142.6,1.3,19.3,17.9,104.2,"2,398.7",633.4,"1,695.8",69.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,Metropolitan Statistical Area,,"7,105,199",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,Metropolitan Statistical Area,Area actually reporting,100.0%,"13,912",270,"1,247","4,432","7,963","157,319","24,903","124,181","8,235"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,Cities outside metropolitan areas,,"267,746",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,VIRGINIA,Area actually reporting,100.0%,614,14,76,145,379,"8,592","1,478","6,852",262
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,Nonmetropolitan counties,,"812,922",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,VIRGINIA,Area actually reporting,100.0%,"1,038",30,129,129,750,"11,074","3,130","7,365",579
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,State Total,,"8,185,867","15,564",314,"1,452","4,706","9,092","176,985","29,511","138,398","9,076"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",VIRGINIA,VIRGINIA,"Rate per 100,000 inhabitants",,190.1,3.8,17.7,57.5,111.1,"2,162.1",360.5,"1,690.7",110.9
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,Metropolitan Statistical Area,,"6,179,551",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,Metropolitan Statistical Area,Area actually reporting,100.0%,"18,830",180,"1,927","5,543","11,180","231,017","54,547","151,575","24,895"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,Cities outside metropolitan areas,,"296,203",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,WASHINGTON,Area actually reporting,97.7%,912,11,169,147,585,"13,080","3,121","9,084",875
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,WASHINGTON,Estimated total,100.0%,934,11,173,151,599,"13,394","3,196","9,302",896
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,Nonmetropolitan counties,,"421,258",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,WASHINGTON,Area actually reporting,100.0%,622,15,93,51,463,"7,922","2,982","4,329",611
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,State Total,,"6,897,012","20,386",206,"2,193","5,745","12,242","252,333","60,725","165,206","26,402"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WASHINGTON,WASHINGTON,"Rate per 100,000 inhabitants",,295.6,3.0,31.8,83.3,177.5,"3,658.6",880.5,"2,395.3",382.8
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,Metropolitan Statistical Area,,"1,135,886",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,Metropolitan Statistical Area,Area actually reporting,93.4%,"3,725",43,280,668,"2,734","30,063","7,721","20,890","1,452"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,Metropolitan Statistical Area,Estimated total,100.0%,"3,929",44,295,698,"2,892","32,190","8,152","22,506","1,532"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,Cities outside metropolitan areas,,"190,838",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,77.8%,582,6,32,61,483,"3,543",732,"2,717",94
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,748,8,41,78,621,"4,554",941,"3,492",121
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,Nonmetropolitan counties,,"528,689",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,WEST VIRGINIA,Area actually reporting,90.7%,"1,080",18,77,56,929,"6,469","1,993","3,972",504
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,WEST VIRGINIA,Estimated total,100.0%,"1,192",20,85,62,"1,025","7,134","2,198","4,380",556
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,State Total,,"1,855,413","5,869",72,421,838,"4,538","43,878","11,291","30,378","2,209"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WEST VIRGINIA,WEST VIRGINIA,"Rate per 100,000 inhabitants",,316.3,3.9,22.7,45.2,244.6,"2,364.9",608.5,"1,637.3",119.1
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,Metropolitan Statistical Area,,"4,213,426",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,Metropolitan Statistical Area,Area actually reporting,98.8%,"14,089",162,950,"4,486","8,491","110,111","21,625","81,274","7,212"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,Metropolitan Statistical Area,Estimated total,100.0%,"14,151",163,955,"4,503","8,530","111,286","21,784","82,261","7,241"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,Cities outside metropolitan areas,,"636,932",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,WISCONSIN,Area actually reporting,97.1%,"1,038",5,127,83,823,"18,047","2,495","15,133",419
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,WISCONSIN,Estimated total,100.0%,"1,068",5,131,85,847,"18,581","2,569","15,581",431
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,Nonmetropolitan counties,,"876,040",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,WISCONSIN,Area actually reporting,97.3%,822,5,129,33,655,"10,358","3,495","6,334",529
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,WISCONSIN,Estimated total,100.0%,845,5,133,34,673,"10,646","3,592","6,510",544
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,State Total,,"5,726,398","16,064",173,"1,219","4,622","10,050","140,513","27,945","104,352","8,216"
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WISCONSIN,WISCONSIN,"Rate per 100,000 inhabitants",,280.5,3.0,21.3,80.7,175.5,"2,453.8",488.0,"1,822.3",143.5
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,Metropolitan Statistical Area,,"171,501",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,Metropolitan Statistical Area,Area actually reporting,100.0%,379,5,40,39,295,"5,062",899,"3,886",277
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,Cities outside metropolitan areas,,"242,167",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,WYOMING,Area actually reporting,96.5%,567,8,93,12,454,"6,422",830,"5,375",217
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,WYOMING,Estimated total,100.0%,586,8,96,12,470,"6,652",860,"5,567",225
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,Nonmetropolitan counties,,"162,744",,,,,,,,,
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,WYOMING,Area actually reporting,92.6%,182,1,17,9,155,"1,397",339,982,76
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,WYOMING,Estimated total,100.0%,196,1,18,10,167,"1,508",366,"1,060",82
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,State Total,,"576,412","1,161",14,154,61,932,"13,222","2,125","10,513",584
+Criminal Justice Information Services Division,"Feedback |
+Contact Us |
+Data Quality Guidelines |
+UCR Home",WYOMING,WYOMING,"Rate per 100,000 inhabitants",,201.4,2.4,26.7,10.6,161.7,"2,293.8",368.7,"1,823.9",101.3
